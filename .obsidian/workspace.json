@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "476e2ae2c1336a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d4ac9b16bc6754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd4b3169383199e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT_Tips/cheatSheet.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cheatSheet"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e61e38b017ee87a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "af8f1e1dc1987206",
+        "type": "tabs",
+        "dimension": 28.154761904761905,
+        "children": [
+          {
+            "id": "757aa43bcef16e92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb8faa5f59647d3e",
+        "type": "tabs",
+        "dimension": 71.8452380952381,
+        "children": [
+          {
+            "id": "6b45e77ca2fed21c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44b6e3dc44a13ce5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06b55af7666cf620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "69b430577b55bc8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b140c34ab142c816",
+        "type": "tabs",
+        "dimension": 43.142857142857146,
+        "children": [
+          {
+            "id": "99bb7adbccad1c19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Degree considerations/Degree path.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Degree path"
+            }
+          },
+          {
+            "id": "7d2cda296967b570",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dcc1da00150af943",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "aad447aeeb50f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dc6fe151d061362f",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "08fb5ade78b1bf82",
+        "type": "tabs",
+        "dimension": 56.85714285714286,
+        "children": [
+          {
+            "id": "ee4c84cbb9dac2ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coding Assignments/Iterations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Iterations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ddd4b3169383199e",
+  "lastOpenFiles": [
+    "Coding Assignments/Iterations.md",
+    "Degree considerations/Degree path.md",
+    "GIT_Tips/cheatSheet.md",
+    "z-Images/Pasted image 20241208113224.png",
+    "z-Images/Pasted image 20241208103922.png",
+    "GIT_Tips",
+    "Coding Assignments",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
+    "z-Images",
+    "1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Microsoft 365.md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/GPS (Global Positioning System).md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Hotspot.md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Updates.md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (5G).md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (4G and LTE).md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (3G).md",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
+    "1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
+    "1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Connecting Mobile Devices.md",
+    "A+ Core 1 Exam Objectives.md",
+    "Degree considerations",
+    "1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
+    "5.0 Hardware and Network Troubleshooting/5.0 Hardware and Network Troubleshooting.md",
+    "Untitled 3/Untitled 3.canvas",
+    "4.0 Virtualization and Cloud Computing/4.0 Virtualization and Cloud Computing.md",
+    "3.0 Hardware/3.0 Hardware.md",
+    "2.0 Networking/2.0 Networking.md",
+    "5.0 Hardware and Network Troubleshooting",
+    "4.0 Virtualization and Cloud Computing",
+    "3.0 Hardware",
+    "2.0 Networking",
+    "1.0 laptop Mobile Devices/1.4 Cellular Standards",
+    "mo.md",
+    "1.0 laptop Mobile Devices",
+    "1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
+    "1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md"
+  ]
+}

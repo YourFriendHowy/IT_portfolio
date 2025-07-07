@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "nativeMenus": true,
+  "translucency": false,
+  "showViewHeader": true,
+  "cssTheme": "Tom's Theme",
+  "baseFontSizeAction": false,
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Pin-document",
+    "dnd5e-compendium",
+    "HoverProperties_w-columns",
+    "supercharged-links-gen",
+    "TabCollapse",
+    "5e-callouts",
+    "MCL-Multi_Column"
+  ]
+}
