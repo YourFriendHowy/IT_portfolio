@@ -2,10 +2,8 @@
   "obsidian-excalidraw-plugin",
   "homepage",
   "obsidian-hover-editor",
-  "obsidian-leaflet-plugin",
   "obsidian-style-settings",
   "obsidian42-brat",
-  "obsidian-admonition",
   "obsidian-view-mode-by-frontmatter",
   "folder-notes",
   "obsidian-icon-folder",
@@ -22,5 +20,7 @@
   "obsidian-kanban",
   "obsidian-plugin-toc",
   "execute-code",
-  "code-styler"
+  "code-styler",
+  "obsidian-admonition",
+  "obsidian-git"
 ]
