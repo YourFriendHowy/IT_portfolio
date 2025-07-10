@@ -2,7 +2,12 @@
   "pluginList": [
     "Lisandra-dev/obsidian-snippet-downloader"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Lisandra-dev/obsidian-snippet-downloader",
+      "version": ""
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
