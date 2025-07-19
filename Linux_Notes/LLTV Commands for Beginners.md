@@ -1,6 +1,9 @@
 
 > [!NOTE] Things to Know
+> *May not be accurate*
 > - Common for Folders and Directories to be colored blue.
+> - White are files
+> - Green are programs or binary
 
 | Command  | Meaning                      | Function                                      | Shortcuts |
 | -------- | ---------------------------- | --------------------------------------------- | --------- |
@@ -11,20 +14,20 @@
 | pwd      | Print Working Directory      | Tells you where you are right now             |           |
 | cd       | Change Directory             | Lets you change your directory location       |           |
 # LS
-### Arguments
+### Arguments (flags)
 
-| Argument | Effect                                                                | alias |
-| -------- | --------------------------------------------------------------------- | ----- |
-| -l       | long listing, shows more details and puts every item on its own line. | ll    |
-|          |                                                                       |       |
+| Flag | Effect                                                                | Alias |
+| ---- | --------------------------------------------------------------------- | ----- |
+| -l   | long listing, shows more details and puts every item on its own line. | ll    |
+|      |                                                                       |       |
 
 # home (~)
 
 > [!tip] 
-> ~  refers to th
+> "~"  refers to the home directory, for example "cd ~" will return you to the home directory.
 
 
 # CD 
 > [!tip]
-> cd ~ will return you to the home directory
+> 'cd ~' will return you to the home directory
 
