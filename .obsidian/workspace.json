@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
-                "mode": "preview",
+                "file": "Linux_Notes/LLTV Commands for Beginners.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mobile Device Accessories"
+              "title": "LLTV Commands for Beginners"
             }
           }
         ],
@@ -215,11 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74c53671a210d1c",
+  "active": "32af2e3c8dad1571",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
+    "Linux_Notes/LLTV Commands for Beginners.md",
+    "Linux_Notes",
     "CompTIA_A+/TestOut/Untitled.md",
     "CompTIA_A+/TestOut/2.0 PC Technician Responsibilities",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
     "CompTIA_A+/TestOut",
     "CompTIA_A+/P. Messer",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Connecting Mobile Devices.md",
@@ -253,7 +255,6 @@
     "COMS-170 Intro to Programming/Coding Assignments/Program1.py",
     "COMS-170 Intro to Programming/Coding Assignments/def BestTeam().py",
     "COMS-170 Intro to Programming/Coding Assignments/examscratch.py",
-    "COMS-170 Intro to Programming/Coding Assignments/Final Program.py",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
