@@ -165,6 +165,12 @@ Is a text editor
 | -k   | Invalidate timestamp | Forget cached credentials (forces password prompt)           |       |
 | -v   | Validate             | Update user's cached credentials without running a command   |       |
 # systemctl
-| Keyword/Flag | Meaning | Effect | Alias |
-| ------------ | ------- | ------ | ----- |
-| status       |         |        |       |
+*[[systemd#systemctl|Documentation]]* 
+
+| Keyword/Flag | Meaning | Effect                        | Alias |
+| ------------ | ------- | ----------------------------- | ----- |
+| status       |         | shows status of unit          |       |
+| disable      |         | disables unit startup on boot |       |
+| stop         |         | stops unit                    |       |
+| start        |         | starts unit                   |       |
+| restart      |         | restarts unit                 |       |
