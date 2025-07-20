@@ -5,24 +5,24 @@
 > - White are files
 > - Green are programs or binary
 
-| Command  | Meaning                      | Function                                                              | Shortcuts          |
-| -------- | ---------------------------- | --------------------------------------------------------------------- | ------------------ |
-| LS       | List Storage                 | Lists files and folders within folder                                 |                    |
-| LS /     | List Storage /Base           | Lists folders and files at the base of the OS                         |                    |
-| LS /home | List storage /home Directory | Will list user directory                                              |                    |
-| clear    | clears terminal              | clears Terminal                                                       | ctrl+l             |
-| pwd      | Print Working Directory      | Tells you where you are right now                                     |                    |
-| cd       | Change Directory             | Lets you change your directory location                               | TAB(auto-complete) |
-| touch    |                              | creates a new file with filename you enter. file cannot already exist |                    |
-| nano     |                              | opens text editor                                                     |                    |
-| cat      | Concatenate                  | shows contents of file                                                |                    |
-| which    |                              | used to search for command presence. Shows full path                  |                    |
-| vim      | Vi IMproved                  | text editor                                                           |                    |
-| cp       | copy                         | duplicates a file from one location to another                        |                    |
-| diff     | difference                   | outputs lines that differ                                             |                    |
-| rm       | remove                       | removes file entered after command                                    |                    |
-| mkdir    | make directory               | creates a new directory/folder                                        |                    |
-| mv       | move                         | moves file from one directory to another or used to rename a file.    |                    |
+| Command    | Meaning                      | Function                                                              | Shortcuts          |
+| ---------- | ---------------------------- | --------------------------------------------------------------------- | ------------------ |
+| [[#LS]]    | List Storage                 | Lists files and folders within folder                                 |                    |
+| LS /       | List Storage /Base           | Lists folders and files at the base of the OS                         |                    |
+| LS /home   | List storage /home Directory | Will list user directory                                              |                    |
+| clear      | clears terminal              | clears Terminal                                                       | ctrl+l             |
+| pwd        | Print Working Directory      | Tells you where you are right now                                     |                    |
+| [[#cd]]    | Change Directory             | Lets you change your directory location                               | TAB(auto-complete) |
+| [[#touch]] |                              | creates a new file with filename you enter. file cannot already exist |                    |
+| [[#nano]]  |                              | opens text editor                                                     |                    |
+| cat        | Concatenate                  | shows contents of file                                                |                    |
+| which      |                              | used to search for command presence. Shows full path                  |                    |
+| [[#vim]]   | Vi IMproved                  | text editor                                                           |                    |
+| [[#cp]]    | copy                         | duplicates a file from one location to another                        |                    |
+| diff       | difference                   | outputs lines that differ                                             |                    |
+| [[#rm]]    | remove                       | removes file entered after command                                    |                    |
+| mkdir      | make directory               | creates a new directory/folder                                        |                    |
+| [[#mv]]    | move                         | moves file from one directory to another or used to rename a file.    |                    |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -36,11 +36,12 @@
 
 # LS
 ### Arguments (flags)
+*can use multiples at once ie: -la longlists and shows all*
 
 | Flag | meaning      | Effect                                                  | Alias |
 | ---- | ------------ | ------------------------------------------------------- | ----- |
 | -l   | long listing | shows more details and puts every item on its own line. | ll    |
-|      |              |                                                         |       |
+| -a   | all          | shows all files and folders in directory                |       |
 
 # home (~)
 

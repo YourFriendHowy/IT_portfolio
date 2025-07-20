@@ -52,7 +52,7 @@
       {
         "id": "cb8faa5f59647d3e",
         "type": "tabs",
-        "dimension": 78.8604898828541,
+        "dimension": 39.43024494142705,
         "children": [
           {
             "id": "6b45e77ca2fed21c",
@@ -95,6 +95,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "a979a95382c63e5b",
+        "type": "tabs",
+        "dimension": 39.43024494142705,
+        "children": [
+          {
+            "id": "ee4c84cbb9dac2ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux_Notes/LLTV Commands for Beginners.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LLTV Commands for Beginners"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +129,6 @@
       {
         "id": "b140c34ab142c816",
         "type": "tabs",
-        "dimension": 43.142857142857146,
         "children": [
           {
             "id": "99bb7adbccad1c19",
@@ -168,28 +189,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "08fb5ade78b1bf82",
-        "type": "tabs",
-        "dimension": 56.85714285714286,
-        "children": [
-          {
-            "id": "ee4c84cbb9dac2ab",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CompTIA_A+/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Mobile Device Accessories"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
