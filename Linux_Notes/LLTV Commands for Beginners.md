@@ -23,6 +23,7 @@
 | [[#rm]]    | remove                       | removes file entered after command                                    |                    |
 | mkdir      | make directory               | creates a new directory/folder                                        |                    |
 | [[#mv]]    | move                         | moves file from one directory to another or used to rename a file.    |                    |
+| alias      |                              | lists current aliases                                                 |                    |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -32,6 +33,22 @@
 | ..       | represents parent directory                                                                                                 |
 | ~        | represents home directory                                                                                                   |
 
+# alias
+##### My Aliases
+*stored in .bash_aliases*
+
+| ..='cd ..'                        | changes directory to parent by entering '..'                |
+| --------------------------------- | ----------------------------------------------------------- |
+| ...='cd ../..'                    | changes directory to grandparent by entering '...'          |
+| c='clear'                         | clears terminal by entering 'c'                             |
+| obsidia='cd ~/repos/obsidia-bulk' | changes directory to my obsidia vault by entering 'obsidia' |
+| rst='source ~/.bashrc'            | resets bash by entering 'rst'                               |
+| edalias='nano .bash_aliases'      | opens .bash_aliases to be edited by entering 'edalias'      |
+|                                   |                                                             |
+|                                   |                                                             |
+|                                   |                                                             |
+|                                   |                                                             |
+|                                   |                                                             |
 
 
 # LS

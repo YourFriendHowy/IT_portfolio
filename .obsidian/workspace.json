@@ -4,26 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "252bb08e392750eb",
-        "type": "tabs",
+        "id": "c263cda75ff1b4d3",
+        "type": "split",
         "children": [
           {
-            "id": "32af2e3c8dad1571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux_Notes/Glossary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
+            "id": "252bb08e392750eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "32af2e3c8dad1571",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linux_Notes/LLTV Commands for Beginners.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "LLTV Commands for Beginners"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "d8872694134903ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d97086ccf0ead2ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linux_Notes/Permissions.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Permissions"
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -107,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Glossary.md",
+                "file": "Linux_Notes/Permissions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glossary"
+              "title": "Outline of Permissions"
             }
           }
         ]
@@ -214,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32af2e3c8dad1571",
+  "active": "d97086ccf0ead2ab",
   "lastOpenFiles": [
-    "Linux_Notes/LLTV Commands for Beginners.md",
     "Linux_Notes/Glossary.md",
+    "Linux_Notes/Permissions.md",
+    "Linux_Notes/LLTV Commands for Beginners.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
     "Linux_Notes",
     "CompTIA_A+/TestOut/Untitled.md",
@@ -248,7 +277,6 @@
     "COMS-170 Intro to Programming/Coding Assignments/Final Program.md",
     "COMS-170 Intro to Programming/Coding Assignments/program8.md",
     "COMS-170 Intro to Programming/Coding Assignments/program7.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program6.md",
     "COMS-170 Intro to Programming/Coding Assignments/Program3.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program2.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program1.py",
