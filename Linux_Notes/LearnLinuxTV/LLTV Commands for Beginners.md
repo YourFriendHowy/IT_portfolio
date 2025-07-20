@@ -35,6 +35,8 @@
 | [[#systemctl]] |                              |                                                                                                   |                                           |
 | head           |                              | reads first 10 lines of file                                                                      |                                           |
 | tail           |                              | reads last 10 lines of file                                                                       |                                           |
+| groups         |                              | list groups of user                                                                               |                                           |
+| adduser        |                              | creates new user                                                                                  |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
