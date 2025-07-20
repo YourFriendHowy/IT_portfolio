@@ -24,6 +24,8 @@
 | mkdir      | make directory               | creates a new directory/folder                                        |                    |
 | [[#mv]]    | move                         | moves file from one directory to another or used to rename a file.    |                    |
 | alias      |                              | lists current aliases                                                 |                    |
+| [[#chmod]] |                              | changes permissions                                                   |                    |
+|            |                              |                                                                       |                    |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -100,3 +102,14 @@ Is a text editor
 
 - '../file.txt .' moves file.txt from the parent directory to active directory.
 - is used to rename files. 'mv file.txt newname.txt' 
+
+# chmod
+
+| Flag | meaning             | Effect                                                                                     | Alias |
+| ---- | ------------------- | ------------------------------------------------------------------------------------------ | ----- |
+| +    | add permission      | +x, add execute permission<br>+r, add read permission<br>+w, add write permission          |       |
+| -    | remove permission   | +x, remove execute permission<br>+r, remove read permission<br>+w, remove write permission |       |
+| u    | user, owner of file | specify the owner ie u+x gives only the user permisions                                    |       |
+| g    | group               |                                                                                            |       |
+| o    | others              |                                                                                            |       |
+| a    | all                 |                                                                                            |       |
