@@ -4,29 +4,31 @@
 > - Common for Folders and Directories to be colored blue.
 > - White are files
 > - Green are programs or binary
+# Commands
 
-| Command    | Meaning                      | Function                                                    | Shortcuts |
-| ---------- | ---------------------------- | ----------------------------------------------------------- | --------- |
-| [[#ls]]    | List Storage                 | Lists files and folders in the current directory            |           |
-| ls /       | List Storage /Base           | Lists files and folders at root `/` directory               |           |
-| ls /home   | List storage /home Directory | Lists contents of `/home` (user directories)                |           |
-| clear      | clears terminal              | clears Terminal screen                                      | ctrl+l    |
-| pwd        | Print Working Directory      | Shows the current directory path                            |           |
-| [[#cd]]    | Change Directory             | Changes current directory; supports TAB for auto-completion |           |
-| [[#touch]] | Create File                  | Creates a new empty file; file must not already exist       |           |
-| [[#nano]]  |                              | Opens the nano text editor                                  |           |
-| cat        | Concatenate                  | Displays contents of a file                                 |           |
-| which      | Command Location             | Shows full path of a command/executable                     |           |
-| [[#vim]]   | Vi IMproved                  | Opens the vim text editor                                   |           |
-| [[#cp]]    | copy                         | Copies a file from one location to another                  |           |
-| diff       | difference                   | Shows line differences between two files                    |           |
-| [[#rm]]    | remove                       | Deletes a file                                              |           |
-| mkdir      | make directory               | Creates a new directory/folder                              |           |
-| [[#mv]]    | move                         | Moves or renames a file or directory                        |           |
-| alias      | alias                        | Lists current shell aliases                                 |           |
-| [[#chmod]] | Change Mode                  | Changes file or directory permissions                       |           |
-| [[#free]]  | Free Memory                  | Displays memory usage statistics                            |           |
-| [[#df]]    | disk free                    | Shows disk storage usage per filesystem                     |           |
+| Command    | Meaning                      | Function                                                                                          | Shortcuts                                 |
+| ---------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[#ls]]    | List Storage                 | Lists files and folders in the current directory                                                  |                                           |
+| ls /       | List Storage /Base           | Lists files and folders at root `/` directory                                                     |                                           |
+| ls /home   | List storage /home Directory | Lists contents of `/home` (user directories)                                                      |                                           |
+| clear      | clears terminal              | clears Terminal screen                                                                            | ctrl+l                                    |
+| pwd        | Print Working Directory      | Shows the current directory path                                                                  |                                           |
+| [[#cd]]    | Change Directory             | Changes current directory; supports TAB for auto-completion                                       |                                           |
+| [[#touch]] | Create File                  | Creates a new empty file; file must not already exist                                             |                                           |
+| [[#nano]]  |                              | Opens the nano text editor                                                                        |                                           |
+| cat        | Concatenate                  | Displays contents of a file                                                                       |                                           |
+| which      | Command Location             | Shows full path of a command/executable                                                           |                                           |
+| [[#vim]]   | Vi IMproved                  | Opens the vim text editor                                                                         |                                           |
+| [[#cp]]    | copy                         | Copies a file from one location to another                                                        |                                           |
+| diff       | difference                   | Shows line differences between two files                                                          |                                           |
+| [[#rm]]    | remove                       | Deletes a file                                                                                    |                                           |
+| mkdir      | make directory               | Creates a new directory/folder                                                                    |                                           |
+| [[#mv]]    | move                         | Moves or renames a file or directory                                                              |                                           |
+| alias      | alias                        | Lists current shell aliases                                                                       |                                           |
+| [[#chmod]] | Change Mode                  | Changes file or directory permissions                                                             |                                           |
+| [[#free]]  | Free Memory                  | Displays memory usage statistics                                                                  |                                           |
+| [[#df]]    | disk free                    | Shows disk storage usage per filesystem                                                           |                                           |
+| htop       | Interactive Process Viewer   | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -47,13 +49,6 @@
 | obsidia='cd ~/repos/obsidia-bulk' | changes directory to my obsidia vault by entering 'obsidia' |
 | rst='source ~/.bashrc'            | resets bash by entering 'rst'                               |
 | edalias='nano .bash_aliases'      | opens .bash_aliases to be edited by entering 'edalias'      |
-|                                   |                                                             |
-|                                   |                                                             |
-|                                   |                                                             |
-|                                   |                                                             |
-|                                   |                                                             |
-
-
 # ls
 ### Arguments (flags)
 *can use multiples at once ie: -la longlists and shows all*
@@ -128,9 +123,10 @@ Is a text editor
 | -g   | gigabytes          | outputs gigabytes                    |       |
 | -h   | human-readable     | outputs GB/MB for easier readability |       |
 # df
-| Flag | meaning            | Effect                               | Alias |
-| ---- | ------------------ | ------------------------------------ | ----- |
-| -m   | megabytes          | outputs megabytes                    |       |
-| -k   | kilobytes(default) | outputs kilobytes                    |       |
-| -g   | gigabytes          | outputs gigabytes                    |       |
-| -h   | human-readable     | outputs GB/MB for easier readability |       |
+| Flag | meaning            | Effect                                                            | Alias |
+| ---- | ------------------ | ----------------------------------------------------------------- | ----- |
+| -m   | megabytes          | outputs megabytes                                                 |       |
+| -k   | kilobytes(default) | outputs kilobytes                                                 |       |
+| -g   | gigabytes          | outputs gigabytes                                                 |       |
+| -h   | human-readable     | Outputs sizes using appropriate units (GB, MB, etc.)              |       |
+| -i   | Inodes             | Show inode usage (total, used, free inodes) instead of disk space |       |
