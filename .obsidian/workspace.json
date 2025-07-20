@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
+                    "file": "Linux_Notes/LearnLinuxTV/systemd.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "LLTV Commands for Beginners"
+                  "title": "systemd"
                 }
               }
             ],
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
+                "file": "Linux_Notes/LearnLinuxTV/systemd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLTV Commands for Beginners"
+              "title": "Outline of systemd"
             }
           }
         ]
@@ -244,8 +244,9 @@
   },
   "active": "32af2e3c8dad1571",
   "lastOpenFiles": [
-    "Linux_Notes/LearnLinuxTV/Glossary.md",
     "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
+    "Linux_Notes/LearnLinuxTV/systemd.md",
+    "Linux_Notes/LearnLinuxTV/Glossary.md",
     "Linux_Notes/LearnLinuxTV/Package Management.md",
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes/LearnLinuxTV/Load Average.md",
