@@ -30,8 +30,8 @@
 | [[#df]]    | disk free                    | Shows disk storage usage per filesystem                                                           |                                           |
 | htop       | Interactive Process Viewer   | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
 | uptime     | System Uptime                | Shows how long the system has been running, number of users, and load average                     |                                           |
-| [[#apt]]   |                              |                                                                                                   |                                           |
-| sudo       |                              |                                                                                                   |                                           |
+| [[#apt]]   | Advanced Package Tool        | Used to install, remove, and manage software packages on Debian-based systems                     |                                           |
+| [[#sudo]]  | Superuser Do                 | Runs a command with elevated (root) privileges                                                    |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -75,7 +75,7 @@
 
 # nano
 Is a text editor
-> [!hint] tips
+> [!hint|right-small] tips
 > '^' means control
 
 - can use a file name as an argument to open and edit an existing file or create and edit a new file.
@@ -134,3 +134,31 @@ Is a text editor
 | -h   | human-readable     | Outputs sizes using appropriate units (GB, MB, etc.)              |       |
 | -i   | Inodes             | Show inode usage (total, used, free inodes) instead of disk space |       |
 # apt
+
+| Keyword/Flag           | Meaning             | Effect                                                       | Alias  |
+|-----------------------|---------------------|--------------------------------------------------------------|--------|
+| update                | Update package lists | Downloads updated package info from repositories             |        |
+| upgrade               | Upgrade packages     | Installs available updates for installed packages            |        |
+| install               | Install package      | Installs specified package(s)                                |        |
+| remove                | Remove package       | Removes specified package(s) but keeps config files          |        |
+| purge                 | Purge package        | Removes package(s) including configuration files             |        |
+| search                | Search packages      | Searches for package names matching a pattern                |        |
+| show                  | Show package info    | Displays detailed info about a package                        |        |
+| autoremove            | Auto-remove          | Removes unused dependencies                                   |        |
+| clean                 | Clean cache          | Removes downloaded package files (.deb) from cache           |        |
+| check                 | Check package status | Checks for broken dependencies                                |        |
+| -y                    | Assume yes           | Automatically answers 'yes' to prompts                       |        |
+| --purge               | Remove configs       | Removes config files when removing packages                   |        |
+| --simulate / -s        | Dry run              | Simulates actions without making changes                      | -s     |
+| --reinstall           | Reinstall package    | Forces reinstallation of installed package                   |        |
+| --no-install-recommends| Skip recommended     | Installs only main packages, skips recommended dependencies  |        |
+| --fix-broken          | Fix broken packages  | Attempts to fix broken package dependencies                   |        |
+
+# sudo
+| Flag | Meaning              | Effect                                                        | Alias |
+|------|----------------------|---------------------------------------------------------------|-------|
+| -u   | User                 | Run command as specified user instead of root                 |       |
+| -s   | Shell                | Run a shell instead of a command                              |       |
+| -i   | Login shell          | Run login shell as the target user                            |       |
+| -k   | Invalidate timestamp | Forget cached credentials (forces password prompt)           |       |
+| -v   | Validate             | Update user's cached credentials without running a command   |       |
