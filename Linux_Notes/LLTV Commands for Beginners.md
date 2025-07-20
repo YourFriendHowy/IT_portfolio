@@ -5,28 +5,28 @@
 > - White are files
 > - Green are programs or binary
 
-| Command    | Meaning                      | Function                                                              | Shortcuts          |
-| ---------- | ---------------------------- | --------------------------------------------------------------------- | ------------------ |
-| [[#ls]]    | List Storage                 | Lists files and folders in the current directory                      |                    |
-| ls /       | List Storage /Base           | Lists files and folders at root `/` directory                         |                    |
-| ls /home   | List storage /home Directory | Lists contents of `/home` (user directories)                          |                    |
-| clear      | clears terminal              | clears Terminal screen                                                | ctrl+l             |
-| pwd        | Print Working Directory      | Tells you where you are right now                                     |                    |
-| [[#cd]]    | Change Directory             | Lets you change your directory location                               | TAB(auto-complete) |
-| [[#touch]] | Create File                  | creates a new file with filename you enter. file cannot already exist |                    |
-| [[#nano]]  |                              | opens text editor                                                     |                    |
-| cat        | Concatenate                  | shows contents of file                                                |                    |
-| which      | Command Location             | used to search for command presence. Shows full path                  |                    |
-| [[#vim]]   | Vi IMproved                  | text editor                                                           |                    |
-| [[#cp]]    | copy                         | duplicates a file from one location to another                        |                    |
-| diff       | difference                   | outputs lines that differ                                             |                    |
-| [[#rm]]    | remove                       | removes file entered after command                                    |                    |
-| mkdir      | make directory               | creates a new directory/folder                                        |                    |
-| [[#mv]]    | move                         | moves file from one directory to another or used to rename a file.    |                    |
-| alias      | alias                        | lists current aliases                                                 |                    |
-| [[#chmod]] | Change Mode                  | changes permissions                                                   |                    |
-| [[#free]]  | Free Memory                  | shows amount of memory being used by the system                       |                    |
-| [[#df]]    | disk free                    | used to show storage allocation and usage per filesystem.             |                    |
+| Command    | Meaning                      | Function                                                    | Shortcuts |
+| ---------- | ---------------------------- | ----------------------------------------------------------- | --------- |
+| [[#ls]]    | List Storage                 | Lists files and folders in the current directory            |           |
+| ls /       | List Storage /Base           | Lists files and folders at root `/` directory               |           |
+| ls /home   | List storage /home Directory | Lists contents of `/home` (user directories)                |           |
+| clear      | clears terminal              | clears Terminal screen                                      | ctrl+l    |
+| pwd        | Print Working Directory      | Shows the current directory path                            |           |
+| [[#cd]]    | Change Directory             | Changes current directory; supports TAB for auto-completion |           |
+| [[#touch]] | Create File                  | Creates a new empty file; file must not already exist       |           |
+| [[#nano]]  |                              | Opens the nano text editor                                  |           |
+| cat        | Concatenate                  | Displays contents of a file                                 |           |
+| which      | Command Location             | Shows full path of a command/executable                     |           |
+| [[#vim]]   | Vi IMproved                  | Opens the vim text editor                                   |           |
+| [[#cp]]    | copy                         | Copies a file from one location to another                  |           |
+| diff       | difference                   | Shows line differences between two files                    |           |
+| [[#rm]]    | remove                       | Deletes a file                                              |           |
+| mkdir      | make directory               | Creates a new directory/folder                              |           |
+| [[#mv]]    | move                         | Moves or renames a file or directory                        |           |
+| alias      | alias                        | Lists current shell aliases                                 |           |
+| [[#chmod]] | Change Mode                  | Changes file or directory permissions                       |           |
+| [[#free]]  | Free Memory                  | Displays memory usage statistics                            |           |
+| [[#df]]    | disk free                    | Shows disk storage usage per filesystem                     |           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
