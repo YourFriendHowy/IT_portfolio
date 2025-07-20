@@ -16,6 +16,10 @@
 | touch    |                              | creates a new file with filename you enter. file cannot already exist |                    |
 | nano     |                              | opens text editor                                                     |                    |
 | cat      | Concatenate                  | shows contents of file                                                |                    |
+| which    |                              | used to search for command presence. Shows full path                  |                    |
+| vim      | Vi IMproved                  | text editor                                                           |                    |
+| cp       | copy                         | duplicates a file from one location to another                        |                    |
+|          |                              |                                                                       |                    |
 |          |                              |                                                                       |                    |
 # LS
 ### Arguments (flags)
@@ -41,6 +45,14 @@
 > overwrites existing file
 
 # nano
-
-> [!hint] Title
+Is a text editor
+> [!hint] tips
 > '^' means control
+
+- can use a file name as an argument to open and edit an existing file or create and edit a new file.
+
+# vim
+*Installed text editor*
+
+# cp (Copy)
+- 'cp oldfile.txt' newfile.txt copies oldfile.txt into newfile.txt
