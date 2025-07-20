@@ -33,7 +33,8 @@
 | [[#apt]]       | Advanced Package Tool        | Used to install, remove, and manage software packages on Debian-based systems                     |                                           |
 | [[#sudo]]      | Superuser Do                 | Runs a command with elevated (root) privileges                                                    |                                           |
 | [[#systemctl]] |                              |                                                                                                   |                                           |
-|                |                              |                                                                                                   |                                           |
+| head           |                              | reads first 10 lines of file                                                                      |                                           |
+| tail           |                              | reads last 10 lines of file                                                                       |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -174,3 +175,13 @@ Is a text editor
 | stop         |         | stops unit                    |       |
 | start        |         | starts unit                   |       |
 | restart      |         | restarts unit                 |       |
+
+# head
+| Keyword/Flag | Meaning   | Effect                                            | Example                               |
+| ------------ | --------- | ------------------------------------------------- | ------------------------------------- |
+| -n           | NUM lines | print the first NUM lines instead of the first 10 | -n 50; prints 50 rather than 10 lines |
+# tail
+| Keyword/Flag | Meaning   | Effect                                          | Example                               |
+| ------------ | --------- | ----------------------------------------------- | ------------------------------------- |
+| -n           | NUM lines | print the last NUM lines instead of the last 10 | -n 50; prints 50 rather than 10 lines |
+| -f           | follow    | output appended data as the file grows          |                                       |
