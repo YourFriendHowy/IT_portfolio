@@ -22,12 +22,15 @@
 | diff     | difference                   | outputs lines that differ                                             |                    |
 | rm       | remove                       | removes file entered after command                                    |                    |
 | mkdir    | make directory               | creates a new directory/folder                                        |                    |
-| mv       | move                         | moves file from one directory to another                              |                    |
+| mv       | move                         | moves file from one directory to another or used to rename a file.    |                    |
 # Shortcuts
 
-| Shortcut | use   |
-| -------- | ----- |
-| *        | can b |
+| Shortcut | use                                                                                                                         |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- |
+| *        | this symbol is used to represent everything in a directory, can be narrowed by file type ie *.txt references all .txt files |
+| .        | represents current directory                                                                                                |
+| ..       | represents parent directory                                                                                                 |
+| ~        | represents home directory                                                                                                   |
 
 
 
@@ -74,3 +77,8 @@ Is a text editor
 | ---- | --------- | ----------------------------------------------------------------------------------------------------- | ----- |
 | -r   | recursive | it tells `rm` to delete a directory and **everything inside it**, including subdirectories and files. |       |
 |      |           |                                                                                                       |       |
+
+# mv
+
+- '../file.txt .' moves file.txt from the parent directory to active directory.
+- is used to rename files. 'mv file.txt newname.txt' 
