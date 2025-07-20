@@ -19,15 +19,25 @@
 | which    |                              | used to search for command presence. Shows full path                  |                    |
 | vim      | Vi IMproved                  | text editor                                                           |                    |
 | cp       | copy                         | duplicates a file from one location to another                        |                    |
-|          |                              |                                                                       |                    |
-|          |                              |                                                                       |                    |
+| diff     | difference                   | outputs lines that differ                                             |                    |
+| rm       | remove                       | removes file entered after command                                    |                    |
+| mkdir    | make directory               | creates a new directory/folder                                        |                    |
+| mv       | move                         | moves file from one directory to another                              |                    |
+# Shortcuts
+
+| Shortcut | use   |
+| -------- | ----- |
+| *        | can b |
+
+
+
 # LS
 ### Arguments (flags)
 
-| Flag | Effect                                                                | Alias |
-| ---- | --------------------------------------------------------------------- | ----- |
-| -l   | long listing, shows more details and puts every item on its own line. | ll    |
-|      |                                                                       |       |
+| Flag | meaning      | Effect                                                  | Alias |
+| ---- | ------------ | ------------------------------------------------------- | ----- |
+| -l   | long listing | shows more details and puts every item on its own line. | ll    |
+|      |              |                                                         |       |
 
 # home (~)
 
@@ -41,9 +51,6 @@
 
 # touch
 
-> [!attention] Touch
-> overwrites existing file
-
 # nano
 Is a text editor
 > [!hint] tips
@@ -56,3 +63,14 @@ Is a text editor
 
 # cp (Copy)
 - 'cp oldfile.txt' newfile.txt copies oldfile.txt into newfile.txt
+
+# rm (Remove)
+
+> [!attention] Use Caution
+> When rm is used file is removed completely, not moved to be deleted like recycling bin
+
+### Arguments (flags)
+| Flag | meaning   | Effect                                                                                                | Alias |
+| ---- | --------- | ----------------------------------------------------------------------------------------------------- | ----- |
+| -r   | recursive | it tells `rm` to delete a directory and **everything inside it**, including subdirectories and files. |       |
+|      |           |                                                                                                       |       |
