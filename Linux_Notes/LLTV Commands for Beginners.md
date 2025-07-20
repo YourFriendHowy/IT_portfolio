@@ -7,25 +7,26 @@
 
 | Command    | Meaning                      | Function                                                              | Shortcuts          |
 | ---------- | ---------------------------- | --------------------------------------------------------------------- | ------------------ |
-| [[#LS]]    | List Storage                 | Lists files and folders within folder                                 |                    |
-| LS /       | List Storage /Base           | Lists folders and files at the base of the OS                         |                    |
-| LS /home   | List storage /home Directory | Will list user directory                                              |                    |
-| clear      | clears terminal              | clears Terminal                                                       | ctrl+l             |
+| [[#ls]]    | List Storage                 | Lists files and folders in the current directory                      |                    |
+| ls /       | List Storage /Base           | Lists files and folders at root `/` directory                         |                    |
+| ls /home   | List storage /home Directory | Lists contents of `/home` (user directories)                          |                    |
+| clear      | clears terminal              | clears Terminal screen                                                | ctrl+l             |
 | pwd        | Print Working Directory      | Tells you where you are right now                                     |                    |
 | [[#cd]]    | Change Directory             | Lets you change your directory location                               | TAB(auto-complete) |
-| [[#touch]] |                              | creates a new file with filename you enter. file cannot already exist |                    |
+| [[#touch]] | Create File                  | creates a new file with filename you enter. file cannot already exist |                    |
 | [[#nano]]  |                              | opens text editor                                                     |                    |
 | cat        | Concatenate                  | shows contents of file                                                |                    |
-| which      |                              | used to search for command presence. Shows full path                  |                    |
+| which      | Command Location             | used to search for command presence. Shows full path                  |                    |
 | [[#vim]]   | Vi IMproved                  | text editor                                                           |                    |
 | [[#cp]]    | copy                         | duplicates a file from one location to another                        |                    |
 | diff       | difference                   | outputs lines that differ                                             |                    |
 | [[#rm]]    | remove                       | removes file entered after command                                    |                    |
 | mkdir      | make directory               | creates a new directory/folder                                        |                    |
 | [[#mv]]    | move                         | moves file from one directory to another or used to rename a file.    |                    |
-| alias      |                              | lists current aliases                                                 |                    |
-| [[#chmod]] |                              | changes permissions                                                   |                    |
-|            |                              |                                                                       |                    |
+| alias      | alias                        | lists current aliases                                                 |                    |
+| [[#chmod]] | Change Mode                  | changes permissions                                                   |                    |
+| [[#free]]  | Free Memory                  | shows amount of memory being used by the system                       |                    |
+| [[#df]]    | disk free                    | used to show storage allocation and usage per filesystem.             |                    |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -53,7 +54,7 @@
 |                                   |                                                             |
 
 
-# LS
+# ls
 ### Arguments (flags)
 *can use multiples at once ie: -la longlists and shows all*
 
@@ -113,3 +114,23 @@ Is a text editor
 | g    | group             | `g+x`: give execute permission to the group                                                |       |
 | o    | others            | `o+x`: give execute permission to others                                                   |       |
 | a    | all               | `a+x`: give execute permission to all (user, group, and others)                            |       |
+# free
+
+> [!NOTE] Title
+> - free: truly free, not utilized at all
+> - available: free + reclaimable in-use memory (like cached/buffered RAM that _could_ be freed if needed).
+
+| Flag | meaning            | Effect                               | Alias |
+| ---- | ------------------ | ------------------------------------ | ----- |
+| -m   | megabytes          | outputs megabytes                    |       |
+| -b   | bytes              | outputs bytes                        |       |
+| -k   | kilobytes(default) | outputs kilobytes                    |       |
+| -g   | gigabytes          | outputs gigabytes                    |       |
+| -h   | human-readable     | outputs GB/MB for easier readability |       |
+# df
+| Flag | meaning            | Effect                               | Alias |
+| ---- | ------------------ | ------------------------------------ | ----- |
+| -m   | megabytes          | outputs megabytes                    |       |
+| -k   | kilobytes(default) | outputs kilobytes                    |       |
+| -g   | gigabytes          | outputs gigabytes                    |       |
+| -h   | human-readable     | outputs GB/MB for easier readability |       |
