@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Linux_Notes/Glossary.md",
+                    "file": "Linux_Notes/Load Average.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Glossary"
+                  "title": "Load Average"
                 }
               }
             ],
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Glossary.md",
+                "file": "Linux_Notes/Load Average.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glossary"
+              "title": "Outline of Load Average"
             }
           }
         ]
@@ -245,6 +245,7 @@
   "active": "32af2e3c8dad1571",
   "lastOpenFiles": [
     "Linux_Notes/LLTV Commands for Beginners.md",
+    "Linux_Notes/Load Average.md",
     "Linux_Notes/Glossary.md",
     "Linux_Notes/Permissions.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
@@ -276,7 +277,6 @@
     "Degree considerations/Degree path.md",
     "COMS-170 Intro to Programming/Coding Assignments/Final Program.md",
     "COMS-170 Intro to Programming/Coding Assignments/program8.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program7.md",
     "COMS-170 Intro to Programming/Coding Assignments/Program3.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program2.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program1.py",
