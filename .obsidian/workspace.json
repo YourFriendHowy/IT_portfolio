@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/LLTV Commands for Beginners.md",
+                "file": "Linux_Notes/Permissions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLTV Commands for Beginners"
+              "title": "Outline of Permissions"
             }
           }
         ]
@@ -242,11 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32af2e3c8dad1571",
+  "active": "d97086ccf0ead2ab",
   "lastOpenFiles": [
+    "Linux_Notes/LLTV Commands for Beginners.md",
     "Linux_Notes/Permissions.md",
     "Linux_Notes/Glossary.md",
-    "Linux_Notes/LLTV Commands for Beginners.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
     "Linux_Notes",
     "CompTIA_A+/TestOut/Untitled.md",

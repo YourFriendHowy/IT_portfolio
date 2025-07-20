@@ -105,11 +105,11 @@ Is a text editor
 
 # chmod
 
-| Flag | meaning             | Effect                                                                                     | Alias |
-| ---- | ------------------- | ------------------------------------------------------------------------------------------ | ----- |
-| +    | add permission      | +x, add execute permission<br>+r, add read permission<br>+w, add write permission          |       |
-| -    | remove permission   | +x, remove execute permission<br>+r, remove read permission<br>+w, remove write permission |       |
-| u    | user, owner of file | specify the owner ie u+x gives only the user permisions                                    |       |
-| g    | group               |                                                                                            |       |
-| o    | others              |                                                                                            |       |
-| a    | all                 |                                                                                            |       |
+| Flag | meaning           | Effect                                                                                     | Alias |
+| ---- | ----------------- | ------------------------------------------------------------------------------------------ | ----- |
+| +    | add permission    | +x, add execute permission<br>+r, add read permission<br>+w, add write permission          |       |
+| -    | remove permission | -x, remove execute permission<br>-r, remove read permission<br>-w, remove write permission |       |
+| u    | user (file owner) | `u+x`: give execute permission to the file owner                                           |       |
+| g    | group             | `g+x`: give execute permission to the group                                                |       |
+| o    | others            | `o+x`: give execute permission to others                                                   |       |
+| a    | all               | `a+x`: give execute permission to all (user, group, and others)                            |       |
