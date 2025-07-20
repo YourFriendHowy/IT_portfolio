@@ -36,7 +36,9 @@
 | head           |                              | reads first 10 lines of file                                                                      |                                           |
 | tail           |                              | reads last 10 lines of file                                                                       |                                           |
 | groups         |                              | list groups of user                                                                               |                                           |
-| adduser        |                              | creates new user                                                                                  |                                           |
+| adduser        |                              | creates new user; requires sudo                                                                   |                                           |
+| passwd         |                              | change password                                                                                   |                                           |
+| userdel        |                              | deletes user; requires sudo                                                                       |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -187,3 +189,7 @@ Is a text editor
 | ------------ | --------- | ----------------------------------------------- | ------------------------------------- |
 | -n           | NUM lines | print the last NUM lines instead of the last 10 | -n 50; prints 50 rather than 10 lines |
 | -f           | follow    | output appended data as the file grows          |                                       |
+# userdel
+| Keyword/Flag | Meaning | Effect | Example |
+| ------------ | ------- | ------ | ------- |
+| -r           |         |        |         |
