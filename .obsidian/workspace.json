@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Linux_Notes/Load Average.md",
+                    "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Load Average"
+                  "title": "LLTV Commands for Beginners"
                 }
               }
             ],
@@ -39,13 +39,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Linux_Notes/Permissions.md",
+                    "file": "Linux_Notes/LearnLinuxTV/Package Management.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Permissions"
+                  "title": "Package Management"
                 }
               }
             ]
@@ -135,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Load Average.md",
+                "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Load Average"
+              "title": "Outline of LLTV Commands for Beginners"
             }
           }
         ]
@@ -244,10 +244,12 @@
   },
   "active": "32af2e3c8dad1571",
   "lastOpenFiles": [
-    "Linux_Notes/LLTV Commands for Beginners.md",
-    "Linux_Notes/Load Average.md",
-    "Linux_Notes/Glossary.md",
-    "Linux_Notes/Permissions.md",
+    "Linux_Notes/LearnLinuxTV/Glossary.md",
+    "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
+    "Linux_Notes/LearnLinuxTV/Package Management.md",
+    "Linux_Notes/LearnLinuxTV",
+    "Linux_Notes/LearnLinuxTV/Load Average.md",
+    "Linux_Notes/LearnLinuxTV/Permissions.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
     "Linux_Notes",
     "CompTIA_A+/TestOut/Untitled.md",
@@ -275,13 +277,10 @@
     "Resources",
     "Resources/z-Images/Pasted image 20241208103922.png",
     "Degree considerations/Degree path.md",
-    "COMS-170 Intro to Programming/Coding Assignments/Final Program.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program8.md",
     "COMS-170 Intro to Programming/Coding Assignments/Program3.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program2.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program1.py",
     "COMS-170 Intro to Programming/Coding Assignments/def BestTeam().py",
-    "COMS-170 Intro to Programming/Coding Assignments/examscratch.py",
     "Untitled 3/Untitled 3.canvas"
   ]
 }

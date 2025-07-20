@@ -30,6 +30,8 @@
 | [[#df]]    | disk free                    | Shows disk storage usage per filesystem                                                           |                                           |
 | htop       | Interactive Process Viewer   | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
 | uptime     | System Uptime                | Shows how long the system has been running, number of users, and load average                     |                                           |
+| [[#apt]]   |                              |                                                                                                   |                                           |
+| sudo       |                              |                                                                                                   |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -131,3 +133,4 @@ Is a text editor
 | -g   | gigabytes          | outputs gigabytes                                                 |       |
 | -h   | human-readable     | Outputs sizes using appropriate units (GB, MB, etc.)              |       |
 | -i   | Inodes             | Show inode usage (total, used, free inodes) instead of disk space |       |
+# apt
