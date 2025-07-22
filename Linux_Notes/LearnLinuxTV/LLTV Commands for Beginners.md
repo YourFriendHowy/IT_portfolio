@@ -148,6 +148,7 @@ Is a text editor
 | ----------------------- | -------------------- | ----------------------------------------------------------- | ----- |
 | update                  | Update package lists | Downloads updated package info from repositories            |       |
 | upgrade                 | Upgrade packages     | Installs available updates for installed packages           |       |
+| dist-upgrade            |                      |                                                             |       |
 | install                 | Install package      | Installs specified package(s)                               |       |
 | remove                  | Remove package       | Removes specified package(s) but keeps config files         |       |
 | purge                   | Purge package        | Removes package(s) including configuration files            |       |
