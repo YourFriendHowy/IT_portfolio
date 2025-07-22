@@ -3,16 +3,19 @@ obsidianUIMode: preview
 Language: Bash
 Category: Terminal
 Topic: Bash
-Type: Bash Commands
+Type: Bash Command
 System: Linux
 Element type:
   - Shell Built-in
-Flags(y/n): "True"
+Flags: "True"
 Actions: "True"
 Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Beginner
 Keywords: 
 aliases: 
+Meaning: History
+Function: Displays Terminal History
+Shortcut: N/A
 Last Edited: 2025-07-22
 ---
 > [!NOTE|right-small] Tip

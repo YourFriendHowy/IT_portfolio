@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 Language: Bash
-Category: Bash
-Topic: Bash
-Type: Bash Commands
+Category: Terminal
+Topic: Logs
+Type: Notes
 System: Linux
 Element type:
   - Shell Built-in
@@ -15,3 +15,9 @@ Keywords:
 aliases: 
 Last Edited: 2025-07-22
 ---
+# Actions
+cat /var/log/syslog: general system log
+
+sudo dmesg
+
+journalctl

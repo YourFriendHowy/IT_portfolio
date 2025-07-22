@@ -6,6 +6,12 @@
 > - Green are programs or binary
 # Commands
 
+```dataview
+table WITHOUT ID link(file.name) AS "Command", Meaning, Function, Shortcut AS "Shortcuts", Flags AS "Flags", Actions
+FROM "Linux_Notes"
+where (Type = "Bash Command") 
+```
+
 | Command        | Meaning                      | Function                                                                                          | Shortcuts                                 |
 | -------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [[#ls]]        | List Storage                 | Lists files and folders in the current directory                                                  |                                           |

@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 Language: Bash
 Category: Glossary
-Topic: Bash
-Type: Bash Commands
+Topic: Terminal
+Type: Definition
 System: Linux
 Element type:
   - Shell Built-in

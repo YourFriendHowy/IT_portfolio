@@ -3,7 +3,7 @@ obsidianUIMode: preview
 Language: Bash
 Category: Terminal
 Topic: Bash
-Type: Feature
+Type: Notes
 System: Linux
 Element type:
   - Shell Built-in
