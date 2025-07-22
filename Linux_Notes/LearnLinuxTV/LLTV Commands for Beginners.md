@@ -12,41 +12,36 @@ FROM "Linux_Notes"
 where (Type = "Bash Command") 
 ```
 
-| Command        | Meaning                      | Function                                                                                          | Shortcuts                                 |
-| -------------- | ---------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [[#ls]]        | List Storage                 | Lists files and folders in the current directory                                                  |                                           |
-| ls /           | List Storage /Base           | Lists files and folders at root `/` directory                                                     |                                           |
-| ls /home       | List storage /home Directory | Lists contents of `/home` (user directories)                                                      |                                           |
-| clear          | clears terminal              | clears Terminal screen                                                                            | ctrl+l                                    |
-| pwd            | Print Working Directory      | Shows the current directory path                                                                  |                                           |
-| [[#cd]]        | Change Directory             | Changes current directory; supports TAB for auto-completion                                       |                                           |
-| [[#touch]]     | Create File                  | Creates a new empty file; file must not already exist                                             |                                           |
-| [[#nano]]      |                              | Opens the nano text editor                                                                        |                                           |
-| cat            | Concatenate                  | Displays contents of a file                                                                       |                                           |
-| which          | Command Location             | Shows full path of a command/executable                                                           |                                           |
-| [[#vim]]       | Vi IMproved                  | Opens the vim text editor                                                                         |                                           |
-| [[#cp]]        | copy                         | Copies a file from one location to another                                                        |                                           |
-| diff           | difference                   | Shows line differences between two files                                                          |                                           |
-| [[#rm]]        | remove                       | Deletes a file                                                                                    |                                           |
-| mkdir          | make directory               | Creates a new directory/folder                                                                    |                                           |
-| [[#mv]]        | move                         | Moves or renames a file or directory                                                              |                                           |
-| alias          | alias                        | Lists current shell aliases                                                                       |                                           |
-| [[#chmod]]     | Change Mode                  | Changes file or directory permissions                                                             |                                           |
-| [[#free]]      | Free Memory                  | Displays memory usage statistics                                                                  |                                           |
-| [[#df]]        | disk free                    | Shows disk storage usage per filesystem                                                           |                                           |
-| htop           | Interactive Process Viewer   | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
-| uptime         | System Uptime                | Shows how long the system has been running, number of users, and load average                     |                                           |
-| [[#apt]]       | Advanced Package Tool        | Used to install, remove, and manage software packages on Debian-based systems                     |                                           |
-| [[#sudo]]      | Superuser Do                 | Runs a command with elevated (root) privileges                                                    |                                           |
-| [[#systemctl]] |                              |                                                                                                   |                                           |
-| head           |                              | reads first 10 lines of file                                                                      |                                           |
-| tail           |                              | reads last 10 lines of file                                                                       |                                           |
-| [[#groups]]    |                              | list groups of user                                                                               |                                           |
-| adduser        |                              | creates new user; requires sudo                                                                   |                                           |
-| passwd         |                              | change password                                                                                   |                                           |
-| [[#userdel]]   |                              | deletes user; requires sudo                                                                       |                                           |
-| groupadd       |                              | creates new group                                                                                 |                                           |
-| groupdel       |                              | deletes group                                                                                     |                                           |
+| Command        | Meaning                    | Function                                                                                          | Shortcuts                                 |
+| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[#cd]]        | Change Directory           | Changes current directory; supports TAB for auto-completion                                       |                                           |
+| [[#touch]]     | Create File                | Creates a new empty file; file must not already exist                                             |                                           |
+| [[#nano]]      |                            | Opens the nano text editor                                                                        |                                           |
+| cat            | Concatenate                | Displays contents of a file                                                                       |                                           |
+| which          | Command Location           | Shows full path of a command/executable                                                           |                                           |
+| [[#vim]]       | Vi IMproved                | Opens the vim text editor                                                                         |                                           |
+| [[#cp]]        | copy                       | Copies a file from one location to another                                                        |                                           |
+| diff           | difference                 | Shows line differences between two files                                                          |                                           |
+| [[#rm]]        | remove                     | Deletes a file                                                                                    |                                           |
+| mkdir          | make directory             | Creates a new directory/folder                                                                    |                                           |
+| [[#mv]]        | move                       | Moves or renames a file or directory                                                              |                                           |
+| alias          | alias                      | Lists current shell aliases                                                                       |                                           |
+| [[#chmod]]     | Change Mode                | Changes file or directory permissions                                                             |                                           |
+| [[#free]]      | Free Memory                | Displays memory usage statistics                                                                  |                                           |
+| [[#df]]        | disk free                  | Shows disk storage usage per filesystem                                                           |                                           |
+| htop           | Interactive Process Viewer | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
+| uptime         | System Uptime              | Shows how long the system has been running, number of users, and load average                     |                                           |
+| [[#apt]]       | Advanced Package Tool      | Used to install, remove, and manage software packages on Debian-based systems                     |                                           |
+| [[#sudo]]      | Superuser Do               | Runs a command with elevated (root) privileges                                                    |                                           |
+| [[#systemctl]] |                            |                                                                                                   |                                           |
+| head           |                            | reads first 10 lines of file                                                                      |                                           |
+| tail           |                            | reads last 10 lines of file                                                                       |                                           |
+| [[#groups]]    |                            | list groups of user                                                                               |                                           |
+| adduser        |                            | creates new user; requires sudo                                                                   |                                           |
+| passwd         |                            | change password                                                                                   |                                           |
+| [[#userdel]]   |                            | deletes user; requires sudo                                                                       |                                           |
+| groupadd       |                            | creates new group                                                                                 |                                           |
+| groupdel       |                            | deletes group                                                                                     |                                           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |

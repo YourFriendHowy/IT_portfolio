@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Z_Templates",
+  "templates_folder": "z_templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Linux_Notes/Commands",
+      "template": "z_templates/command_template.md"
     }
   ],
   "enable_file_templates": false,

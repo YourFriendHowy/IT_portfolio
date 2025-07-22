@@ -6,6 +6,7 @@
       {
         "id": "d8872694134903ee",
         "type": "tabs",
+        "dimension": 51.21713729308666,
         "children": [
           {
             "id": "4188e3ba26979b70",
@@ -13,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/LearnLinuxTV/Commands/History.md",
+                "file": "Linux_Notes/Commands/cd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "History"
+              "title": "cd"
             }
           }
         ]
@@ -27,6 +28,7 @@
       {
         "id": "fc1c33381136ec7d",
         "type": "tabs",
+        "dimension": 48.782862706913335,
         "children": [
           {
             "id": "61802aa47537e7f3",
@@ -127,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/LearnLinuxTV/Commands/History.md",
+                "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History"
+              "title": "Outline of LLTV Commands for Beginners"
             }
           }
         ]
@@ -234,10 +236,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4188e3ba26979b70",
+  "active": "61802aa47537e7f3",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/cd.md",
     "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
-    "Linux_Notes/LearnLinuxTV/Commands/History.md",
+    "Linux_Notes/Commands/pwd.md",
+    "cd.md",
+    "Linux_Notes/Commands/ls.md",
+    "Linux_Notes/Commands/History.md",
+    "Linux_Notes/Commands/clear.md",
+    "z_templates/command_template.md",
     "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
@@ -246,7 +254,7 @@
     "Linux_Notes/LearnLinuxTV/Notes/Logs.md",
     "Linux_Notes/LearnLinuxTV/Glossary/Glossary.md",
     "Linux_Notes/LearnLinuxTV/Notes",
-    "Linux_Notes/LearnLinuxTV/Commands",
+    "Linux_Notes/Commands",
     "Linux_Notes/LearnLinuxTV/Glossary/Load Average.md",
     "Linux_Notes/LearnLinuxTV/Glossary",
     "GIT_Tips/cheatSheet.md",
@@ -259,11 +267,6 @@
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
     "COMS-170 Intro to Programming/Coding Assignments/program2.md",
     "COMS-170 Intro to Programming/Coding Assignments/program1.md",
-    "COMS-170 Intro to Programming/Coding Assignments/Iterations.md",
-    "COMS-170 Intro to Programming/Coding Assignments/Final Program.md",
-    "z_templates/default_template.md",
-    "z_templates/default_template 1.md",
-    "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "z_templates",
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes",
