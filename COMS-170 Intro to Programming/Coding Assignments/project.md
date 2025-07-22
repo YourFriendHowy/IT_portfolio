@@ -1,3 +1,15 @@
+---
+obsidianUIMode: preview
+Language: Python 3
+Category: Programming
+Topic: COMS-170 Intro to Programming
+Type: Completed Code
+System: Any
+Element type: Code Block
+Source: Matthew Howard(Myself)
+Complexity: Intermediate
+Last Edited: 2025-07-22
+---
 ```python
 price = input("What is the price of the item you would like to purchase?\n")
 discount = input("To calculate your total please enter your student number:\n")

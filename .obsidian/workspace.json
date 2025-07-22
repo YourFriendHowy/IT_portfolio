@@ -4,72 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c263cda75ff1b4d3",
-        "type": "split",
+        "id": "d8872694134903ee",
+        "type": "tabs",
         "children": [
           {
-            "id": "252bb08e392750eb",
-            "type": "tabs",
-            "dimension": 40.66193853427896,
-            "children": [
-              {
-                "id": "32af2e3c8dad1571",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
-                    "mode": "preview",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "LLTV Commands for Beginners"
-                }
-              }
-            ],
-            "stacked": true
-          },
-          {
-            "id": "d8872694134903ee",
-            "type": "tabs",
-            "dimension": 59.33806146572104,
-            "children": [
-              {
-                "id": "d97086ccf0ead2ab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Linux_Notes/LearnLinuxTV/Output Redirection.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Output Redirection"
-                }
+            "id": "4188e3ba26979b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux_Notes/LearnLinuxTV/Glossary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              {
-                "id": "4188e3ba26979b70",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "COMS-170 Intro to Programming/Coding Assignments/Iterations.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Iterations"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMS-170 Intro to Programming/Coding Assignments/Iterations.md",
+                "file": "Linux_Notes/LearnLinuxTV/Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Iterations"
+              "title": "Outline of Glossary"
             }
           }
         ]
@@ -262,32 +215,33 @@
   },
   "active": "4188e3ba26979b70",
   "lastOpenFiles": [
+    "Linux_Notes/LearnLinuxTV/User and Group management.md",
+    "Linux_Notes/LearnLinuxTV/systemd.md",
+    "Linux_Notes/LearnLinuxTV/Permissions.md",
+    "Linux_Notes/LearnLinuxTV/Package Management.md",
+    "Linux_Notes/LearnLinuxTV/Output Redirection.md",
+    "Linux_Notes/LearnLinuxTV/Glossary/Load Average.md",
+    "Linux_Notes/LearnLinuxTV/History.md",
+    "Linux_Notes/LearnLinuxTV/Logs.md",
     "Linux_Notes/LearnLinuxTV/LLTV Commands for Beginners.md",
+    "Linux_Notes/LearnLinuxTV/Glossary",
+    "Linux_Notes/LearnLinuxTV/Glossary.md",
+    "GIT_Tips/cheatSheet.md",
+    "COMS-170 Intro to Programming/Coding Assignments/project.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program8.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program7.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program6.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program5.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program4.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program3.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program2.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program1.md",
     "COMS-170 Intro to Programming/Coding Assignments/Iterations.md",
     "COMS-170 Intro to Programming/Coding Assignments/Final Program.md",
     "z_templates/default_template.md",
     "z_templates/default_template 1.md",
     "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Updates.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Hotspot.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/GPS (Global Positioning System).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (5G).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (4G and LTE).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (3G).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Mobile Device Accessories.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.3 Connecting Mobile Devices/Connecting Mobile Devices.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Wi-fi Antennas.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Webcam and Microphone.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Storage.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
     "z_templates",
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes",
@@ -299,7 +253,6 @@
     "Resources/z-Images/Pasted image 20241208103922.png",
     "COMS-170 Intro to Programming/Coding Assignments/Program3.py",
     "COMS-170 Intro to Programming/Coding Assignments/Program2.py",
-    "COMS-170 Intro to Programming/Coding Assignments/Program1.py",
     "Untitled 3/Untitled 3.canvas"
   ]
 }

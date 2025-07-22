@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Z Templates",
+  "templates_folder": "Z_Templates",
   "templates_pairs": [
     [
       "",
@@ -15,11 +15,14 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Obsidia/Npc Catalog/3 Neutral or Undecided",
-      "template": "Z_Templates/TemplateNPC.md"
-    },
-    {
       "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
       "template": ""
     }
   ],
@@ -31,5 +34,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

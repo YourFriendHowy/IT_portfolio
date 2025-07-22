@@ -28,7 +28,7 @@ x = x+1 ## This line takes x = 0 and adds a 1 to it, outputting a x = 1
 print(x) ## Prints 1 
 ```
 
-### Create loop counter, decending
+### Create loop counter, descending
 ```Python
 n = 5
 while n > 0:

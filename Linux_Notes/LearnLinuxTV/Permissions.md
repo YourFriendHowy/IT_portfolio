@@ -1,3 +1,21 @@
+---
+obsidianUIMode: preview
+Language: Bash
+Category: Terminal
+Topic: Bash
+Type: Bash Commands
+System: Linux
+Element type:
+  - Shell Built-in
+Flags(y/n): "True"
+Actions: "True"
+Source: https://www.youtube.com/@LearnLinuxTV
+Complexity: Beginner
+Keywords: 
+aliases: 
+Last Edited: 2025-07-22
+---
+
 drwxrwxr-x
 1234567890
 ││││││ └─  (0) Others: execute

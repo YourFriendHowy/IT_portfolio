@@ -32,6 +32,8 @@
     "Province": "multitext",
     "Domains": "multitext",
     "MajorTemples": "multitext",
-    "excalidraw-embeddable-theme": "text"
+    "excalidraw-embeddable-theme": "text",
+    "Keywords": "multitext",
+    "Element type": "multitext"
   }
 }

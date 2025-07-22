@@ -1,9 +1,26 @@
-> [!important|left-small] Important User Files
+---
+obsidianUIMode: preview
+Language: Bash
+Category: Bash
+Topic: Bash
+Type: Bash Commands
+System: Linux
+Element type:
+  - Shell Built-in
+Flags(y/n): "False"
+Actions: "False"
+Source: https://www.youtube.com/@LearnLinuxTV
+Complexity: Beginner
+Keywords: 
+aliases: 
+Last Edited: 2025-07-22
+---
+> [!important|right-small] Important User Files
 > cat /etc/passwd: shows users on system
 > cat /etc/shadow: Shows user password hash
 > cat /etc/group: shows users groups
 
-yourfriendhowy:x:1000:1000:Howy:/home/yourfriendhowy:/bin/bash
+## yourfriendhowy:x:1000:1000:Howy:/home/yourfriendhowy:/bin/bash
 
 | yourfriendhowy | x        | 1000    | 1000     | Howy | /home/yourfriendhowy | /bin/bash     |
 | -------------- | -------- | ------- | -------- | ---- | -------------------- | ------------- |

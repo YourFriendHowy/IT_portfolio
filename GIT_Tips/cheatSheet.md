@@ -1,3 +1,23 @@
+---
+obsidianUIMode: preview
+Language: Bash
+Category: Git
+Topic: Git Commands
+Type: Cheatsheet
+System: Any
+Element type:
+  - Git Command
+  - Shell
+Flags(y/n): "True"
+Actions: "True"
+Source: https://www.theodinproject.com/lessons/foundations-git-basics
+Complexity: Beginner
+Keywords:
+  - Git
+  - Github
+aliases: 
+Last Edited: 2025-07-22
+---
 Commands related to a remote repository:
     - `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git`
  `git push` or `git push origin main` (Both accomplish the same goal in this context)

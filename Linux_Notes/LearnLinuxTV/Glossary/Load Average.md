@@ -1,3 +1,20 @@
+---
+obsidianUIMode: preview
+Language: Bash
+Category: Glossary
+Topic: Systemd
+Type: Definition
+System: Linux
+Element type: 
+Flags(y/n): "False"
+Actions: "False"
+Source: https://www.youtube.com/@LearnLinuxTV
+Complexity: Beginner
+Keywords: 
+aliases: 
+Last Edited: 2025-07-22
+---
+
 | Term         | Explanation                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------- |
 | Load Average | Number of processes waiting for CPU time                                                                    |
