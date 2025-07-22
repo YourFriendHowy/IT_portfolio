@@ -28,5 +28,5 @@ Last Edited: 2025-07-22
 
 | Flag/Action/Keyword | Meaning                | Effect                             | Example                                         |
 | ------------------- | ---------------------- | ---------------------------------- | ----------------------------------------------- |
-| !!                  | use last               | uses last command from history     | `sudo !!` will run the last command with `sudo` |
-| !NUM                | command from `history` | re-executes command from `history` | `!588` executes command 58 in the shell history |
+| `!!`                | use last               | uses last command from history     | `sudo !!` will run the last command with `sudo` |
+| `!NUM`              | command from `history` | re-executes command from `history` | `!588` executes command 58 in the shell history |

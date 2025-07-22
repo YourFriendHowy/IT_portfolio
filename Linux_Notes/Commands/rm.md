@@ -19,9 +19,7 @@ Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-# rm (Remove)
-
-> [!attention| right-medium] Use Caution
+> [!attention| right-large] Use Caution
 > When rm is used file is removed completely, not moved to be deleted like recycling bin
 
 | Command           | Meaning         | Function         | Shortcuts        |
@@ -30,5 +28,5 @@ Last Edited: 2025-07-22
 
 | Flag/Action/Keyword | Meaning   | Effect                                                                                                | Example |
 | ------------------- | --------- | ----------------------------------------------------------------------------------------------------- | ------- |
-| -r                  | recursive | it tells `rm` to delete a directory and **everything inside it**, including subdirectories and files. |         |
+| `-r`                | recursive | it tells `rm` to delete a directory and **everything inside it**, including subdirectories and files. |         |
 |                     |           |                                                                                                       |         |

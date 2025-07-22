@@ -25,7 +25,7 @@ Last Edited: 2025-07-22
 
 | Flag/Action/Keyword | Meaning                      | Effect                                                  | Alias | Example |
 | ------------------- | ---------------------------- | ------------------------------------------------------- | ----- | ------- |
-| -l                  | long listing                 | shows more details and puts every item on its own line. | ll    |         |
-| -a                  | all                          | shows all files and folders in directory                |       |         |
-| /                   | List Storage /Base           | Lists files and folders at root `/` directory           |       |         |
-| /home               | List storage /home Directory | Lists contents of `/home` (user directories)            |       |         |
+| `-l`                | long listing                 | shows more details and puts every item on its own line. | `ll`  |         |
+| `-a`                | all                          | shows all files and folders in directory                |       |         |
+| `/`                 | List Storage /Base           | Lists files and folders at root `/` directory           |       |         |
+| `/home`             | List storage /home Directory | Lists contents of `/home` (user directories)            |       |         |

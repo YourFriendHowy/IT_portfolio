@@ -20,7 +20,7 @@ Built-in: "True"
 Last Edited: 2025-07-22
 ---
 # cp (Copy)
-- 'cp oldfile.txt' newfile.txt         -copies oldfile.txt into newfile.txt
+- `cp oldfile.txt newfile.txt`    -copies oldfile.txt into newfile.txt
 
 | Command           | Meaning         | Function         | Shortcuts        |
 | ----------------- | --------------- | ---------------- | ---------------- |

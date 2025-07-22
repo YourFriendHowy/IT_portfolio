@@ -6,25 +6,23 @@ Topic: Terminal
 Type: Bash Command
 System: Linux
 Element type:
-  - Application
+  - Shell Built-in
 Flags: "False"
 Actions: "False"
 Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Beginner
 Keywords: 
 aliases: 
-Meaning: nano text editor
-Function: Opens the nano text editor
+Meaning: move
+Function: Moves or renames a file or directory
 Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
+# mv
 
-> [!hint|right-small] tips
-> '^' means control
-
-Is a text editor
-- can use a file name as an argument to open and edit an existing file or create and edit a new file.
+- `../file.txt .` moves `file.txt` from the parent directory to active directory.
+- is used to rename files. `mv file.txt newname.txt` 
 
 | Command           | Meaning         | Function         | Shortcuts        |
 | ----------------- | --------------- | ---------------- | ---------------- |

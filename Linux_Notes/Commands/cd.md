@@ -20,7 +20,7 @@ Built-in: "True"
 Last Edited: 2025-07-22
 ---
 > [!tip| right-small]
-> 'cd ~' will return you to the home directory
+> `cd ~` will return you to the home directory
 
 | Command           | Meaning         | Function         | Shortcuts        |
 | ----------------- | --------------- | ---------------- | ---------------- |
