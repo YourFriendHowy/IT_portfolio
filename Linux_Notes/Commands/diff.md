@@ -13,14 +13,12 @@ Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Beginner
 Keywords: 
 aliases: 
-Meaning: Change Directory
-Function: Changes current directory
-Shortcut: supports TAB for auto-completion
+Meaning: difference
+Function: Shows line differences between two files
+Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-> [!tip| right-small]
-> 'cd ~' will return you to the home directory
 
 | Command           | Meaning         | Function         | Shortcuts        |
 | ----------------- | --------------- | ---------------- | ---------------- |

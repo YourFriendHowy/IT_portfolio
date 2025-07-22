@@ -16,6 +16,7 @@ aliases:
 Meaning: List Storage
 Function: Lists files and folders in the current directory
 Shortcut: N/A
+Built-in: "True"
 Last Edited: 2025-07-22
 ---
 | Command           | Meaning         | Function         | Shortcuts        |

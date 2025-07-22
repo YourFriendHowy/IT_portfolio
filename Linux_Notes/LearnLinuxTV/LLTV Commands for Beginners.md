@@ -14,16 +14,6 @@ where (Type = "Bash Command")
 
 | Command        | Meaning                    | Function                                                                                          | Shortcuts                                 |
 | -------------- | -------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [[#cd]]        | Change Directory           | Changes current directory; supports TAB for auto-completion                                       |                                           |
-| [[#touch]]     | Create File                | Creates a new empty file; file must not already exist                                             |                                           |
-| [[#nano]]      |                            | Opens the nano text editor                                                                        |                                           |
-| cat            | Concatenate                | Displays contents of a file                                                                       |                                           |
-| which          | Command Location           | Shows full path of a command/executable                                                           |                                           |
-| [[#vim]]       | Vi IMproved                | Opens the vim text editor                                                                         |                                           |
-| [[#cp]]        | copy                       | Copies a file from one location to another                                                        |                                           |
-| diff           | difference                 | Shows line differences between two files                                                          |                                           |
-| [[#rm]]        | remove                     | Deletes a file                                                                                    |                                           |
-| mkdir          | make directory             | Creates a new directory/folder                                                                    |                                           |
 | [[#mv]]        | move                       | Moves or renames a file or directory                                                              |                                           |
 | alias          | alias                      | Lists current shell aliases                                                                       |                                           |
 | [[#chmod]]     | Change Mode                | Changes file or directory permissions                                                             |                                           |
@@ -62,44 +52,7 @@ where (Type = "Bash Command")
 | obsidia='cd ~/repos/obsidia-bulk' | changes directory to my obsidia vault by entering 'obsidia' |
 | rst='source ~/.bashrc'            | resets bash by entering 'rst'                               |
 | edalias='nano .bash_aliases'      | opens .bash_aliases to be edited by entering 'edalias'      |
-# ls
-### Arguments (flags)
-*can use multiples at once ie: -la longlists and shows all*
 
-| Flag | meaning      | Effect                                                  | Alias |
-| ---- | ------------ | ------------------------------------------------------- | ----- |
-| -l   | long listing | shows more details and puts every item on its own line. | ll    |
-| -a   | all          | shows all files and folders in directory                |       |
-
-# home (~)
-
-> [!tip] 
-> "~"  refers to the home directory, for example "cd ~" will return you to the home directory.
-
-
-# CD 
-> [!tip]
-> 'cd ~' will return you to the home directory
-
-# touch
-
-# nano
-Is a text editor
-> [!hint|right-small] tips
-> '^' means control
-
-- can use a file name as an argument to open and edit an existing file or create and edit a new file.
-
-# vim
-*Installed text editor*
-
-# cp (Copy)
-- 'cp oldfile.txt' newfile.txt copies oldfile.txt into newfile.txt
-
-# rm (Remove)
-
-> [!attention] Use Caution
-> When rm is used file is removed completely, not moved to be deleted like recycling bin
 
 ### Arguments (flags)
 | Flag | meaning   | Effect                                                                                                | Alias |

@@ -16,6 +16,7 @@ aliases:
 Meaning: History
 Function: Displays Terminal History
 Shortcut: N/A
+Built-in: "True"
 Last Edited: 2025-07-22
 ---
 > [!NOTE|right-small] Tip

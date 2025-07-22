@@ -6,21 +6,19 @@ Topic: Terminal
 Type: Bash Command
 System: Linux
 Element type:
-  - Shell Built-in
+  - Application
 Flags: "False"
 Actions: "False"
 Source: https://www.youtube.com/@LearnLinuxTV
-Complexity: Beginner
+Complexity: Intermediate
 Keywords: 
 aliases: 
-Meaning: Change Directory
-Function: Changes current directory
-Shortcut: supports TAB for auto-completion
-Built-in: "True"
+Meaning: Vi IMproved
+Function: Opens the vim text editor
+Shortcut: N/A
+Built-in: "False"
 Last Edited: 2025-07-22
 ---
-> [!tip| right-small]
-> 'cd ~' will return you to the home directory
 
 | Command           | Meaning         | Function         | Shortcuts        |
 | ----------------- | --------------- | ---------------- | ---------------- |
