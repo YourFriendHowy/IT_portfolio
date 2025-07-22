@@ -12,22 +12,13 @@ FROM "Linux_Notes"
 where (Type = "Bash Command") 
 ```
 
-| Command        | Meaning                    | Function                                                                                          | Shortcuts                                 |
-| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [[#df]]        | disk free                  | Shows disk storage usage per filesystem                                                           |                                           |
-| htop           | Interactive Process Viewer | Shows real-time system processes, CPU, memory, and resource usage with a user-friendly interface. | Use arrow keys to navigate, `F10` to quit |
-| uptime         | System Uptime              | Shows how long the system has been running, number of users, and load average                     |                                           |
-| [[#apt]]       | Advanced Package Tool      | Used to install, remove, and manage software packages on Debian-based systems                     |                                           |
-| [[#sudo]]      | Superuser Do               | Runs a command with elevated (root) privileges                                                    |                                           |
-| [[#systemctl]] |                            |                                                                                                   |                                           |
-| head           |                            | reads first 10 lines of file                                                                      |                                           |
-| tail           |                            | reads last 10 lines of file                                                                       |                                           |
-| [[#groups]]    |                            | list groups of user                                                                               |                                           |
-| adduser        |                            | creates new user; requires sudo                                                                   |                                           |
-| passwd         |                            | change password                                                                                   |                                           |
-| [[#userdel]]   |                            | deletes user; requires sudo                                                                       |                                           |
-| groupadd       |                            | creates new group                                                                                 |                                           |
-| groupdel       |                            | deletes group                                                                                     |                                           |
+| Command      | Meaning | Function                        | Shortcuts |
+| ------------ | ------- | ------------------------------- | --------- |
+| adduser      |         | creates new user; requires sudo |           |
+| passwd       |         | change password                 |           |
+| [[#userdel]] |         | deletes user; requires sudo     |           |
+| groupadd     |         | creates new group               |           |
+| groupdel     |         | deletes group                   |           |
 # Shortcuts
 
 | Shortcut | use                                                                                                                         |
@@ -36,68 +27,6 @@ where (Type = "Bash Command")
 | `.`      | represents current directory                                                                                                |
 | `..`     | represents parent directory                                                                                                 |
 | `~`      | represents home directory                                                                                                   |
-
-# alias
-##### My Aliases
-*stored in .bash_aliases*
-
-| ..='cd ..'                        | changes directory to parent by entering `..`                |
-| --------------------------------- | ----------------------------------------------------------- |
-| ...='cd ../..'                    | changes directory to grandparent by entering `...`          |
-| c='clear'                         | clears terminal by entering `c`                             |
-| obsidia='cd ~/repos/obsidia-bulk' | changes directory to my obsidia vault by entering `obsidia` |
-| rst='source ~/.bashrc'            | resets bash by entering `rst`                               |
-| edalias='nano .bash_aliases'      | opens .bash_aliases to be edited by entering `edalias`      |
-# apt
-
-| Keyword/Flag              | Meaning              | Effect                                                      | Alias |
-| ------------------------- | -------------------- | ----------------------------------------------------------- | ----- |
-| `update`                  | Update package lists | Downloads updated package info from repositories            |       |
-| `upgrade`                 | Upgrade packages     | Installs available updates for installed packages           |       |
-| `dist-upgrade`            |                      |                                                             |       |
-| `install`                 | Install package      | Installs specified package(s)                               |       |
-| `remove`                  | Remove package       | Removes specified package(s) but keeps config files         |       |
-| `purge`                   | Purge package        | Removes package(s) including configuration files            |       |
-| `search`                  | Search packages      | Searches for package names matching a pattern               |       |
-| `show`                    | Show package info    | Displays detailed info about a package                      |       |
-| `autoremove`              | Auto-remove          | Removes unused dependencies                                 |       |
-| `clean`                   | Clean cache          | Removes downloaded package files (.deb) from cache          |       |
-| `check`                   | Check package status | Checks for broken dependencies                              |       |
-| `-y`                      | Assume yes           | Automatically answers 'yes' to prompts                      |       |
-| `--purge`                 | Remove configs       | Removes config files when removing packages                 |       |
-| `--simulate / -s`         | Dry run              | Simulates actions without making changes                    | -s    |
-| `--reinstall`             | Reinstall package    | Forces reinstallation of installed package                  |       |
-| `--no-install-recommends` | Skip recommended     | Installs only main packages, skips recommended dependencies |       |
-| `--fix-broken`            | Fix broken packages  | Attempts to fix broken package dependencies                 |       |
-
-# sudo
-| Flag | Meaning              | Effect                                                     | Alias |
-| ---- | -------------------- | ---------------------------------------------------------- | ----- |
-| `-u` | User                 | Run command as specified user instead of root              |       |
-| `-s` | Shell                | Run a shell instead of a command                           |       |
-| `-i` | Login shell          | Run login shell as the target user                         |       |
-| `-k` | Invalidate timestamp | Forget cached credentials (forces password prompt)         |       |
-| `-v` | Validate             | Update user's cached credentials without running a command |       |
-# systemctl
-*[[systemd#systemctl|Documentation]]* 
-
-| Keyword/Flag | Meaning | Effect                        | Alias |
-| ------------ | ------- | ----------------------------- | ----- |
-| `status`     |         | shows status of unit          |       |
-| `disable`    |         | disables unit startup on boot |       |
-| `stop`       |         | stops unit                    |       |
-| `start`      |         | starts unit                   |       |
-| `restart`    |         | restarts unit                 |       |
-
-# head
-| Keyword/Flag | Meaning   | Effect                                            | Example                               |
-| ------------ | --------- | ------------------------------------------------- | ------------------------------------- |
-| `-n`         | NUM lines | print the first NUM lines instead of the first 10 | -n 50; prints 50 rather than 10 lines |
-# tail
-| Keyword/Flag | Meaning   | Effect                                          | Example                               |
-| ------------ | --------- | ----------------------------------------------- | ------------------------------------- |
-| `-n`         | NUM lines | print the last NUM lines instead of the last 10 | -n 50; prints 50 rather than 10 lines |
-| `-f`         | follow    | output appended data as the file grows          |                                       |
 # userdel
 | Keyword/Flag | Meaning | Effect                 | Example |
 | ------------ | ------- | ---------------------- | ------- |

@@ -1,0 +1,30 @@
+---
+obsidianUIMode: preview
+Language: Bash
+Category: Commands
+Topic: Terminal
+Type: Bash Command
+System: Linux
+Element type:
+  - Shell Built-in
+Flags: "True"
+Actions: "False"
+Source: https://www.youtube.com/@LearnLinuxTV
+Complexity: Beginner
+Keywords: 
+aliases: 
+Meaning: User groups
+Function: list groups of user
+Shortcut: N/A
+Built-in: "True"
+Last Edited: 2025-07-22
+---
+
+| Command           | Meaning         | Function         | Shortcuts        |
+| ----------------- | --------------- | ---------------- | ---------------- |
+| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+
+| Flag/Action/Keyword | Meaning | Effect | Example |
+| ------------------- | ------- | ------ | ------- |
+|                     |         |        |         |
+|                     |         |        |         |
