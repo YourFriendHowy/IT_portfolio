@@ -1,4 +1,16 @@
-> [!info| right] LCD Components
+---
+obsidianUIMode: preview
+Language: N/A
+Category: Study
+Topic: CompTIA A+
+Type: Notes
+System: All
+Source: https://www.youtube.com/professormesser
+Complexity: Beginner
+Keywords: 
+Last Edited: 2025-07-22
+---
+> [!info| right-small] LCD Components
 > - Light source
 > - Polarizing filter
 > - electrodes

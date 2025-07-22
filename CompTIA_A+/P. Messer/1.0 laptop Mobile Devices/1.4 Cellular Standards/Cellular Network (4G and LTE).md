@@ -1,3 +1,15 @@
+---
+obsidianUIMode: preview
+Language: N/A
+Category: Study
+Topic: CompTIA A+
+Type: Notes
+System: All
+Source: https://www.youtube.com/professormesser
+Complexity: Beginner
+Keywords: 
+Last Edited: 2025-07-22
+---
 ## Long Term Evolution(LTE)
 - a "4G" technology
 - converged standard (GSM and CMDA providers)

@@ -7,8 +7,10 @@ Type:
 System: 
 Element type: 
 Flags(y/n): 
-Keywords(y/n): 
+Actions: 
 Source: 
 Complexity: 
+Keywords: 
+aliases: 
 Last Edited:
 ---

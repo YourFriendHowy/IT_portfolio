@@ -1,7 +1,16 @@
 ---
-Topic: Laptops
+obsidianUIMode: preview
+Language: N/A
+Category: Study
+Topic: CompTIA A+
+Type: Notes
+System: All
+Source: https://www.youtube.com/professormesser
+Complexity: Beginner
+Keywords: 
+Last Edited: 2025-07-22
 ---
-# Keyboards ([[Laptops]])
+# Keyboards
 - Most used component of Laptops
 	- Can be easy to replace
 	- A few screws and single ribbon

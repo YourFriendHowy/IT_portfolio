@@ -1,3 +1,15 @@
+---
+obsidianUIMode: preview
+Language: Python 3
+Category: Programming
+Topic: COMS-170 Intro to Programming
+Type: Completed Code
+System: Any
+Element type: Code Block
+Source: Matthew Howard(Myself)
+Complexity: Intermediate
+Last Edited: 2025-07-22
+---
 ```python
 
 decrypt = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", ".", "1", "2", "3", "4", "5", "6", "7", "8", "9"]

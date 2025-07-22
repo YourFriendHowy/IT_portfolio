@@ -1,7 +1,16 @@
 ---
-Topic: Laptops
+obsidianUIMode: preview
+Language: N/A
+Category: Study
+Topic: CompTIA A+
+Type: Notes
+System: All
+Source: https://www.youtube.com/professormesser
+Complexity: Beginner
+Keywords: 
+Last Edited: 2025-07-22
 ---
-# Storage([[Laptops]])
+# Storage
 ## Magnetic disk (HDD)
 - Traditional spinning drive platters
 - 2.5 form factors (3.5 inch for desktops)
