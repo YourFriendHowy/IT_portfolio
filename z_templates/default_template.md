@@ -11,5 +11,16 @@ Source:
 Complexity: 
 Keywords: 
 aliases: 
-Last Edited:
+LastEdited:
 ---
+>[!infobox]
+> # `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Topic|`=this.Topic`
+> Source| `=this.Source`
+> Last Edit|`=this.LastEdited`
+> # Important
+> -

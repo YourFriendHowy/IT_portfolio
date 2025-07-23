@@ -7,7 +7,9 @@ Type:
 Systems: 
 Source: 
 Keywords: 
-VaultUpdates:
+VaultUpdates: 
+Time: 
+TypeTime:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
@@ -32,6 +34,8 @@ _%>
 > Languages studied|`=this.Language`
 > Changelog|`=this.VaultUpdates`
 > Study Sources| `=this.Sources`
+> Time Spent Studying|`=this.Time`
+> Keyboard Practice|`=this.TypeTime`
 ### What I did today:
 *Breakdown today's lessons, using commit styled bullets*
 - Learned the difference between `apt` and `apt-get`
@@ -45,3 +49,11 @@ _%>
 
 ### Thoughts:  
 *Short passage on the days progress" IE:Starting to grasp package management more fluently. Found a good rhythm in taking notes while watching videos. Still need to research `snap` vs `flatpak`.*
+
+---
+#### **Tomorrow**
+
+- 
+- 
+#### **Future**
+- 
