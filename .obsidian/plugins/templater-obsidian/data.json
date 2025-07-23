@@ -17,6 +17,10 @@
     {
       "folder": "Linux_Notes/Commands",
       "template": "z_templates/command_template.md"
+    },
+    {
+      "folder": "Progress Journal",
+      "template": "z_templates/progress_template.md"
     }
   ],
   "enable_file_templates": false,

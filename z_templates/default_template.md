@@ -6,8 +6,7 @@ Topic:
 Type: 
 System: 
 Element type: 
-Flags(y/n): 
-Actions: 
+Arguments: 
 Source: 
 Complexity: 
 Keywords: 
