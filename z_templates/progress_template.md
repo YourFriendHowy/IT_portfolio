@@ -11,13 +11,9 @@ Keywords:
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
 
-const date = new Date();
+var date = moment();
 
-let day = date.getDate();
-let month = date.getMonth() + 1;
-let year = date.getFullYear();
-
-let currentDate = `${year}-${month}-${day}`;
+var currentDate = date.format('YYYY-MM-DD')
 
 let title;
 if (!hasTitle) {
