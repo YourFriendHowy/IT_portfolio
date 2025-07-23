@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "defaultViewMode": "preview",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "z_resources/z-Images"
 }

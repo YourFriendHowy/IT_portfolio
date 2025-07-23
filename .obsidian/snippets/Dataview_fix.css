@@ -13,10 +13,10 @@
 
 /* Optional: highlight header row */
 .dataview thead {
-    background-color: #e0f8cf; /* light green tint */
+    background-color: #306850; /* light green tint */
 }
 
 /* Optional: alternating row colors for readability */
 .dataview tr:nth-child(even) {
-    background-color: rgba(134, 192, 108, 0.05);
+    background-color: rgba(134, 192, 108, 0.1);
 }
