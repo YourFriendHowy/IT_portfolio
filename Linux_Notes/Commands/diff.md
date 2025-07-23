@@ -18,10 +18,18 @@ Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
+> -
 
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
 
 | Flag/Action/Keyword | Meaning | Effect | Example |
 | ------------------- | ------- | ------ | ------- |

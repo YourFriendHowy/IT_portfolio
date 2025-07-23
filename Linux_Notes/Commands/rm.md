@@ -18,12 +18,18 @@ Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-> [!attention| right-large] Use Caution
-> When rm is used file is removed completely, not moved to be deleted like recycling bin
-
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
+>> [!attention] Use Caution
+>> When `rm` is used file is removed completely, not moved to be deleted like recycling bin.
 
 | Flag/Action/Keyword | Meaning   | Effect                                                                                                | Example |
 | ------------------- | --------- | ----------------------------------------------------------------------------------------------------- | ------- |

@@ -1,8 +1,10 @@
 ---
 obsidianUIMode: preview
-Language: Bash
+Language:
+  - Bash
 Category: Commands
-Topic: Terminal
+Topic:
+  - Terminal
 Type: Bash Command
 System: Linux
 Element type: 
@@ -15,7 +17,7 @@ Meaning:
 Function: 
 Shortcut: 
 Built-in: 
-Last Edited: 2025-07-22
+Last Edited: ""
 ---
 
 <%*
@@ -29,10 +31,17 @@ if (!hasTitle) {
 }
 _%>
 
-
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
+> -
 
 | Flag/Action/Keyword | Meaning | Effect | Example |
 | ------------------- | ------- | ------ | ------- |

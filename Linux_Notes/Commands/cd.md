@@ -18,12 +18,17 @@ Shortcut: supports TAB for auto-completion
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-> [!tip| right-small]
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
 > `cd ~` will return you to the home directory
-
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
 
 | Flag/Action/Keyword | Meaning | Effect | Example |
 | ------------------- | ------- | ------ | ------- |

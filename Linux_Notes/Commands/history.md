@@ -18,12 +18,17 @@ Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-> [!NOTE|right-small] Tip
-> `space` prior to command prevents it from being on hisotry
-
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
+> - `space` prior to command prevents it from being on hisotry
 
 | Flag/Action/Keyword | Meaning                | Effect                             | Example                                         |
 | ------------------- | ---------------------- | ---------------------------------- | ----------------------------------------------- |

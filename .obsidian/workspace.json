@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/progress_template.md",
+                "file": "Linux_Notes/Commands/systemctl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "progress_template"
+              "title": "systemctl"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "45e084586d88363b",
         "type": "tabs",
-        "dimension": 21.1395101171459,
+        "dimension": 15.209125475285171,
         "children": [
           {
             "id": "f74c53671a210d1c",
@@ -51,7 +51,7 @@
       {
         "id": "cb8faa5f59647d3e",
         "type": "tabs",
-        "dimension": 39.43024494142705,
+        "dimension": 69.58174904942965,
         "children": [
           {
             "id": "6b45e77ca2fed21c",
@@ -98,7 +98,7 @@
       {
         "id": "a979a95382c63e5b",
         "type": "tabs",
-        "dimension": 39.43024494142705,
+        "dimension": 15.209125475285171,
         "children": [
           {
             "id": "ee4c84cbb9dac2ab",
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_templates/progress_template.md",
+                "file": "Linux_Notes/Commands/systemctl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of progress_template"
+              "title": "Outline of systemctl"
             }
           }
         ]
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_templates/progress_template.md",
+                "file": "Linux_Notes/Commands/systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for progress_template"
+              "title": "Backlinks for systemctl"
             }
           }
         ],
@@ -234,31 +234,33 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "Progress Journal/2025-07-22.md",
-    "Changelog.md",
-    "z_templates/progress_template.md",
-    "Progress Journal/2025-07-23.md",
-    "z_templates/default_template.md",
-    "z_templates/command_template.md",
-    "Progress Journal",
-    "Linux_Notes/Command Quick Reference.md",
-    "Drawing 2025-07-22 20.35.49.excalidraw.md",
-    "Untitled 1.md",
-    "Linux_Notes/Commands/which.md",
-    "Linux_Notes/Commands/cd.md",
-    "Linux_Notes/Commands/vim.md",
-    "Linux_Notes/Commands/userdel.md",
-    "Linux_Notes/Commands/uptime.md",
-    "Linux_Notes/Commands/touch.md",
-    "Linux_Notes/Commands/tail.md",
-    "Linux_Notes/Commands/systemctl.md",
     "Linux_Notes/Commands/sudo.md",
     "Linux_Notes/Commands/rm.md",
     "Linux_Notes/Commands/pwd.md",
     "Linux_Notes/Commands/passwd.md",
     "Linux_Notes/Commands/nano.md",
-    "Linux_Notes/Commands/htop.md",
+    "Linux_Notes/Commands/mv.md",
+    "Linux_Notes/Commands/mkdir.md",
     "Linux_Notes/Commands/ls.md",
+    "Linux_Notes/Commands/htop.md",
+    "Linux_Notes/Commands/history.md",
+    "Linux_Notes/Commands/head.md",
+    "z_templates/command_template.md",
+    "Linux_Notes/Commands/groups.md",
+    "Linux_Notes/Commands/groupdel.md",
+    "Linux_Notes/Commands/groupadd.md",
+    "Linux_Notes/Commands/free.md",
+    "Linux_Notes/Commands/df.md",
+    "Linux_Notes/Commands/apt.md",
+    "Linux_Notes/Commands/cat.md",
+    "Linux_Notes/Commands/cd.md",
+    "Linux_Notes/Commands/chmod.md",
+    "Linux_Notes/Commands/clear.md",
+    "Linux_Notes/Commands/cp.md",
+    "Linux_Notes/Commands/diff.md",
+    "Linux_Notes/Commands/alias.md",
+    "Linux_Notes/Commands/adduser.md",
+    "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
     "Linux_Notes/Commands",

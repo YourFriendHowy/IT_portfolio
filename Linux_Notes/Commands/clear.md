@@ -18,9 +18,15 @@ Shortcut: ctrl+l
 Built-in: "True"
 Last Edited:
 ---
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
 
 | Flag/Action/Keyword | Meaning         | Effect                 | Example |
 | ------------------- | --------------- | ---------------------- | ------- |

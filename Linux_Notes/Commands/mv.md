@@ -18,14 +18,18 @@ Shortcut: N/A
 Built-in: "True"
 Last Edited: 2025-07-22
 ---
-# mv
-
-- `../file.txt .` moves `file.txt` from the parent directory to active directory.
-- is used to rename files. `mv file.txt newname.txt` 
-
-| Command           | Meaning         | Function         | Shortcuts        |
-| ----------------- | --------------- | ---------------- | ---------------- |
-| `=this.file.name` | `=this.Meaning` | `=this.Function` | `=this.Shortcut` |
+>[!infobox]
+> # Command: `=this.file.name`
+> Category |  Info |
+> ---|---|
+> System|`=this.System`
+> Languages|`=this.Language`
+> Meaning|`=this.Meaning`
+> Function| `=this.Function`
+> Shortcut|`=this.Shortcut`
+> # Important
+> - `../file.txt .` moves `file.txt` from the parent directory to active directory.
+> - is used to rename files. `mv file.txt newname.txt` 
 
 | Flag/Action/Keyword | Meaning | Effect | Example |
 | ------------------- | ------- | ------ | ------- |
