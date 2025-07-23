@@ -6,7 +6,7 @@
       {
         "id": "623cc4918a49c90f",
         "type": "tabs",
-        "dimension": 61.68451801363194,
+        "dimension": 55.25803310613438,
         "children": [
           {
             "id": "c96158df5e2420a5",
@@ -28,7 +28,7 @@
       {
         "id": "fc1c33381136ec7d",
         "type": "tabs",
-        "dimension": 38.31548198636806,
+        "dimension": 44.74196689386562,
         "children": [
           {
             "id": "61802aa47537e7f3",
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Linux_Notes/Command Quick Reference.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/which.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of which"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -238,8 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c96158df5e2420a5",
+  "active": "61802aa47537e7f3",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/which.md",
+    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/userdel.md",
     "Linux_Notes/Commands/uptime.md",
@@ -264,8 +266,6 @@
     "Linux_Notes/Commands/free.md",
     "Linux_Notes/Commands/df.md",
     "Linux_Notes/Commands/cp.md",
-    "Linux_Notes/Commands/clear.md",
-    "Linux_Notes/Commands/chmod.md",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
     "Linux_Notes/Commands",

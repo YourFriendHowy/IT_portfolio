@@ -1,0 +1,22 @@
+/* Fix Dataview table appearance and apply custom green borders */
+.dataview table,
+.dataview th,
+.dataview td {
+    border: 1px solid #86c06c;
+    border-collapse: collapse;
+}
+
+.dataview th,
+.dataview td {
+    padding: 6px;
+}
+
+/* Optional: highlight header row */
+.dataview thead {
+    background-color: #e0f8cf; /* light green tint */
+}
+
+/* Optional: alternating row colors for readability */
+.dataview tr:nth-child(even) {
+    background-color: rgba(134, 192, 108, 0.05);
+}
