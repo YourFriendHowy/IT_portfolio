@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
 Language: 
-Category: 
+Category: ProgressJournal
 Topic: 
 Type: 
-System: 
+Systems: 
 Source: 
-Keywords:
+Keywords: 
+VaultUpdates:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
@@ -23,6 +24,14 @@ if (!hasTitle) {
     title = tp.file.title;
 }
 _%>
+>[!infobox]
+> ###### `=this.file.name` Summary
+> Type |  Stat |
+> ---|---|
+> Systems used|`=this.System`
+> Languages studied|`=this.Language`
+> Changelog|`=this.VaultUpdates`
+> Study Sources| `=this.Sources`
 ### What I did today:
 *Breakdown today's lessons, using commit styled bullets*
 - Learned the difference between `apt` and `apt-get`

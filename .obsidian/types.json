@@ -37,6 +37,8 @@
     "Element type": "multitext",
     "Language": "multitext",
     "Source": "multitext",
-    "Sources": "multitext"
+    "Sources": "multitext",
+    "Systems": "multitext",
+    "Topic": "multitext"
   }
 }

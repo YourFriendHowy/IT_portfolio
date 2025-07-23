@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-07-22.md",
+                "file": "z_templates/progress_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "progress_template"
             }
           }
         ]
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-07-22.md",
+                "file": "z_templates/progress_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of progress_template"
             }
           }
         ]
@@ -185,6 +185,25 @@
               "icon": "command-glyph",
               "title": "Execution Runtimes"
             }
+          },
+          {
+            "id": "a4ae837193cd7f18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_templates/progress_template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for progress_template"
+            }
           }
         ],
         "currentTab": 2
@@ -215,8 +234,8 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "Changelog.md",
     "Progress Journal/2025-07-22.md",
+    "Changelog.md",
     "z_templates/progress_template.md",
     "Progress Journal/2025-07-23.md",
     "z_templates/default_template.md",
