@@ -5,9 +5,9 @@ Category: Commands
 Topic: Terminal
 Type: Bash Command
 System: Linux
-Element type: 
-Flags: "False"
-Actions: "False"
+Element type:
+  - Shell Built-in
+Arguments: N
 Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Beginner
 Keywords: 

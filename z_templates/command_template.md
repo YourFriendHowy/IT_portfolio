@@ -6,8 +6,7 @@ Topic: Terminal
 Type: Bash Command
 System: Linux
 Element type: 
-Flags: 
-Actions: 
+Arguments: 
 Source: 
 Complexity: 
 Keywords: 

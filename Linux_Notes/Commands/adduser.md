@@ -5,17 +5,17 @@ Category: Commands
 Topic: Terminal
 Type: Bash Command
 System: Linux
-Element type: 
-Flags: 
-Actions: 
-Source: 
-Complexity: 
+Element type:
+  - Shell Built-in
+Arguments: N
+Source: https://www.youtube.com/@LearnLinuxTV
+Complexity: Intermediate
 Keywords: 
 aliases: 
-Meaning: 
-Function: 
-Shortcut: 
-Built-in: 
+Meaning: Add user
+Function: creates new user; requires sudo
+Shortcut: N/A
+Built-in: "True"
 Last Edited: 2025-07-22
 ---
 

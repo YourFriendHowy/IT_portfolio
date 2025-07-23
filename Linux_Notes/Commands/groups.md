@@ -7,8 +7,7 @@ Type: Bash Command
 System: Linux
 Element type:
   - Shell Built-in
-Flags: "True"
-Actions: "False"
+Arguments: Y
 Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Beginner
 Keywords: 
@@ -28,3 +27,4 @@ Last Edited: 2025-07-22
 | ------------------- | ------- | ------ | ------- |
 |                     |         |        |         |
 |                     |         |        |         |
+- `sudo gpasswd -d user group`   removes user from group

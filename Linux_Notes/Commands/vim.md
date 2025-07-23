@@ -7,8 +7,7 @@ Type: Bash Command
 System: Linux
 Element type:
   - Application
-Flags: "False"
-Actions: "False"
+Arguments: N
 Source: https://www.youtube.com/@LearnLinuxTV
 Complexity: Intermediate
 Keywords: 
