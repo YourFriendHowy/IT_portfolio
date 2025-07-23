@@ -34,6 +34,9 @@
     "MajorTemples": "multitext",
     "excalidraw-embeddable-theme": "text",
     "Keywords": "multitext",
-    "Element type": "multitext"
+    "Element type": "multitext",
+    "Language": "multitext",
+    "Source": "multitext",
+    "Sources": "multitext"
   }
 }
