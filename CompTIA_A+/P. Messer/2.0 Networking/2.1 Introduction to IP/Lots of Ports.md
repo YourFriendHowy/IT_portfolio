@@ -120,4 +120,21 @@ LastEdited: 2025-07-23
 - web server communication
 ###### HTTPS TCP port 443
 - Web server communication with encryption
-POP3
+#### POP3/IMAP
+###### Receive emails from an email server
+- authenticate and transfer
+###### POP3 - Post office protocol version 3
+- port TCP 110
+- Basic mail transfer functionality
+###### IMAP4 - Internet message access protocol v4
+- Port TCP 143
+- Includes management of email inbox from multiple clients
+#### SMB - Server message block
+###### Protocol used by Microsoft windows
+- File sharing, printer sharing
+- Also called CIFS(Common internet file System)
+###### Using NetBIOS over TCP/IP (Network basic input/Output system)
+- Port UDP 137 - NetBIOS name services (nbname)
+- Port TCP 139 - NetBIOS session service (nbsession)
+###### Direct SMB connection over port TCP 445 (NetBIOS-less)
+- Direct SMB communication over TCP without NetBIOS transport
