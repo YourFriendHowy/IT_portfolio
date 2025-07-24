@@ -39,6 +39,7 @@
     "Source": "multitext",
     "Sources": "multitext",
     "Systems": "multitext",
-    "Topic": "multitext"
+    "Topic": "multitext",
+    "LastEdited": "date"
   }
 }

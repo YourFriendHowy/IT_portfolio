@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
-Language: N/A
+Language:
+  - N/A
 Category: Study
-Topic: CompTIA A+
+Topic:
+  - CompTIA A+
 Type: Notes
 System: All
-Source: https://www.youtube.com/professormesser
+Source:
+  - https://www.youtube.com/professormesser
 Complexity: Beginner
 Keywords: 
-Last Edited: 2025-07-22
+Last Edited: 2025-07-23
 ---
 ## Mobile devices
 - "Cell" phones

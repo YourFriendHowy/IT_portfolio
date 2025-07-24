@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -21,6 +21,10 @@
     {
       "folder": "Progress Journal",
       "template": "z_templates/progress_template.md"
+    },
+    {
+      "folder": "CompTIA_A+",
+      "template": "z_templates/A+_template.md"
     }
   ],
   "enable_file_templates": false,

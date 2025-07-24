@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
+                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cellular Network (2G)"
+              "title": "ICloud"
             }
           }
         ]
@@ -106,20 +106,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
+                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cellular Network (2G)"
+              "title": "Outline of ICloud"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 200
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -234,10 +234,23 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Microsoft 365.md",
+    "z_resources/z-Images/Pasted image 20250723212638.png",
+    "z_templates/A+_template.md",
+    "z_templates/default_template.md",
+    "z_templates/command_template.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Untitled.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Hotspot.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Updates.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (5G).md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (4G and LTE).md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (3G).md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
     "z_templates/progress_template.md",
@@ -247,19 +260,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Keyboard.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
-    "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
-    "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Package Management.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Output Redirection.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Logs.md",
-    "Linux_Notes/LearnLinuxTV/Glossary/Load Average.md",
-    "Changelog.md",
-    "z_templates/default_template.md",
-    "z_templates/command_template.md",
-    "Linux_Notes/Commands/which.md",
-    "Linux_Notes/Commands/vim.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",

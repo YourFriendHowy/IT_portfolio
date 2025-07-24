@@ -1,17 +1,15 @@
 ---
 obsidianUIMode: preview
-Language: 
-Category: 
-Topic: 
-Type: 
-System: 
-Element type: 
-Arguments: 
-Source: 
-Complexity: 
+Category: Study
+Topic:
+  - CompTIA A+
+Type: Notes
+System: Any
+Source:
+  - https://www.youtube.com/professormesser
+Complexity: Beginner
 Keywords: 
-aliases: 
-LastEdited:
+LastEdited: 2025-07-23
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
