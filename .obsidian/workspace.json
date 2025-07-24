@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ICloud"
+              "title": "TCP and UDP"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ICloud"
+              "title": "Outline of TCP and UDP"
             }
           }
         ]
@@ -232,15 +232,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c96158df5e2420a5",
+  "active": "6b45e77ca2fed21c",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/IP(Internet Protocol).md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
+    "z_resources/z-Images/Pasted image 20250723214634.png",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
+    "Glossary/Untitled.md",
+    "Glossary/Load Average.md",
+    "z_templates/A+_template.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
+    "z_resources/z-Images/Pasted image 20250723213800.png",
+    "z_resources/z-Images/Pasted image 20250723213657.png",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Synchronizing data.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Microsoft 365.md",
     "z_resources/z-Images/Pasted image 20250723212638.png",
-    "z_templates/A+_template.md",
     "z_templates/default_template.md",
     "z_templates/command_template.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Untitled.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
@@ -255,16 +264,11 @@
     "Progress Journal/2025-07-22.md",
     "z_templates/progress_template.md",
     "COMS-170 Intro to Programming/Coding Assignments/program2.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program8.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Batteries.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Keyboard.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
     "Linux_Notes/Commands",
-    "Linux_Notes/LearnLinuxTV/Glossary",
+    "Glossary",
     "z_templates",
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes",

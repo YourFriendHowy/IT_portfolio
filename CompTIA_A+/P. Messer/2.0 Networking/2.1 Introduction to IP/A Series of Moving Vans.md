@@ -11,16 +11,6 @@ Complexity: Beginner
 Keywords: 
 LastEdited: 2025-07-23
 ---
-<%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Note Title");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 >[!infobox]
 > # `=this.file.name`
 > Category |  Info |
@@ -33,4 +23,13 @@ _%>
 > # Important
 > -
 
-# <%* tp.file.cursor _%>
+# Efficiently move large amounts of data
+- Use a shipping truck
+# The network topology is the road
+- Ethernet, DSL, cable system
+# The truck is the Internet Protocol(IP)
+- We've designed the roads for this truck
+# The boxes hold your data
+- Boxes of TCP and UDP 
+# Inside the boxes are more things
+- Application information

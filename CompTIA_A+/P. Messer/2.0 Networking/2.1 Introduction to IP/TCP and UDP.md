@@ -11,16 +11,6 @@ Complexity: Beginner
 Keywords: 
 LastEdited: 2025-07-23
 ---
-<%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Note Title");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 >[!infobox]
 > # `=this.file.name`
 > Category |  Info |
@@ -33,4 +23,4 @@ _%>
 > # Important
 > -
 
-# <%* tp.file.cursor _%>
+# 

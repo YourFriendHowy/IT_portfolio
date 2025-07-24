@@ -11,16 +11,6 @@ Complexity: Beginner
 Keywords: 
 LastEdited: 2025-07-23
 ---
-<%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter Note Title");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 >[!infobox]
 > # `=this.file.name`
 > Category |  Info |
@@ -32,5 +22,10 @@ _%>
 > Last Edit|`=this.LastEdited`
 > # Important
 > -
+# Ethernet Packet
+-inside the packet is the Ethernet Payload
+	Inside the Ethernet Payload is most likely IP with an IP Payload
+		Inside the IP payload can have a a payload inside such as tcp
+			inside the tcp payload can be data such as HTTP data
 
-# <%* tp.file.cursor _%>
+![[Pasted image 20250723214634.png]]
