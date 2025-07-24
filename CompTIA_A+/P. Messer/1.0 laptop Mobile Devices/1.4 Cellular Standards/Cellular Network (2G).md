@@ -28,7 +28,7 @@ Last Edited: 2025-07-22
 	- originally an EU standard
 	- Worldwide coverage
 - Used by AT&T and T-Mobile in the United States
-	- Move your SIM card (Subscriber Identity Module) from phone to phone
+	- Move your SIM card (Subscriber Identity Module) from phone to phone, phone number follows the sim.
 - Original GSM standard used multiplexing
 	- Everyone gets a little slice of time
 ## CDMA
