@@ -23,12 +23,10 @@ LastEdited: 2025-07-23
 > # Important
 > -
 
-# Transported inside of IP
-- Encapsulated by IP protocol
-# Two ways to move data from place to place
-- Different features for different applications
-# OSI Layer 4
-- The transport layer
-# Multiplexing
-- Use many different applications at the same time
-- TCP and UDP
+# The IP delivery truck delivers from one (IP) address to another (IP) address
+- Every house has an address, every computer has an IP address
+# Boxes arrive at the house/IP address
+- Where do the boxes go?
+- Each box has a room name
+# Port is written on the outside of the box
+- Drop the box(Package) into the right room

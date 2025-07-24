@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TCP and UDP"
+              "title": "Lots of Ports"
             }
           }
         ]
@@ -106,13 +106,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TCP and UDP"
+              "title": "Outline of Lots of Ports"
             }
           }
         ]
@@ -232,11 +232,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b45e77ca2fed21c",
+  "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Speedy Delivery.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP(Transmission Control Protocol).md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/IP(Internet Protocol).md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "z_resources/z-Images/Pasted image 20250723214634.png",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "Glossary/Untitled.md",
@@ -261,9 +265,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Cellular Network (2G).md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
     "Progress Journal/2025-07-23.md",
-    "Progress Journal/2025-07-22.md",
-    "z_templates/progress_template.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program2.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
@@ -273,7 +274,6 @@
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes",
     "CompTIA_A+/TestOut/2.0 PC Technician Responsibilities",
-    "CompTIA_A+/TestOut",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "Untitled 3/Untitled 3.canvas"

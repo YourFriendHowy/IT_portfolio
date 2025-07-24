@@ -23,12 +23,10 @@ LastEdited: 2025-07-23
 > # Important
 > -
 
-# Transported inside of IP
-- Encapsulated by IP protocol
-# Two ways to move data from place to place
-- Different features for different applications
-# OSI Layer 4
-- The transport layer
-# Multiplexing
-- Use many different applications at the same time
-- TCP and UDP
+# IPv4 sockets
+- Server IP address, protocol, server application port number
+- Client IP address, protocol, client port number
+# Non-ephemeral ports - permanent port numbers
+- ports 0 through 1,023
+- Usually on a server or service
+- port 80 commonly associated with 
