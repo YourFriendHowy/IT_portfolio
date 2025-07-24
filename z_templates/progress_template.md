@@ -53,7 +53,11 @@ _%>
 ---
 #### **Tomorrow**
 
-- 
-- 
+- Resume A+ study, goal 2 hours
+
 #### **Future**
-- 
+
+- Begin process to host Obsidian vault to GitHub Pages via Quartz
+- Input The Odin Project Progress and Notes into Vault
+- Build homepage
+- Begin Homelab

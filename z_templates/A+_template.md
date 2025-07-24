@@ -9,7 +9,7 @@ Source:
   - https://www.youtube.com/professormesser
 Complexity: Beginner
 Keywords: 
-LastEdited: 2025-07-23
+LastEdited: 2025-07-24
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
