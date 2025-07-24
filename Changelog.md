@@ -1,3 +1,8 @@
+# 2025-07-23
+```dataview
+table WITHOUT ID link(file.name) AS ""
+where LastEdited = date("2025-07-23")
+```
 
 ### 2025-07-22
 - Overhauled knowledge base structure: added frontmatter properties, implemented standardized templates, and reorganized content for improved consistency and navigation.
