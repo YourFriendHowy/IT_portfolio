@@ -11,17 +11,24 @@ Complexity: Beginner
 Keywords: 
 LastEdited: 2025-07-23
 ---
->[!infobox]
-> # `=this.file.name`
-> Category |  Info |
-> ---|---|
-> System|`=this.System`
-> Languages|`=this.Language`
-> Topic|`=this.Topic`
-> Source| `=this.Source`
-> Last Edit|`=this.LastEdited`
-> # Important
-> -
+
+| Protocol | Port       | Name                              | Description                                    |
+|----------|------------|-----------------------------------|------------------------------------------------|
+| FTP      | tcp 20/21  | File Transfer Protocol            | Active (data) & control channels               |
+| SSH      | tcp 22     | Secure Shell                      | Encrypted remote access                        |
+| Telnet   | tcp 23     | Telnet                            | Unencrypted remote console                     |
+| SMTP     | tcp 25     | Simple Mail Transfer Protocol     | Sending mail between servers                   |
+| DNS      | tcp/udp 53 | Domain Name System                | Hostname ↔ IP resolution                       |
+| DHCP     | udp 67/68  | Dynamic Host Configuration Proto. | Assigning IPs to clients                       |
+| HTTP     | tcp 80     | HyperText Transfer Protocol       | Unencrypted web traffic                        |
+| POP3     | tcp 110    | Post Office Protocol v3           | Retrieving mail (download & delete)            |
+| NetBIOS  | udp/tcp 137–139 | NetBIOS / NetBIOS Session   | Name resolution & Windows file/printer sharing |
+| IMAP     | tcp 143    | Internet Message Access Protocol  | Mail retrieval with server‑side sync           |
+| SNMP     | udp 161/162| Simple Network Mgmt Protocol      | Device monitoring (query/trap)                 |
+| LDAP     | tcp 389    | Lightweight Directory Access Prot.| Directory services                             |
+| HTTPS    | tcp 443    | HTTP Secure                       | Encrypted web traffic                          |
+| SMB      | tcp 445    | Server Message Block (CIFS)       | Windows file/printer/network sharing           |
+| RDP      | tcp 3389   | Remote Desktop Protocol           | Graphical remote desktop access                |
 
 # IPv4 sockets
 - Server IP address, protocol, server application port number
@@ -78,7 +85,7 @@ LastEdited: 2025-07-23
 #### Login to devices remotely
 - Console access
 #### In-the-clear communication
-- non-encrypted, unsecure
+- non-encrypted, unsecured
 - Not the best choice for production systems
 
 ## SMTP - Simple Mail Transfer Protocol
@@ -87,3 +94,30 @@ LastEdited: 2025-07-23
 - TCP port 25
 #### Also used to send mail from a device to mail server
 - Commonly configured on mobile devices and email
+#### Other protocols are used for clients to receive email
+- IMAP, POP3
+## DNS - Domain Name System
+#### Converts names to IP addresses - UDP port 53
+- www.professormesser.com = 162.159.246.164
+#### These are very critical resources
+- Usually multiple DNS servers are in production
+## DHCP - Dynamic Host Configuration Protocol
+#### Automated configuration of IP address, subnet mask and other options
+- UDP ports 67 and 68
+- Requires a DHCP server
+	- Server, appliance, integrated into SOHO router, etc
+#### Dynamic/pooled
+- IP addresses are assigned in real-time from a pool
+- Each system is given a lease and must renew at set intervals
+#### DHCP reservation
+- Addresses are assigned by MAC address in the DHCP server
+- Manage addresses from one location
+## HTTP and HTTPS
+#### Hypertext Transfer Protocol
+- Communication in the browser
+- And by other applications 
+###### HTTP TCP port 80
+- web server communication
+###### HTTPS TCP port 443
+- Web server communication with encryption
+POP3
