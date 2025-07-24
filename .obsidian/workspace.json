@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog.md",
+                "file": "Progress Journal/2025-07-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Changelog"
+              "title": "2025-07-23"
             }
           },
           {
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog.md",
+                "file": "Progress Journal/2025-07-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Changelog"
+              "title": "Outline of 2025-07-23"
             }
           }
         ]
@@ -258,24 +258,24 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
     "Changelog.md",
+    "Progress Journal/2025-07-23.md",
+    "Progress Journal/2025-07-22.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
     "z_templates/A+_template.md",
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "Linux_Notes/Command Quick Reference.md",
-    "Progress Journal/2025-07-23.md",
-    "Progress Journal/2025-07-22.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Speedy Delivery.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP(Transmission Control Protocol).md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/IP(Internet Protocol).md",
     "z_resources/z-Images/Pasted image 20250723214634.png",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "Glossary/Untitled.md",
     "Glossary/Load Average.md",
     "z_resources/z-Images/Pasted image 20250723213800.png",
