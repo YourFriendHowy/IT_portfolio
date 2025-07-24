@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-07-22.md",
-                "mode": "preview",
+                "file": "Progress Journal/2025-07-23.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "2025-07-23"
             }
           }
         ]
@@ -106,20 +106,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-07-22.md",
+                "file": "Progress Journal/2025-07-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-22"
+              "title": "Outline of 2025-07-23"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 200
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -234,8 +234,9 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "z_templates/progress_template.md",
     "Progress Journal/2025-07-22.md",
+    "Progress Journal/2025-07-23.md",
+    "z_templates/progress_template.md",
     "COMS-170 Intro to Programming/Coding Assignments/program2.md",
     "COMS-170 Intro to Programming/Coding Assignments/program8.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Batteries.md",
@@ -259,7 +260,6 @@
     "Linux_Notes/Commands/uptime.md",
     "Linux_Notes/Commands/touch.md",
     "Linux_Notes/Commands/tail.md",
-    "Linux_Notes/Commands/systemctl.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
