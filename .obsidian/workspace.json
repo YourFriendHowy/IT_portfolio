@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/A+_template.md",
-                "mode": "preview",
+                "file": "Progress Journal/2025-07-25.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A+_template"
+              "title": "2025-07-25"
             }
           },
           {
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_templates/A+_template.md",
+                "file": "Progress Journal/2025-07-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A+_template"
+              "title": "Outline of 2025-07-25"
             }
           }
         ]
@@ -259,6 +259,8 @@
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
     "z_templates/progress_template.md",
+    "Progress Journal/2025-07-25.md",
+    "z_templates/A+_template.md",
     "Progress Journal/2025-07-23.md",
     "Changelog.md",
     "Progress Journal/2025-07-22.md",
@@ -266,7 +268,6 @@
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
-    "z_templates/A+_template.md",
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "Linux_Notes/Command Quick Reference.md",
@@ -290,7 +291,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Hotspot.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Updates.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
