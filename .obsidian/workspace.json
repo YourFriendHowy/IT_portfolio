@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "2025-07-25"
             }
-          },
-          {
-            "id": "b87827cd1cad46b1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,12 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Progress Journal/Progress Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Progress Journal"
             }
           }
         ]
@@ -253,10 +241,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ce52eb802d3fb89f",
+  "active": "6b45e77ca2fed21c",
   "lastOpenFiles": [
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-25.md",
