@@ -12,7 +12,8 @@ Time:
 TypeTime: 
 NewLetters: 
 KeyAccuracy: 
-WPMaverage:
+WPMaverage: 
+DateCreated:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");

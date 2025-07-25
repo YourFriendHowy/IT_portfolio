@@ -22,5 +22,7 @@
   "execute-code",
   "code-styler",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "make-md"
 ]

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Progress Journal/2025-07-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -23,30 +23,19 @@
             }
           },
           {
-            "id": "34fad9c280b528a8",
+            "id": "b87827cd1cad46b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-uri-view",
               "state": {
-                "file": "COMS-170 Intro to Programming/Coding Assignments/program3.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "program3"
+              "title": "https://www.make.md/static/latest.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +47,7 @@
       {
         "id": "45e084586d88363b",
         "type": "tabs",
-        "dimension": 15.20912547528517,
+        "dimension": 44.58993797381117,
         "children": [
           {
             "id": "f74c53671a210d1c",
@@ -69,13 +58,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ce52eb802d3fb89f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb8faa5f59647d3e",
         "type": "tabs",
-        "dimension": 69.58174904942967,
+        "dimension": 40.17918676774638,
         "children": [
           {
             "id": "6b45e77ca2fed21c",
@@ -122,7 +122,7 @@
       {
         "id": "a979a95382c63e5b",
         "type": "tabs",
-        "dimension": 15.20912547528517,
+        "dimension": 15.230875258442452,
         "children": [
           {
             "id": "ee4c84cbb9dac2ab",
@@ -130,13 +130,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-07-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-25"
+              "title": "Outline"
             }
           }
         ]
@@ -253,22 +252,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c96158df5e2420a5",
+  "active": "ce52eb802d3fb89f",
   "lastOpenFiles": [
-    "z_templates/progress_template.md",
-    "Progress Journal/2025-07-25.md",
-    "z_templates/A+_template.md",
     "Progress Journal/2025-07-23.md",
-    "Changelog.md",
+    "Progress Journal/2025-07-25.md",
+    "Progress Journal/Progress Journal.md",
+    "Tags",
     "Progress Journal/2025-07-22.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program3.md",
+    "z_templates/progress_template.md",
+    "z_templates/default_template.md",
+    "z_templates/command_template.md",
+    "z_templates/A+_template.md",
+    "Changelog.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
-    "COMS-170 Intro to Programming/Coding Assignments/program3.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "Linux_Notes/Command Quick Reference.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Speedy Delivery.md",
@@ -285,12 +289,9 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Synchronizing data.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Microsoft 365.md",
     "z_resources/z-Images/Pasted image 20250723212638.png",
-    "z_templates/default_template.md",
-    "z_templates/command_template.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Hotspot.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
@@ -299,7 +300,6 @@
     "z_templates",
     "Linux_Notes/LearnLinuxTV",
     "Linux_Notes",
-    "CompTIA_A+/TestOut/2.0 PC Technician Responsibilities",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "Untitled 3/Untitled 3.canvas"
