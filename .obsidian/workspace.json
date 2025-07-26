@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/R2-Defensive Security Intro.md",
+                "file": "Changelog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R2-Defensive Security Intro"
+              "title": "Changelog"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/R2-Defensive Security Intro.md",
+                "file": "Changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R2-Defensive Security Intro"
+              "title": "Outline of Changelog"
             }
           }
         ]
@@ -254,10 +254,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "c96158df5e2420a5",
+  "active": "6b45e77ca2fed21c",
   "lastOpenFiles": [
-    "TryHackMe/R1-Offensive Security Intro.md",
-    "TryHackMe/R2-Defensive Security Intro.md",
+    "TryHackMe/CyberSecurity101",
+    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "z_templates/A+_template.md",
     "z_templates/command_template.md",
     "z_templates/default_template.md",
@@ -284,7 +285,6 @@
     "Tags",
     "Progress Journal/2025-07-22.md",
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",

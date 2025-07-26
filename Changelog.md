@@ -2,11 +2,12 @@
 table WITHOUT ID link(file.name) AS "Used to Parse files of the day, Adjust code to todays date"
 where LastEdited = date("2025-07-00")
 ```
-# 2025-07-27
+# 2025-07-25
 - Add plugin Omnisearch
 - Add plugin make.md
 - Add property `DateCreated` to all templates
 - Enable Daily Note core plugin
+- Added TryHackMe folder
 # 2025-07-23
 
 | File                                                                                                                                                                     | Action  | Details                                               |
