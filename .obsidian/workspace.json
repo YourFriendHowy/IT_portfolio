@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OLED"
+              "title": "Lots of Ports"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OLED"
+              "title": "Outline of Lots of Ports"
             }
           }
         ]
@@ -256,12 +256,13 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Wi-fi Antennas.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Webcam and Microphone.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Keyboard.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Storage.md",
@@ -282,7 +283,6 @@
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/TCP and UDP.md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
