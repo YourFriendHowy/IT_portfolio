@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog.md",
+                "file": "TryHackMe/L1-Offensive Security Intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Changelog"
+              "title": "L1-Offensive Security Intro"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog.md",
+                "file": "TryHackMe/L1-Offensive Security Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Changelog"
+              "title": "Outline of L1-Offensive Security Intro"
             }
           }
         ]
@@ -256,7 +256,10 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "z_resources/z-Images/Pasted image 20250725224203.png",
     "Progress Journal/2025-07-25.md",
+    "TryHackMe/L1-Offensive Security Intro.md",
+    "TryHackMe",
     "Changelog.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
@@ -281,8 +284,6 @@
     "z_templates/command_template.md",
     "z_templates/A+_template.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
@@ -297,7 +298,6 @@
     "Glossary",
     "z_templates",
     "Linux_Notes/LearnLinuxTV",
-    "Linux_Notes",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "Untitled 3/Untitled 3.canvas"
