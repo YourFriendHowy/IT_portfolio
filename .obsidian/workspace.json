@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/L1-Offensive Security Intro.md",
+                "file": "TryHackMe/R2-Defensive Security Intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L1-Offensive Security Intro"
+              "title": "R2-Defensive Security Intro"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/L1-Offensive Security Intro.md",
+                "file": "TryHackMe/R2-Defensive Security Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of L1-Offensive Security Intro"
+              "title": "Outline of R2-Defensive Security Intro"
             }
           }
         ]
@@ -256,9 +256,14 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "TryHackMe/R1-Offensive Security Intro.md",
+    "TryHackMe/R2-Defensive Security Intro.md",
+    "z_templates/A+_template.md",
+    "z_templates/command_template.md",
+    "z_templates/default_template.md",
+    "z_templates/progress_template.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "Progress Journal/2025-07-25.md",
-    "TryHackMe/L1-Offensive Security Intro.md",
     "TryHackMe",
     "Changelog.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
@@ -279,10 +284,6 @@
     "Tags",
     "Progress Journal/2025-07-22.md",
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
-    "z_templates/progress_template.md",
-    "z_templates/default_template.md",
-    "z_templates/command_template.md",
-    "z_templates/A+_template.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",

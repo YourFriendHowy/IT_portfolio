@@ -1,17 +1,14 @@
 ---
 obsidianUIMode: preview
-Language: 
-Category: 
-Topic: 
-Type: 
-System: 
-Element type: 
-Arguments: 
-Source: 
-Complexity: 
-Keywords: 
-aliases: 
-DateCreated: 
+Category: Cyber-security
+Topic:
+  - Offensive
+Type: Introduction
+System: Any
+Source:
+  - TryHackMe.com
+Complexity: Beginner
+DateCreated: 2025-07-25
 LastEdited:
 ---
 >[!infobox]
