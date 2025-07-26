@@ -44,4 +44,9 @@ LastEdited:
 	- Unauthorized activity, Watch for users logging in off hours, or accessing data they shouldn't
 	- Network intrusions, detect and prevent further damage
 ### Threat Intelligence
-- 
+- Build knowledge before a threat not after, a Threat-informed Defense
+### Digital Forensics and Incident Response (DFIR)
+- Digital Forensics
+- Incident Response
+- Malware Analysis
+###### Digital Forensics
