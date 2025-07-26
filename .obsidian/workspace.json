@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
-                "mode": "preview",
+                "file": "Changelog.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lots of Ports"
+              "title": "Changelog"
             }
           }
         ]
@@ -126,20 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+                "file": "Changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lots of Ports"
+              "title": "Outline of Changelog"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 200
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -256,6 +256,9 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "Progress Journal/2025-07-25.md",
+    "Changelog.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
@@ -268,7 +271,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Storage.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
-    "Progress Journal/2025-07-25.md",
     "Progress Journal/Progress Journal.md",
     "Progress Journal/2025-07-23.md",
     "Tags",
@@ -278,9 +280,7 @@
     "z_templates/default_template.md",
     "z_templates/command_template.md",
     "z_templates/A+_template.md",
-    "Changelog.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/ICloud.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/A Series of Moving Vans.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/UDP (User Datagram Protocol).md",
     "z_resources/z-Images/Pasted image 20250723221815.png",
