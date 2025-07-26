@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-07-25.md",
+                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
                 "mode": "preview",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-07-25"
+              "title": "Memory"
             }
           }
         ]
@@ -117,20 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/Progress Journal.md",
+                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Progress Journal"
+              "title": "Outline of Memory"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 428.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -245,11 +254,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6b45e77ca2fed21c",
+  "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "Progress Journal/2025-07-23.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Keyboard.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Storage.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
     "Progress Journal/2025-07-25.md",
     "Progress Journal/Progress Journal.md",
+    "Progress Journal/2025-07-23.md",
     "Tags",
     "Progress Journal/2025-07-22.md",
     "COMS-170 Intro to Programming/Coding Assignments/program3.md",
@@ -276,11 +289,7 @@
     "z_resources/z-Images/Pasted image 20250723213800.png",
     "z_resources/z-Images/Pasted image 20250723213657.png",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Synchronizing data.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Microsoft 365.md",
     "z_resources/z-Images/Pasted image 20250723212638.png",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Configuring a mobile device.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/MDM (Mobile Device Management).md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.4 Cellular Standards/Bluetooth.md",
     "Progress Journal",
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",

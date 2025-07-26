@@ -43,7 +43,10 @@
     "//CompTIA_A+",
     "//CompTIA_A+/CompTIA_A+/P. Messer",
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/4.0 Virtualization and Cloud Computing",
-    "//Tags"
+    "//Tags",
+    "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices",
+    "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware",
+    "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
