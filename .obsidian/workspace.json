@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog.md",
+                "file": "Progress Journal/2025-07-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Changelog"
+              "title": "2025-07-26"
             }
           }
         ]
@@ -59,24 +59,6 @@
             "id": "ce52eb802d3fb89f",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cb8faa5f59647d3e",
-        "type": "tabs",
-        "dimension": 40.17918676774638,
-        "children": [
-          {
-            "id": "6b45e77ca2fed21c",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
@@ -86,6 +68,24 @@
               "title": "Files"
             }
           },
+          {
+            "id": "164e6eaeed4e3bd0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cb8faa5f59647d3e",
+        "type": "tabs",
+        "dimension": 40.17918676774638,
+        "children": [
           {
             "id": "44b6e3dc44a13ce5",
             "type": "leaf",
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog.md",
+                "file": "Progress Journal/2025-07-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Changelog"
+              "title": "Outline of 2025-07-26"
             }
           }
         ]
@@ -254,8 +254,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6b45e77ca2fed21c",
+  "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "Progress Journal/2025-07-26.md",
+    "Changelog.md",
     "TryHackMe/CyberSecurity101",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
@@ -266,7 +268,6 @@
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "Progress Journal/2025-07-25.md",
     "TryHackMe",
-    "Changelog.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
@@ -298,7 +299,6 @@
     "Linux_Notes/Commands",
     "Glossary",
     "z_templates",
-    "Linux_Notes/LearnLinuxTV",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "Untitled 3/Untitled 3.canvas"
