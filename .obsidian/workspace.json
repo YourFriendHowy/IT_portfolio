@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/df.md",
+                "file": "Progress Journal/2025-07-27.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "df"
+              "title": "2025-07-27"
             }
           }
         ]
@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "288bd9ef20967061",
+            "id": "81f4d9543eac9da2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/df.md",
+                "file": "Progress Journal/2025-07-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of df"
+              "title": "Outline of 2025-07-27"
             }
           }
         ]
@@ -256,6 +256,8 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/df.md",
+    "Progress Journal/2025-07-27.md",
     "Linux_Notes/Commands/diff.md",
     "Linux_Notes/Commands/free.md",
     "Progress Journal/2025-07-26.md",
@@ -283,8 +285,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Storage.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.0 laptop Mobile Devices.md",
-    "Progress Journal/Progress Journal.md",
-    "Progress Journal/2025-07-23.md",
     "Tags",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
