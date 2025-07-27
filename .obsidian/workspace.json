@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-07-27.md",
-                "mode": "preview",
+                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-27"
+              "title": "R2-Defensive Security Intro"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-07-27.md",
+                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-27"
+              "title": "Outline of R2-Defensive Security Intro"
             }
           }
         ]
@@ -256,11 +256,11 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
-    "Linux_Notes/Commands/df.md",
+    "Progress Journal/2025-07-26.md",
     "Progress Journal/2025-07-27.md",
+    "Linux_Notes/Commands/df.md",
     "Linux_Notes/Commands/diff.md",
     "Linux_Notes/Commands/free.md",
-    "Progress Journal/2025-07-26.md",
     "Progress Journal/2025-07-25.md",
     "Changelog.md",
     "TryHackMe/CyberSecurity101",
