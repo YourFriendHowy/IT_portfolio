@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Progress Journal/2025-07-26.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "164e6eaeed4e3bd0",
+            "id": "288bd9ef20967061",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -256,6 +256,7 @@
   },
   "active": "c96158df5e2420a5",
   "lastOpenFiles": [
+    "Progress Journal/2025-07-25.md",
     "Progress Journal/2025-07-26.md",
     "Changelog.md",
     "TryHackMe/CyberSecurity101",
@@ -266,7 +267,6 @@
     "z_templates/default_template.md",
     "z_templates/progress_template.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
-    "Progress Journal/2025-07-25.md",
     "TryHackMe",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
