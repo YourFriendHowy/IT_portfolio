@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Screen.md",
+                "file": "Homescreen.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home Screen"
+              "title": "Homescreen"
+            }
+          },
+          {
+            "id": "9fb33cfadd937c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homescreen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homescreen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Screen.md",
+                "file": "Homescreen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home Screen"
+              "title": "Outline of Homescreen"
             }
           }
         ]
@@ -278,10 +302,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "681ac73ef621d03b",
+  "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "Changelog.md",
-    "Home Screen.md",
+    "README.md",
+    "Config",
+    "Projects",
+    "CHANGELOG.md",
+    "Homescreen.md",
     "[[Changelog]].md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Batteries.md",
@@ -307,8 +334,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Backlights.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Wi-fi Antennas.md",
     "Tags",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
@@ -321,8 +346,6 @@
     "The Odin Project",
     "Linux_Notes/LearnLinuxTV/Notes",
     "Linux_Notes/Commands",
-    "Glossary",
-    "z_templates",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "Untitled 3/Untitled 3.canvas"

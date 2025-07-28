@@ -53,4 +53,4 @@ view My Resume
 ---
 
 ## Changelog  
-[View the Vault Changelog](Changelog)
+[View the Vault Changelog](CHANGELOG.md)
