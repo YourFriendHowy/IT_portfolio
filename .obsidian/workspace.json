@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home Screen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -280,10 +280,12 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Changelog.md",
+    "Home Screen.md",
+    "[[Changelog]].md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Batteries.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
-    "Home Screen.md",
     "Progress Journal/2025-07-28.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "Progress Journal/2025-07-26.md",
@@ -292,7 +294,6 @@
     "Linux_Notes/Commands/diff.md",
     "Linux_Notes/Commands/free.md",
     "Progress Journal/2025-07-25.md",
-    "Changelog.md",
     "TryHackMe/CyberSecurity101",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "z_templates/A+_template.md",
@@ -308,7 +309,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/OLED.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Wi-fi Antennas.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Webcam and Microphone.md",
     "Tags",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",

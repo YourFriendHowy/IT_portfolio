@@ -1,27 +1,24 @@
 # <p style="text-align:center">Techpedia</p>
-######  <p style="text-align:center">A Knowledge-base and Portfolio by Matthew Howard</p>
-
-
-> A living knowledge base, skill archive, and project portfolio by [Your Name]
+> A living knowledge base, skill archive, and project portfolio by Matt Howard
 
 ---
 
-## 🧭 How to Use Techpedia
+## How to Use Techpedia
 This vault is both a learning record and reference tool.  
-[➡️ Read the full README for navigation, structure, and conventions](./README.md)
+Read the full README for navigation, structure, and conventions
 
 ---
 
-## 👤 About Me
+## About Me
 [Your Name]  
-- Red teamer in training | [Other Titles]
-- Current certs: [List]
-- Notable accolades: [Brief bullet list of recognitions, if any]
+- Red teamer in training | Other Titles
+- Current certs: List
+- Notable accolades: Brief bullet list of recognitions, if any
 - Areas of focus: security, automation, low-level systems
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
 | Date       | Focus                     | Link            |
 |------------|---------------------------|-----------------|
@@ -29,33 +26,31 @@ This vault is both a learning record and reference tool.
 | 2025-07-27 | A+ Review: Wireless       | [Entry](...)    |
 | ...        | ...                       | ...             |
 
-[🗂️ Full Journal Index](./ProgressJournal/)
+Full Journal Index
 
 ---
 
-## 🔨 Recent Projects
+## Recent Projects
 
-- [🛡️ Port Scanner in Python](./Projects/Python/PortScanner.md) – TCP socket tool with CLI args
-- [🧠 Flashcard CLI](./Projects/Python/FlashcardTool.md) – Terminal-based quiz engine
-- [📁 Dotfile Backup System](./Projects/Bash/DotfileSync.md) – Alias-driven home config sync
+- Port Scanner in Python – TCP socket tool with CLI args
 
-[📚 Full Project List](./Projects/)
 
----
-
-## 📄 Resume
-
-[📎 View My Resume (PDF)](./Resume.pdf)
+Full Project List
 
 ---
 
-## 🔧 Customizations & Config
-
-- [⚙️ My Obsidian Settings](./Config/ObsidianSettings.md)
-- [⌨️ Custom Keybinds](./Config/Keybinds.md)
-- [📜 Bash Aliases](./Config/Aliases.md)
+## Resume
+view My Resume
 
 ---
 
-## 📈 Changelog  
-[View the Vault Changelog](./CHANGELOG.md)
+## Customizations & Config
+
+- My Obsidian Settings
+- Custom Keybinds
+- Bash Aliases
+
+---
+
+## Changelog  
+[View the Vault Changelog](Changelog)
