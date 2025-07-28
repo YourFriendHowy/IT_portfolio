@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
-                "mode": "preview",
+                "file": "Home Screen.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Biometrics and NFC"
+              "title": "Home Screen"
             }
           }
         ],
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
+                "file": "Home Screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biometrics and NFC"
+              "title": "Outline of Home Screen"
             }
           }
         ]
@@ -280,6 +280,7 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Biometrics and NFC.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Batteries.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
     "Home Screen.md",
@@ -308,7 +309,6 @@
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Digitizer.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Wi-fi Antennas.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Webcam and Microphone.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/Memory.md",
     "Tags",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
