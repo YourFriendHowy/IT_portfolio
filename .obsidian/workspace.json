@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
-                "mode": "source",
+                "file": "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "A+ Core 1 Exam Objectives"
             }
           }
         ],
@@ -94,20 +94,17 @@
             }
           },
           {
-            "id": "d35312b1333dc21c",
+            "id": "fd4d8e72263620d5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -154,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of A+ Core 1 Exam Objectives"
             }
           }
         ]
@@ -284,6 +281,7 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "Linux_Notes/Command Quick Reference.md",
     "Homescreen.md",
     "README.md",
     "CHANGELOG.md",
@@ -328,7 +326,6 @@
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/userdel.md",
     "Linux_Notes/Commands/uptime.md",
-    "Linux_Notes/Commands/touch.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
