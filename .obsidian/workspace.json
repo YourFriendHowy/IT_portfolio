@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A+ Core 1 Exam Objectives"
+              "title": "Command Quick Reference"
             }
           }
         ],
@@ -81,6 +81,24 @@
             }
           },
           {
+            "id": "6a2c602f2f68f60d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cb8faa5f59647d3e",
+        "type": "tabs",
+        "dimension": 40.17918676774638,
+        "children": [
+          {
             "id": "edaff71241c34a77",
             "type": "leaf",
             "state": {
@@ -93,24 +111,6 @@
               "title": "Files"
             }
           },
-          {
-            "id": "6a2c602f2f68f60d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "cb8faa5f59647d3e",
-        "type": "tabs",
-        "dimension": 40.17918676774638,
-        "children": [
           {
             "id": "44b6e3dc44a13ce5",
             "type": "leaf",
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A+ Core 1 Exam Objectives"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -281,6 +281,7 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "Linux_Notes/Command Quick Reference.md",
     "Homescreen.md",
     "README.md",
@@ -325,7 +326,6 @@
     "Linux_Notes/Commands/which.md",
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/userdel.md",
-    "Linux_Notes/Commands/uptime.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
