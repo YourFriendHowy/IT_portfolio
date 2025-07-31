@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PortScanner/portScanner v2.md",
+                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "portScanner v2"
+              "title": "R2-Defensive Security Intro"
             }
           }
         ],
@@ -84,23 +84,6 @@
             "id": "6a2c602f2f68f60d",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb8faa5f59647d3e",
-        "type": "tabs",
-        "dimension": 40.17918676774638,
-        "children": [
-          {
-            "id": "edaff71241c34a77",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
@@ -110,6 +93,24 @@
               "title": "Files"
             }
           },
+          {
+            "id": "f23752a36ee12a9a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cb8faa5f59647d3e",
+        "type": "tabs",
+        "dimension": 40.17918676774638,
+        "children": [
           {
             "id": "44b6e3dc44a13ce5",
             "type": "leaf",
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/PortScanner/portScanner v2.md",
+                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of portScanner v2"
+              "title": "Outline of R2-Defensive Security Intro"
             }
           }
         ]
@@ -280,9 +281,9 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner/portScanner V1.md",
     "z_templates/default_template.md",
-    "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner",
     "Projects/test.md",
     "Projects/PortScanner/portScanner.py",
