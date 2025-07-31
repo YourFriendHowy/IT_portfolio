@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+                "file": "TryHackMe/CyberSecurity101/R3-Search Skills.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R2-Defensive Security Intro"
+              "title": "R3-Search Skills"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+                "file": "TryHackMe/CyberSecurity101/R3-Search Skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R2-Defensive Security Intro"
+              "title": "Outline of R3-Search Skills"
             }
           }
         ]
@@ -281,6 +281,8 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner/portScanner V1.md",
     "z_templates/default_template.md",
@@ -308,7 +310,6 @@
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images",
     "z_resources",
-    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "TryHackMe/CyberSecurity101",
     "TryHackMe",

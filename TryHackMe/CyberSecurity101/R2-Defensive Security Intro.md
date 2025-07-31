@@ -58,4 +58,13 @@ LastEdited:
 	- System logs: Each client and server computer maintains different log files about what is happening. Log files provide plenty of information about what happened on a system/ Even of the attacker tries to clear their traces, some traces remain.
 	- Network logs: Logs of the network packets that have traversed a network help answer more questions about whether an attack is occurring and what it entails.
 ###### Incident Response
-- An incident typically refers to a data breach or cyber attack; however in some cases it can be something less critical such as misconfig, an intrusion attempt or policy violation. Incident response specifies the methodology that should be followed to handle such a case. The aim is to reduce damage and recover in the shortest time possible. I feallyu you wuld develop a plan  that is ready for incident respondse.  
+- An incident typically refers to a data breach or cyber attack; however in some cases it can be something less critical such as misconfig, an intrusion attempt or policy violation. Incident response specifies the methodology that should be followed to handle such a case. The aim is to reduce damage and recover in the shortest time possible. Ideally you would develop a plan  that is ready for incident response.  
+###### Malware Analysis
+- Malware stands for malicious software. Software refers to programs, documents, and files you can save on a disk or send over the network. Malware includes many types, such as:
+	- A virus is a piece of code that attached itself to a program. It is designed to spread from one computer to another and works by altering, overwriting, and deleting files once it infects a computer.
+	- Trojan horse is a program that shows one desireable function but hides a malicious function underneath. For example, a victim might download a video player from a shady website that gives the attacker complete control over their system.
+	- Ransomwsre is a mal;icious program that encrypts the users fikles. Encryption makesd the files unreadable without knowning the encryption password. The attacker offers the user the encryption password if the user is willing to pay a "ransom."
+	- Malware analysis aims to learn about such malicious programs using various means:
+
+		1. Static analysis works by inspecting the malicious program without running it. This usually requires solid knowledge of assembly language (the processor’s instruction set, i.e., the computer’s fundamental instructions).
+		2. Dynamic analysis works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running.
