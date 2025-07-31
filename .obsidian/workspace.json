@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "GIT_Tips/cheatSheet.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "cheatSheet"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "GIT_Tips/cheatSheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of cheatSheet"
             }
           }
         ]
@@ -281,8 +281,8 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "Linux_Notes/Command Quick Reference.md",
+    "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "Homescreen.md",
     "README.md",
     "CHANGELOG.md",
