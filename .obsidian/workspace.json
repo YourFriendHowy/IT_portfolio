@@ -35,12 +35,24 @@
             "id": "9fb33cfadd937c9b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Projects"
+                "file": "Projects/PortScanner/portScanner v2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "portScanner v2"
             }
           }
         ],
@@ -138,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/test.md",
+                "file": "Projects/PortScanner/portScanner v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of portScanner v2"
             }
           }
         ]
@@ -266,10 +278,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "edaff71241c34a77",
+  "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "Projects/portScanner.py",
+    "Projects/PortScanner/portScanner V1.md",
+    "z_templates/default_template.md",
+    "Projects/PortScanner/portScanner v2.md",
+    "Projects/PortScanner",
     "Projects/test.md",
+    "Projects/PortScanner/portScanner.py",
     "GIT_Tips/cheatSheet.md",
     "Linux_Notes/Command Quick Reference.md",
     "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
@@ -277,7 +293,6 @@
     "README.md",
     "CHANGELOG.md",
     "z_templates/progress_template.md",
-    "z_templates/default_template.md",
     "z_templates/command_template.md",
     "z_templates/A+_template.md",
     "z_templates",
@@ -305,14 +320,10 @@
     "Progress Journal/2025-07-25.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
-    "Progress Journal",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
     "Linux_Notes/LearnLinuxTV/Notes/Package Management.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Output Redirection.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Logs.md",
-    "Linux_Notes/LearnLinuxTV/Notes",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
