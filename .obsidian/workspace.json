@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
-                "mode": "preview",
+                "file": "Projects/test.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cheatSheet"
+              "title": "test"
             }
           }
         ],
@@ -90,8 +90,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -151,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Projects/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheatSheet"
+              "title": "Outline of test"
             }
           }
         ]
@@ -279,8 +278,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9fb33cfadd937c9b",
+  "active": "f74c53671a210d1c",
   "lastOpenFiles": [
+    "Projects/test.md",
+    "GIT_Tips/cheatSheet.md",
     "Linux_Notes/Command Quick Reference.md",
     "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "Homescreen.md",
@@ -324,8 +325,6 @@
     "Linux_Notes/LearnLinuxTV/Notes/Logs.md",
     "Linux_Notes/LearnLinuxTV/Notes",
     "Linux_Notes/Commands/which.md",
-    "Linux_Notes/Commands/vim.md",
-    "Linux_Notes/Commands/userdel.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }

@@ -50,7 +50,8 @@
     "//TryHackMe",
     "//TryHackMe/TryHackMe/CyberSecurity101",
     "//Linux_Notes",
-    "//GIT_Tips"
+    "//GIT_Tips",
+    "//Projects"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
