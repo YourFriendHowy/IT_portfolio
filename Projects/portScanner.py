@@ -33,8 +33,8 @@ def main(): # collect IP and ports, then parse ports into list.
     trgtPorts = args.ports
     portInput = trgtPorts.split(",") # splits port list at commas
     p = parse_ports(portInput) # runs portas through parse_ports function
-    print(f"Target IP: {trgtIP}")
-    print(f"Ports to scan: {p}")
+    #print(f"Target IP: {trgtIP}")
+    #print(f"Ports to scan: {p}")
     scanner(trgtIP,p)
 
 def parse_ports(portInput): # Takes port list from main and parses further, splitting ranges into full lists.
@@ -49,19 +49,22 @@ def parse_ports(portInput): # Takes port list from main and parses further, spli
     return portList # returns list
 
 def scanner(trgtIP, p):
+    notEQ = 0
+    count = 0
     for i in p:
+        count += 1
         try:
             s = skt.socket(skt.AF_INET, skt.SOCK_STREAM)
             s.settimeout(1)
             result = s.connect_ex((trgtIP, i))
             if result != 0:
-                n = i+1
+                notEQ += 1 #fix iterator
             else:
-                print(f"Port {i} is OPEN")
+                print(f"\nPort {i} is OPEN")
             s.close()
         except Exception as e:
             print(f"Error scanning port {i}: {e}")
-    print((n-2), "CLOSED or FILTERED")
+    print(notEQ, "of", count, "ports are CLOSED or FILTERED")
 
 
 main()
