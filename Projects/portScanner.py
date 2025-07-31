@@ -3,16 +3,19 @@ import argparse
 import sys
 parser = argparse.ArgumentParser()
 
-parser.add_argument("-i", "--local", action="store_true", help="Print local IP and exit")
-
+# Positionals
 parser.add_argument("ip", nargs="?", help="Target IP address")
 parser.add_argument("ports", nargs="?", help="Comma-separated list of ports or ranges")
+
+#Flags
+parser.add_argument("-i", "--local", action="store_true", help="Print local IP and exit")
+## Add verbose, this will show more details about each port, add -l or long listing which will list all ports open or closed. -lv long lists and shows verbose details
 
 args = parser.parse_args()
 
 
 
-# Used to pull local IP, simple reminded protocol while I work on memorizing it
+# -i displays local IP
 if args.local:
     hostname = skt.gethostname()
     local_IP = skt.gethostbyname(hostname)
@@ -22,6 +25,8 @@ if args.local:
 if not args.ip or not args.ports:
     parser.error("IP and ports are required unless using -i")
 
+
+# variables
 portInput = []
 portList = []
 trgtIP =""
@@ -58,7 +63,7 @@ def scanner(trgtIP, p):
             s.settimeout(1)
             result = s.connect_ex((trgtIP, i))
             if result != 0:
-                notEQ += 1 #fix iterator
+                notEQ += 1
             else:
                 print(f"\nPort {i} is OPEN")
             s.close()
