@@ -5,7 +5,7 @@ local_IP = skt.gethostbyname(hostname)
 portInput = []
 portList = []
 trgtIP =""
-print(local_IP)
+print("Local IP: " + local_IP)
 
 
 def main(): # collect IP and parse port list.
