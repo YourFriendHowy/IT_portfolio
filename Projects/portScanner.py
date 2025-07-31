@@ -9,7 +9,8 @@ parser.add_argument("ports", nargs="?", help="Comma-separated list of ports or r
 
 #Flags
 parser.add_argument("-i", "--local", action="store_true", help="Print local IP and exit")
-## Add verbose, this will show more details about each port, add -l or long listing which will list all ports open or closed. -lv long lists and shows verbose details
+parser.add_argument("-l", "--long", action="store_true", help="Show closed ports too")
+parser.add_argument("-v", "--verbose", action="store_true", help="Show banner info for open ports")
 
 args = parser.parse_args()
 
@@ -27,9 +28,7 @@ if not args.ip or not args.ports:
 
 
 # variables
-portInput = []
 portList = []
-trgtIP =""
 
 
 
@@ -40,7 +39,8 @@ def main(): # collect IP and ports, then parse ports into list.
     p = parse_ports(portInput) # runs portas through parse_ports function
     #print(f"Target IP: {trgtIP}")
     #print(f"Ports to scan: {p}")
-    scanner(trgtIP,p)
+    scanner(trgtIP, p, long=args.long, verbose=args.verbose)
+
 
 def parse_ports(portInput): # Takes port list from main and parses further, splitting ranges into full lists.
     portList = []
@@ -53,23 +53,37 @@ def parse_ports(portInput): # Takes port list from main and parses further, spli
 
     return portList # returns list
 
-def scanner(trgtIP, p):
-    notEQ = 0
-    count = 0
-    for i in p:
-        count += 1
+def scanner(trgtIP, p, long=False, verbose=False):
+    closed = 0
+    total = 0
+
+    for port in p:
+        total += 1
         try:
-            s = skt.socket(skt.AF_INET, skt.SOCK_STREAM)
-            s.settimeout(1)
-            result = s.connect_ex((trgtIP, i))
-            if result != 0:
-                notEQ += 1
-            else:
-                print(f"\nPort {i} is OPEN")
-            s.close()
+            with skt.socket(skt.AF_INET, skt.SOCK_STREAM) as s:
+                s.settimeout(1)
+                result = s.connect_ex((trgtIP, port))
+                if result == 0:
+                    print(f"Port {port} is OPEN")
+                    if verbose:
+                        try:
+                            s.send(b"HEAD / HTTP/1.1\r\n\r\n")
+                            banner = s.recv(1024)
+                            print(f"  Banner: {banner.decode(errors='ignore').strip()}")
+                        except:
+                            print("  No banner received.")
+                elif long:
+                    print(f"Port {port} is CLOSED or FILTERED")
+                    closed += 1
+                else:
+                    closed += 1
         except Exception as e:
-            print(f"Error scanning port {i}: {e}")
-    print(notEQ, "of", count, "ports are CLOSED or FILTERED")
+            print(f"Error scanning port {port}: {e}")
+            closed += 1
+
+    print(f"\nScan Complete: {closed} of {total} ports CLOSED or FILTERED")
 
 
-main()
+
+if __name__ == "__main__":
+    main()
