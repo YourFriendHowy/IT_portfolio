@@ -9,7 +9,7 @@ Source:
   - TryHackMe.com
 Complexity: Beginner
 DateCreated: 2025-07-25
-LastEdited:
+LastEdited: 2025-07-31
 ---
 >[!infobox]
 > # `=this.file.name`

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R3-Search Skills.md",
+                "file": "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R3-Search Skills"
+              "title": "R4-Linux Fundamentals-part1"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R3-Search Skills.md",
+                "file": "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R3-Search Skills"
+              "title": "Outline of R4-Linux Fundamentals-part1"
             }
           }
         ]
@@ -281,8 +281,9 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "TryHackMe/CyberSecurity101/R3-Search Skills.md",
+    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner/portScanner V1.md",
     "z_templates/default_template.md",
@@ -325,7 +326,6 @@
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Package Management.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
