@@ -49,7 +49,9 @@
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/2.0 Networking/CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
     "//TryHackMe",
     "//TryHackMe/TryHackMe/CyberSecurity101",
-    "//GIT_Tips"
+    "//GIT_Tips",
+    "//Linux_Notes",
+    "//Linux_Notes/Linux_Notes/Commands"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

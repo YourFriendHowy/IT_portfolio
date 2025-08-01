@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
-                "mode": "source",
+                "file": "Linux_Notes/Commands/whoami.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "R4-Linux Fundamentals-part1"
+              "title": "whoami"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+                "file": "Linux_Notes/Commands/whoami.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R4-Linux Fundamentals-part1"
+              "title": "Outline of whoami"
             }
           }
         ]
@@ -279,10 +279,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9fb33cfadd937c9b",
+  "active": "f23752a36ee12a9a",
   "lastOpenFiles": [
-    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
+    "Linux_Notes/Commands/Commands.md",
+    "Linux_Notes/Commands/echo.md",
+    "Linux_Notes/Commands/whoami.md",
     "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner/portScanner V1.md",
@@ -323,9 +326,6 @@
     "Progress Journal/2025-07-25.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
-    "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
-    "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
