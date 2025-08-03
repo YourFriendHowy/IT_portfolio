@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/whoami.md",
-                "mode": "preview",
+                "file": "Linux_Notes/Command Quick Reference.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "whoami"
+              "title": "Command Quick Reference"
             }
           }
         ],
@@ -94,16 +94,13 @@
             }
           },
           {
-            "id": "f23752a36ee12a9a",
+            "id": "fa05b5fa205fe87c",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -154,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/whoami.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of whoami"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -282,11 +279,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f23752a36ee12a9a",
+  "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
     "Linux_Notes/Commands/Commands.md",
-    "Linux_Notes/Commands/echo.md",
+    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/whoami.md",
+    "Linux_Notes/Commands/echo.md",
     "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
     "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
@@ -297,7 +295,6 @@
     "Projects/test.md",
     "Projects/PortScanner/portScanner.py",
     "GIT_Tips/cheatSheet.md",
-    "Linux_Notes/Command Quick Reference.md",
     "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "Homescreen.md",
     "README.md",
