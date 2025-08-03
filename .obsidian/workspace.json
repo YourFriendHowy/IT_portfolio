@@ -97,14 +97,16 @@
             "id": "fa05b5fa205fe87c",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -279,7 +281,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9fb33cfadd937c9b",
+  "active": "f74c53671a210d1c",
   "lastOpenFiles": [
     "Linux_Notes/Commands/Commands.md",
     "Linux_Notes/Command Quick Reference.md",
