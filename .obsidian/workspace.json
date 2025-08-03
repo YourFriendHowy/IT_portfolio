@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
-                "mode": "source",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "Lots of Ports"
             }
           }
         ],
@@ -94,19 +94,17 @@
             }
           },
           {
-            "id": "fa05b5fa205fe87c",
+            "id": "6b32eb4be4c28a05",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -153,20 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of Lots of Ports"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -281,10 +279,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f74c53671a210d1c",
+  "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "Linux_Notes/Commands/Commands.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
     "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/Commands.md",
     "Linux_Notes/Commands/whoami.md",
     "Linux_Notes/Commands/echo.md",
     "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
@@ -327,7 +326,6 @@
     "Progress Journal/2025-07-26.md",
     "Progress Journal/2025-07-25.md",
     "Progress Journal/2025-07-23.md",
-    "Progress Journal/2025-07-22.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }

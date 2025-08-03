@@ -44,14 +44,12 @@
     "//Tags",
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices",
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware",
-    "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays",
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/2.0 Networking",
     "//CompTIA_A+/CompTIA_A+/P. Messer/CompTIA_A+/P. Messer/2.0 Networking/CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP",
     "//TryHackMe",
     "//TryHackMe/TryHackMe/CyberSecurity101",
     "//GIT_Tips",
-    "//Linux_Notes",
-    "//Linux_Notes/Linux_Notes/Commands"
+    "//CompTIA_A+"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
