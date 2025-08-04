@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Directories/etc.md",
+                "file": "Linux_Notes/Directories/tmp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "etc"
+              "title": "tmp"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Directories/etc.md",
+                "file": "Linux_Notes/Directories/tmp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of etc"
+              "title": "Outline of tmp"
             }
           }
         ]
@@ -281,6 +281,10 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "Linux_Notes/Directories/root.md",
+    "Linux_Notes/Directories/tmp.md",
+    "Linux_Notes/Directories/var.md",
+    "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Directories/Directories.md",
     "Linux_Notes/Directories",
     "Linux_Notes/Commands/uptime.md",
@@ -292,7 +296,6 @@
     "Linux_Notes/Commands/free.md",
     "Linux_Notes/Commands/file.md",
     "Linux_Notes/Commands/echo.md",
-    "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/Commands.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
@@ -306,10 +309,7 @@
     "Projects/PortScanner/portScanner V1.md",
     "z_templates/default_template.md",
     "Projects/PortScanner",
-    "Projects/test.md",
     "Projects/PortScanner/portScanner.py",
-    "GIT_Tips/cheatSheet.md",
-    "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
     "z_templates",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
