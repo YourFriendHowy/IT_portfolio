@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lots of Ports"
+              "title": "Command Quick Reference"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lots of Ports"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -281,6 +281,8 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
+    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
     "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/Commands.md",
@@ -324,8 +326,6 @@
     "Progress Journal/2025-07-28.md",
     "Progress Journal/2025-07-27.md",
     "Progress Journal/2025-07-26.md",
-    "Progress Journal/2025-07-25.md",
-    "Progress Journal/2025-07-23.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
