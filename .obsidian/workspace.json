@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Directories/tmp.md",
+                "file": "Vim_Tips/Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tmp"
+              "title": "Cheatsheet"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Directories/tmp.md",
+                "file": "Vim_Tips/Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tmp"
+              "title": "Outline of Cheatsheet"
             }
           }
         ]
@@ -281,8 +281,11 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/tmp.md",
+    "Vim_Tips/Cheatsheet.md",
+    "Vim_Tips/Vim_Tips.md",
+    "Vim_Tips",
+    "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Directories/Directories.md",
@@ -306,8 +309,6 @@
     "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "Projects/PortScanner/portScanner v2.md",
-    "Projects/PortScanner/portScanner V1.md",
-    "z_templates/default_template.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
@@ -325,7 +326,6 @@
     "TryHackMe/CyberSecurity101",
     "TryHackMe",
     "The Odin Project",
-    "Tags",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
