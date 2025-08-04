@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "Linux_Notes/Commands/file.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "file"
             }
           }
         ],
@@ -151,20 +151,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "Linux_Notes/Commands/file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of file"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 200
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -281,10 +281,11 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
+    "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/file.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
-    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/Commands.md",
     "Linux_Notes/Commands/whoami.md",
     "Linux_Notes/Commands/echo.md",
@@ -325,7 +326,6 @@
     "Projects",
     "Progress Journal/2025-07-28.md",
     "Progress Journal/2025-07-27.md",
-    "Progress Journal/2025-07-26.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
