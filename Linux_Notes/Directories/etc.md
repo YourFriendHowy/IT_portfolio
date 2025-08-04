@@ -13,9 +13,10 @@ Arguments:
 Source: 
 Complexity: 
 Keywords: 
-aliases: 
-Meaning: file
-Function: Determine the type of a file.
+aliases:
+  - /etc
+Meaning: etcetera
+Function: root directory
 Shortcut: 
 Built-in: 
 DateCreated: 2025-08-03

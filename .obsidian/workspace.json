@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/file.md",
-                "mode": "preview",
+                "file": "Linux_Notes/Directories/etc.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "file"
+              "title": "etc"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/file.md",
+                "file": "Linux_Notes/Directories/etc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of file"
+              "title": "Outline of etc"
             }
           }
         ]
@@ -281,14 +281,24 @@
   },
   "active": "9fb33cfadd937c9b",
   "lastOpenFiles": [
-    "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Directories/Directories.md",
+    "Linux_Notes/Directories",
+    "Linux_Notes/Commands/uptime.md",
+    "Linux_Notes/Commands/userdel.md",
+    "Linux_Notes/Commands/vim.md",
+    "Linux_Notes/Commands/which.md",
+    "Linux_Notes/Commands/whoami.md",
+    "Linux_Notes/Commands/su.md",
+    "Linux_Notes/Commands/free.md",
     "Linux_Notes/Commands/file.md",
+    "Linux_Notes/Commands/echo.md",
+    "Linux_Notes/Directories/etc.md",
+    "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/Commands.md",
+    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
-    "Linux_Notes/Commands/Commands.md",
-    "Linux_Notes/Commands/whoami.md",
-    "Linux_Notes/Commands/echo.md",
     "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
     "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
@@ -300,12 +310,6 @@
     "Projects/PortScanner/portScanner.py",
     "GIT_Tips/cheatSheet.md",
     "CompTIA_A+/P. Messer/A+ Core 1 Exam Objectives.md",
-    "Homescreen.md",
-    "README.md",
-    "CHANGELOG.md",
-    "z_templates/progress_template.md",
-    "z_templates/command_template.md",
-    "z_templates/A+_template.md",
     "z_templates",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
@@ -318,14 +322,10 @@
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images",
     "z_resources",
-    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "TryHackMe/CyberSecurity101",
     "TryHackMe",
     "The Odin Project",
     "Tags",
-    "Projects",
-    "Progress Journal/2025-07-28.md",
-    "Progress Journal/2025-07-27.md",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
