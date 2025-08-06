@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homescreen.md",
+                "file": "Linux_Notes/Commands/curl.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homescreen"
-            }
-          },
-          {
-            "id": "9fb33cfadd937c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim_Tips/Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "curl"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,16 +69,13 @@
             }
           },
           {
-            "id": "6b32eb4be4c28a05",
+            "id": "db9de2b9d9415029",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -154,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim_Tips/Cheatsheet.md",
+                "file": "Linux_Notes/Commands/curl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cheatsheet"
+              "title": "Outline of curl"
             }
           }
         ]
@@ -282,10 +254,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9fb33cfadd937c9b",
+  "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Linux_Notes/Directories/tmp.md",
+    "Homescreen.md",
+    "Linux_Notes/Commands/curl.md",
+    "Linux_Notes/Commands/scp.md",
+    "Linux_Notes/Commands/wget.md",
     "Vim_Tips/Cheatsheet.md",
+    "Linux_Notes/Directories/tmp.md",
     "Vim_Tips/Vim_Tips.md",
     "Vim_Tips",
     "Linux_Notes/Directories/root.md",
@@ -308,10 +284,6 @@
     "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
     "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
     "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
-    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
-    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
-    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
-    "Projects/PortScanner/portScanner v2.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
