@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/fg.md",
+                "file": "Linux_Notes/cron process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fg"
+              "title": "cron process"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/fg.md",
+                "file": "Linux_Notes/cron process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fg"
+              "title": "Outline of cron process"
             }
           }
         ]
@@ -256,8 +256,9 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/fg.md",
+    "Linux_Notes/cron process.md",
+    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/systemctl.md",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
@@ -283,7 +284,6 @@
     "Linux_Notes/Commands/userdel.md",
     "Linux_Notes/Commands/which.md",
     "Linux_Notes/Commands/whoami.md",
-    "Linux_Notes/Commands/su.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",

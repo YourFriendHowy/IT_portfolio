@@ -33,6 +33,10 @@
     {
       "folder": "Linux_Notes/Directories",
       "template": "z_templates/command_template.md"
+    },
+    {
+      "folder": "Linux_Notes",
+      "template": "z_templates/default_template.md"
     }
   ],
   "enable_file_templates": false,
