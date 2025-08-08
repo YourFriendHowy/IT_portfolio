@@ -37,3 +37,5 @@ Last Edited: 2025-07-22
 | `stop`              |         | stops unit                    |         |
 | `start`             |         | starts unit                   |         |
 | `restart`           |         | restarts unit                 |         |
+#### Format
+`systemctl [option] [service]`

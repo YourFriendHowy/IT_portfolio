@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/PID.md",
-                "mode": "source",
+                "file": "Linux_Notes/Commands/systemctl.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PID"
+              "title": "systemctl"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/PID.md",
+                "file": "Linux_Notes/Commands/systemctl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PID"
+              "title": "Outline of systemctl"
             }
           }
         ]
@@ -256,9 +256,8 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Glossary/PID.md",
     "Glossary/Load Average.md",
-    "Glossary/PID.md",
-    "Glossary/PID.md",
     "Progress Journal/2025-08-08.md",
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/wget.md",
