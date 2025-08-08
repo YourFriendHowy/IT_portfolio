@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Load Average.md",
-                "mode": "preview",
+                "file": "Glossary/PID.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Load Average"
+              "title": "PID"
             }
           }
         ]
@@ -254,9 +254,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "4446fb255e865793",
+  "active": "681ac73ef621d03b",
   "lastOpenFiles": [
     "Glossary/Load Average.md",
+    "Glossary/PID.md",
     "Glossary/PID.md",
     "Progress Journal/2025-08-08.md",
     "Linux_Notes/Commands/vim.md",
@@ -283,7 +284,6 @@
     "Linux_Notes/Commands/su.md",
     "Linux_Notes/Commands/free.md",
     "Linux_Notes/Commands/file.md",
-    "Linux_Notes/Commands/echo.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
