@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/curl.md",
+                "file": "Linux_Notes/Commands/vim.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "curl"
+              "title": "vim"
             }
           }
         ]
@@ -72,10 +72,13 @@
             "id": "db9de2b9d9415029",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -126,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/curl.md",
+                "file": "Linux_Notes/Commands/vim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of curl"
+              "title": "Outline of vim"
             }
           }
         ]
@@ -256,10 +259,13 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Homescreen.md",
-    "Linux_Notes/Commands/curl.md",
-    "Linux_Notes/Commands/scp.md",
     "Linux_Notes/Commands/wget.md",
+    "Linux_Notes/Commands/top.md",
+    "Linux_Notes/Commands/scp.md",
+    "Linux_Notes/Commands/htop.md",
+    "Linux_Notes/Commands/curl.md",
+    "Linux_Notes/Commands/ps.md",
+    "Homescreen.md",
     "Vim_Tips/Cheatsheet.md",
     "Linux_Notes/Directories/tmp.md",
     "Vim_Tips/Vim_Tips.md",
@@ -281,9 +287,6 @@
     "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/Commands.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.0 Networking.md",
-    "CompTIA_A+/P. Messer/2.0 Networking/2.1 Introduction to IP/Lots of Ports.md",
-    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.2 Displays/Portable LCD.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",

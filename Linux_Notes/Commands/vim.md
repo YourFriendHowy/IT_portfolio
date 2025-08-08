@@ -1,14 +1,17 @@
 ---
 obsidianUIMode: preview
-Language: Bash
+Language:
+  - Bash
 Category: Commands
-Topic: Terminal
+Topic:
+  - Terminal
 Type: Bash Command
 System: Linux
 Element type:
   - Application
 Arguments: N
-Source: https://www.youtube.com/@LearnLinuxTV
+Source:
+  - https://www.youtube.com/@LearnLinuxTV
 Complexity: Intermediate
 Keywords: 
 aliases: 
@@ -16,6 +19,7 @@ Meaning: Vi IMproved
 Function: Opens the vim text editor
 Shortcut: N/A
 Built-in: "False"
+DateCreated: 2025-07-22
 Last Edited: 2025-07-22
 ---
 >[!infobox]

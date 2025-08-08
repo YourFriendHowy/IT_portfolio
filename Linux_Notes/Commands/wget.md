@@ -9,7 +9,8 @@ Type: Bash Command
 System: Linux
 Element type: 
 Arguments: 
-Source: 
+Source:
+  - TryHackMe.com
 Complexity: 
 Keywords: 
 aliases: 

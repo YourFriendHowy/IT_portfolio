@@ -9,13 +9,12 @@ Type: Bash Command
 System: Linux
 Element type: 
 Arguments: 
-Source:
-  - TryHackMe.com
+Source: 
 Complexity: 
 Keywords: 
 aliases: 
-Meaning: 
-Function: 
+Meaning: processes
+Function: list of running processes
 Shortcut: 
 Built-in: 
 DateCreated: 2025-08-05
@@ -34,7 +33,7 @@ Last Edited: 2025-08-05
 > # Important
 > -
 
-| Flag/Action/Keyword | Meaning | Effect | Example |
-| ------------------- | ------- | ------ | ------- |
-|                     |         |        |         |
-|                     |         |        |         |
+| Flag/Action/Keyword | Meaning | Effect                             | Example |
+| ------------------- | ------- | ---------------------------------- | ------- |
+| aux                 |         | shows processes run by other users |         |
+|                     |         |                                    |         |
