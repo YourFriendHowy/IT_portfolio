@@ -42,3 +42,5 @@ A crontab is simply a special file with formatting that is recognised by the `c
 Let's use the example of backing up files. You may wish to backup "cmnatic"'s  "Documents" every 12 hours. We would use the following formatting: 
 
 `0 */12 * * * cp -R /home/cmnatic/Documents /var/backups/`
+
+@reboot
