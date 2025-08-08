@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/systemctl.md",
-                "mode": "preview",
+                "file": "Linux_Notes/Commands/fg.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "systemctl"
+              "title": "fg"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/systemctl.md",
+                "file": "Linux_Notes/Commands/fg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of systemctl"
+              "title": "Outline of fg"
             }
           }
         ]
@@ -256,6 +256,9 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/fg.md",
+    "Linux_Notes/Commands/systemctl.md",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
     "Progress Journal/2025-08-08.md",
@@ -281,8 +284,6 @@
     "Linux_Notes/Commands/which.md",
     "Linux_Notes/Commands/whoami.md",
     "Linux_Notes/Commands/su.md",
-    "Linux_Notes/Commands/free.md",
-    "Linux_Notes/Commands/file.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
