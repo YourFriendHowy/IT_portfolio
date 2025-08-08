@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/vim.md",
+                "file": "Glossary/Load Average.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vim"
+              "title": "Load Average"
             }
           }
         ]
@@ -69,16 +69,13 @@
             }
           },
           {
-            "id": "db9de2b9d9415029",
+            "id": "4446fb255e865793",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -129,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/vim.md",
+                "file": "Glossary/PID.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vim"
+              "title": "Outline of PID"
             }
           }
         ]
@@ -257,8 +254,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "681ac73ef621d03b",
+  "active": "4446fb255e865793",
   "lastOpenFiles": [
+    "Glossary/Load Average.md",
+    "Glossary/PID.md",
+    "Progress Journal/2025-08-08.md",
+    "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/wget.md",
     "Linux_Notes/Commands/top.md",
     "Linux_Notes/Commands/scp.md",
@@ -277,16 +278,12 @@
     "Linux_Notes/Directories",
     "Linux_Notes/Commands/uptime.md",
     "Linux_Notes/Commands/userdel.md",
-    "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/which.md",
     "Linux_Notes/Commands/whoami.md",
     "Linux_Notes/Commands/su.md",
     "Linux_Notes/Commands/free.md",
     "Linux_Notes/Commands/file.md",
     "Linux_Notes/Commands/echo.md",
-    "Linux_Notes/Command Quick Reference.md",
-    "Linux_Notes/Commands/Commands.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
