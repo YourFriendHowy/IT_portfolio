@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/packet management.md",
-                "mode": "preview",
+                "file": "GIT_Tips/cheatSheet.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "packet management"
+              "title": "cheatSheet"
             }
           }
         ]
@@ -69,16 +69,13 @@
             }
           },
           {
-            "id": "4446fb255e865793",
+            "id": "a40fc51a9cf1b7cf",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -129,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/packet management.md",
+                "file": "GIT_Tips/cheatSheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of packet management"
+              "title": "Outline of cheatSheet"
             }
           }
         ]
@@ -259,8 +256,8 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Linux_Notes/cron process.md",
     "Linux_Notes/packet management.md",
+    "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
     "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/systemctl.md",

@@ -43,7 +43,8 @@
     "//TryHackMe/TryHackMe/CyberSecurity101",
     "//Linux_Notes",
     "//Linux_Notes/Linux_Notes/LearnLinuxTV/Linux_Notes/LearnLinuxTV/Notes",
-    "//Glossary"
+    "//Glossary",
+    "//GIT_Tips"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
