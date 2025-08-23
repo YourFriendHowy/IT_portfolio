@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "GIT_Tips/cheatSheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -72,10 +72,13 @@
             "id": "a40fc51a9cf1b7cf",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -235,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
