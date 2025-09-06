@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cheatSheet"
+              "title": "Command Quick Reference"
             }
           }
         ]
@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "a40fc51a9cf1b7cf",
+            "id": "3345f35c3a6be932",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheatSheet"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -260,6 +260,7 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "GIT_Tips/cheatSheet.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
@@ -287,7 +288,6 @@
     "Linux_Notes/Directories",
     "Linux_Notes/Commands/uptime.md",
     "Linux_Notes/Commands/userdel.md",
-    "Linux_Notes/Commands/which.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
