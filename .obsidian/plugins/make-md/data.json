@@ -44,7 +44,8 @@
     "//Linux_Notes",
     "//Linux_Notes/Linux_Notes/LearnLinuxTV/Linux_Notes/LearnLinuxTV/Notes",
     "//Glossary",
-    "//GIT_Tips"
+    "//GIT_Tips",
+    "//z_templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

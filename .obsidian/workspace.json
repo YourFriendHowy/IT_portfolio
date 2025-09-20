@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "z_templates/progress_template.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "progress_template"
             }
           }
         ]
@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "d569e38eb371247f",
+            "id": "645eff34bb8f301c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "z_templates/progress_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of progress_template"
             }
           }
         ]
@@ -260,11 +260,11 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Linux_Notes/Command Quick Reference.md",
     "GIT_Tips/cheatSheet.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
-    "Linux_Notes/Command Quick Reference.md",
     "Linux_Notes/Commands/systemctl.md",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
