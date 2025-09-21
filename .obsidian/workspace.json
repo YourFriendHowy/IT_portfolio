@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/progress_template.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "progress_template"
+              "title": "Command Quick Reference"
             }
           }
         ]
@@ -69,16 +69,13 @@
             }
           },
           {
-            "id": "645eff34bb8f301c",
+            "id": "440cdc8b002cacbd",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -129,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_templates/progress_template.md",
+                "file": "Linux_Notes/Command Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of progress_template"
+              "title": "Outline of Command Quick Reference"
             }
           }
         ]
@@ -260,34 +257,34 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/chmod.md",
     "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/systemctl.md",
+    "Linux_Notes/Commands/pwd.md",
+    "Linux_Notes/Commands/ps.md",
+    "Linux_Notes/Commands/passwd.md",
+    "Linux_Notes/Commands/groups.md",
+    "Linux_Notes/Commands/scp.md",
+    "z_templates/progress_template.md",
     "GIT_Tips/cheatSheet.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
-    "Linux_Notes/Commands/systemctl.md",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
     "Progress Journal/2025-08-08.md",
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/wget.md",
     "Linux_Notes/Commands/top.md",
-    "Linux_Notes/Commands/scp.md",
     "Linux_Notes/Commands/htop.md",
     "Linux_Notes/Commands/curl.md",
-    "Linux_Notes/Commands/ps.md",
     "Homescreen.md",
     "Vim_Tips/Cheatsheet.md",
     "Linux_Notes/Directories/tmp.md",
     "Vim_Tips/Vim_Tips.md",
     "Vim_Tips",
     "Linux_Notes/Directories/root.md",
-    "Linux_Notes/Directories/var.md",
-    "Linux_Notes/Directories/etc.md",
-    "Linux_Notes/Directories/Directories.md",
     "Linux_Notes/Directories",
-    "Linux_Notes/Commands/uptime.md",
-    "Linux_Notes/Commands/userdel.md",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
     "z_templates",
