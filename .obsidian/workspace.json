@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Directories/tmp.md",
-                "mode": "preview",
+                "file": "Windows_Notes/Windows_Fundamentals.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tmp"
+              "title": "Windows_Fundamentals"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Untitled.md",
+                "file": "Windows_Notes/Windows_Fundamentals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Windows_Fundamentals"
             }
           }
         ]
@@ -255,21 +255,21 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6a2c602f2f68f60d",
+  "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Linux_Notes/Untitled.md",
+    "Windows_Notes/Windows_Fundamentals.md",
     "Soft_skills",
     "Projects/Homelab",
     "Docs",
     "Linux_Notes/Scripting",
     "Linux_Notes/Directories/tmp.md",
-    "Linux_Notes/Untitled.md",
     "Security",
     "Operations/Runbooks",
     "Operations",
     "Networking",
     "Windows_Notes/Untitled 1",
     "Windows_Notes/Untitled",
-    "Windows_Notes",
     "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/etc.md",
