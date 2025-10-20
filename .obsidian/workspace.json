@@ -69,7 +69,7 @@
             }
           },
           {
-            "id": "c801cfa8cf08eabd",
+            "id": "2e525465986788a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -260,12 +260,12 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Linux_Notes/Commands/chmod.md",
+    "Linux_Notes/Commands/passwd.md",
     "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/Commands/chmod.md",
     "Linux_Notes/Commands/systemctl.md",
     "Linux_Notes/Commands/pwd.md",
     "Linux_Notes/Commands/ps.md",
-    "Linux_Notes/Commands/passwd.md",
     "Linux_Notes/Commands/groups.md",
     "Linux_Notes/Commands/scp.md",
     "z_templates/progress_template.md",
