@@ -40,18 +40,18 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//TryHackMe/TryHackMe/CyberSecurity101",
     "//Linux_Notes",
     "//Linux_Notes/Linux_Notes/LearnLinuxTV/Linux_Notes/LearnLinuxTV/Notes",
     "//Glossary",
     "//GIT_Tips",
-    "//Linux_Notes/Linux_Notes/Commands",
     "//COMS-170 Intro to Programming",
     "//CompTIA_A+",
     "//CompTIA_A+/CompTIA_A+/P. Messer",
     "//Linux_Notes/Linux_Notes/Directories",
     "//Linux_Notes/Linux_Notes/LearnLinuxTV",
-    "//Progress Journal"
+    "//TryHackMe",
+    "//Vim_Tips",
+    "//z_resources"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
