@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "Linux_Notes/Directories/var.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Command Quick Reference"
+              "title": "var"
             }
           }
         ]
@@ -69,16 +69,13 @@
             }
           },
           {
-            "id": "2e525465986788a2",
+            "id": "1b8d6c9b9b5a06c6",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -95,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Command Quick Reference.md",
+                "file": "Linux_Notes/Directories/var.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Command Quick Reference"
+              "title": "Outline of var"
             }
           }
         ]
@@ -258,10 +255,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "681ac73ef621d03b",
+  "active": "1b8d6c9b9b5a06c6",
   "lastOpenFiles": [
-    "Linux_Notes/Commands/passwd.md",
+    "Linux_Notes/Directories/tmp.md",
+    "Linux_Notes/Directories/root.md",
+    "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Command Quick Reference.md",
+    "Homescreen.md",
+    "Glossary/Load Average.md",
+    "GIT_Tips/cheatSheet.md",
+    "COMS-170 Intro to Programming/Coding Assignments/program1.md",
+    "COMS-170 Intro to Programming/Coding Assignments/project.md",
+    "Linux_Notes/Commands/passwd.md",
     "Linux_Notes/Commands/chmod.md",
     "Linux_Notes/Commands/systemctl.md",
     "Linux_Notes/Commands/pwd.md",
@@ -269,24 +274,16 @@
     "Linux_Notes/Commands/groups.md",
     "Linux_Notes/Commands/scp.md",
     "z_templates/progress_template.md",
-    "GIT_Tips/cheatSheet.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
     "Glossary/PID.md",
-    "Glossary/Load Average.md",
     "Progress Journal/2025-08-08.md",
     "Linux_Notes/Commands/vim.md",
     "Linux_Notes/Commands/wget.md",
     "Linux_Notes/Commands/top.md",
     "Linux_Notes/Commands/htop.md",
-    "Linux_Notes/Commands/curl.md",
-    "Homescreen.md",
-    "Vim_Tips/Cheatsheet.md",
-    "Linux_Notes/Directories/tmp.md",
-    "Vim_Tips/Vim_Tips.md",
     "Vim_Tips",
-    "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories",
     "Projects/PortScanner",
     "Projects/PortScanner/portScanner.py",
