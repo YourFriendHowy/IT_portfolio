@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Directories/tmp.md",
+                "file": "Linux_Notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tmp"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -255,10 +255,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "681ac73ef621d03b",
+  "active": "6a2c602f2f68f60d",
   "lastOpenFiles": [
-    "Linux_Notes/Directories/var.md",
+    "Soft_skills",
+    "Projects/Homelab",
+    "Docs",
+    "Linux_Notes/Scripting",
     "Linux_Notes/Directories/tmp.md",
+    "Linux_Notes/Untitled.md",
+    "Security",
+    "Operations/Runbooks",
+    "Operations",
+    "Networking",
+    "Windows_Notes/Untitled 1",
+    "Windows_Notes/Untitled",
+    "Windows_Notes",
+    "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Command Quick Reference.md",
@@ -281,13 +293,6 @@
     "Glossary/PID.md",
     "Progress Journal/2025-08-08.md",
     "Linux_Notes/Commands/vim.md",
-    "Linux_Notes/Commands/wget.md",
-    "Linux_Notes/Commands/top.md",
-    "Vim_Tips",
-    "Linux_Notes/Directories",
-    "Projects/PortScanner",
-    "Projects/PortScanner/portScanner.py",
-    "z_templates",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
@@ -297,11 +302,6 @@
     "z_resources/z-Images/Pasted image 20250723213657.png",
     "z_resources/z-Images/Pasted image 20241208113224.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
-    "z_resources/z-Images",
-    "z_resources",
-    "TryHackMe/CyberSecurity101",
-    "TryHackMe",
-    "The Odin Project",
     "Untitled 3/Untitled 3.canvas"
   ]
 }
