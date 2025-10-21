@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows_Notes/PowerShell_Cheatsheet.md",
+                "file": "Networking/Networking_Basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PowerShell_Cheatsheet"
+              "title": "Networking_Basics"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows_Notes/PowerShell_Cheatsheet.md",
+                "file": "Networking/Networking_Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PowerShell_Cheatsheet"
+              "title": "Outline of Networking_Basics"
             }
           }
         ]
@@ -257,8 +257,9 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Windows_Notes/Windows_Fundamentals.md",
     "Windows_Notes/PowerShell_Cheatsheet.md",
+    "Networking/Networking_Basics.md",
+    "Windows_Notes/Windows_Fundamentals.md",
     "z_templates/default_template.md",
     "Linux_Notes/Untitled.md",
     "Soft_skills",
@@ -292,7 +293,6 @@
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
     "Linux_Notes/Commands/fg.md",
-    "Glossary/PID.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
