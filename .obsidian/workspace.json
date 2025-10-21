@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Basics.md",
+                "file": "Progress Journal/2025-07-26.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Networking_Basics"
+              "title": "2025-07-26"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Basics.md",
+                "file": "Progress Journal/2025-07-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Networking_Basics"
+              "title": "Outline of 2025-07-26"
             }
           }
         ]
@@ -256,7 +256,10 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
+    "Homescreen.md",
     "Networking/Networking_Basics.md",
+    "publish.css",
+    "theme.css",
     "Windows_Notes/PowerShell_Cheatsheet.md",
     "Windows_Notes/Windows_Fundamentals.md",
     "z_templates/default_template.md",
@@ -270,13 +273,10 @@
     "Operations/Runbooks",
     "Operations",
     "Networking",
-    "Windows_Notes/Untitled 1",
-    "Windows_Notes/Untitled",
     "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Command Quick Reference.md",
-    "Homescreen.md",
     "Glossary/Load Average.md",
     "GIT_Tips/cheatSheet.md",
     "COMS-170 Intro to Programming/Coding Assignments/program1.md",
@@ -291,7 +291,6 @@
     "z_templates/progress_template.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/cron process.md",
-    "Linux_Notes/Commands/fg.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
