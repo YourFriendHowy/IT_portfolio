@@ -69,16 +69,13 @@
             }
           },
           {
-            "id": "1b8d6c9b9b5a06c6",
+            "id": "5fd176f5d5ff2b1c",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -252,7 +249,6 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "daily-notes:Open today's daily note": false
@@ -260,8 +256,8 @@
   },
   "active": "681ac73ef621d03b",
   "lastOpenFiles": [
-    "Windows_Notes/PowerShell_Cheatsheet.md",
     "Networking/Networking_Basics.md",
+    "Windows_Notes/PowerShell_Cheatsheet.md",
     "Windows_Notes/Windows_Fundamentals.md",
     "z_templates/default_template.md",
     "Linux_Notes/Untitled.md",

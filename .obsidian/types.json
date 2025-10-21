@@ -42,6 +42,7 @@
     "Topic": "multitext",
     "LastEdited": "date",
     "NewLetters": "multitext",
-    "DateCreated": "date"
+    "DateCreated": "date",
+    "excalidraw-embed-md": "checkbox"
   }
 }
