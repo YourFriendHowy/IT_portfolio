@@ -104,7 +104,7 @@ body {
   --background-primary: var(--color-light);
 
   /* Code blocks */
-  --background-primary-alt: var(--color-off-light);
+  --background-primary-alt: var(--color-nearblack);
   
   /* Tab color when window unfocused, settings sidebar */
   --background-secondary: var(--color-light);
