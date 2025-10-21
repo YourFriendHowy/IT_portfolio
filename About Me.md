@@ -7,22 +7,15 @@
 ## How to Use Techpedia
 
 This vault is both a learning record and a quick-reference.  
-See the README for navigation, structure, and conventions.
+See the [[README]] for navigation, structure, and conventions.
 
 ---
 
 ## About Me
 
-**Matt “Howy” Howard**
+I’m **Matthew J. Howard**, a hands-on learner with a passion for technology, problem-solving, and building clean, practical systems. My background in field service and telecommunications taught me how to think on my feet, diagnose complex issues, and deliver reliable results under pressure. Now I’m channeling that experience into **IT and cybersecurity**, developing skills in **Linux, scripting, and systems automation**. I enjoy understanding how things work, documenting what I learn, and turning it into clear, useful resources that live in **Techpedia**, my personal knowledge base and technical portfolio.
 
-- Red teamer in training • Linux learner • Builder of tidy docs
-    
-- Areas of focus: security fundamentals, Linux ops, scripting, automation
-    
-- Tools I use: Python, Bash, Git/GitHub, Obsidian (Templater/Dataview), TryHackMe
-    
-- Availability: Open to internships, apprenticeships, and junior roles
-    
+I’m currently seeking **entry-level positions** where I can contribute, grow, and continue learning through real-world challenges.
 
 > Email / LinkedIn / GitHub: _add links here_
 

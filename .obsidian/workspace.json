@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-07-26"
             }
+          },
+          {
+            "id": "f9762a4a61510396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux_Notes/Commands/Commands.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Commands"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-07-26.md",
+                "file": "Linux_Notes/Commands/Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-26"
+              "title": "Outline of Commands"
             }
           }
         ]
@@ -254,9 +279,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "681ac73ef621d03b",
+  "active": "f9762a4a61510396",
   "lastOpenFiles": [
-    "Homescreen.md",
+    "About Me.md",
+    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
+    "README.md",
+    "Certifications/CompTIA A+ ce certificate.pdf",
+    "Progress Journal/2025-08-08.md",
+    "Certifications",
+    "Resume.md",
+    "Weekly Summaries",
+    "Progress Journal/2025-07-26.md",
     "Networking/Networking_Basics.md",
     "publish.css",
     "theme.css",
@@ -270,9 +304,6 @@
     "Linux_Notes/Scripting",
     "Linux_Notes/Directories/tmp.md",
     "Security",
-    "Operations/Runbooks",
-    "Operations",
-    "Networking",
     "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/etc.md",
@@ -286,11 +317,6 @@
     "Linux_Notes/Commands/systemctl.md",
     "Linux_Notes/Commands/pwd.md",
     "Linux_Notes/Commands/ps.md",
-    "Linux_Notes/Commands/groups.md",
-    "Linux_Notes/Commands/scp.md",
-    "z_templates/progress_template.md",
-    "Linux_Notes/packet management.md",
-    "Linux_Notes/cron process.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",

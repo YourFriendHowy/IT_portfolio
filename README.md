@@ -11,19 +11,19 @@ This vault is a structured and evolving archive of my:
 
 ## Folder Structure
 
-| Folder             | Purpose                                     |
-| ------------------ | ------------------------------------------- |
-| `ProfessorMesser/` | A+ certification notes                      |
-| `COMS170/`         | Intro to programming classwork              |
-| `Git_Tips/`        | Copy of Odin Project Git usage notes        |
-| `Glossary/`        | Full technical glossary                     |
-| `ProgressJournal/` | Daily logs of study and development         |
-| `OdinProject/`     | Notes and build logs from Odin Project      |
-| `TryHackMe/`       | Room-based notes for cybersecurity training |
-| `Projects/`        | Personal projects organized by language     |
-| `Config/`          | Custom settings, aliases, Obsidian setup    |
-| `CHANGELOG.md`     | Vault edit history                          |
-| `README.md`        | You are here                                |
+| Folder             | Purpose                                      |
+| ------------------ | -------------------------------------------- |
+| `Certifications/`  | All Certifications can be found here.        |
+| `COMS170/`         | Intro to programming classwork.              |
+| `Git_Tips/`        | Copy of Odin Project Git usage notes.        |
+| `Glossary/`        | Full technical glossary.                     |
+| `ProgressJournal/` | Daily logs of study and development.         |
+| `TryHackMe/`       | Room-based notes for cybersecurity training. |
+| `Projects/`        | Personal projects organized by language.     |
+| `Config/`          | Custom settings, aliases, Obsidian setup.    |
+| `CHANGELOG.md`     | Vault edit history.                          |
+| `README.md`        | You are here.                                |
+| `About Me`         | An introduction to myself                    |
 
 ---
 
@@ -38,7 +38,7 @@ This vault is a structured and evolving archive of my:
 
 ## Hosting & Use
 
-- Hosted via GitHub Pages
+- Hosted via Obsidian Publish
 - Publicly viewable by recruiters, collaborators, and learners
 - Updated regularly as skills and projects grow
 
@@ -48,4 +48,4 @@ This vault is a structured and evolving archive of my:
 
 - GitHub: YourHandle
 - LinkedIn: LinkedIn URL
-- Email: obfuscated or as image link
+
