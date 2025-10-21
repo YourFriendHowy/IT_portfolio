@@ -94,37 +94,16 @@ Quick, single-purpose cards with flags, meaning, and examples.
 - Special dirs: `/etc`, `/var`, `/tmp`, `/root`
     
 
-> Start here: **[[Commands.md]]** (index), then jump into any command card.
+A directory of known commands can be found at Linux_Notes/Commands/ 
 
 ---
 
-## Templates & Workflows
-
-- **Daily Progress** → [[progress_template]] (auto-dated, with study + practice sections)
-    
-- **Universal Study Template** → [[A+_template]] (rename to `study_template.md` if you prefer)
-    
-- **Command Card Template** → [[command_template]]
-    
-- **Default Note Template** → [[default_template]]
-    
-
-**Customizations & Config**
-
-- **Bash Aliases** → _[[Bash Aliases]]_
-    
-- **Git Basics** → _[[Git Commands]]_
-    
-- Obsidian settings/keybinds → _add links/screenshots when ready_
-    
-
----
-
-## Resume
-
-Add your hosted resume link here (PDF or site) → **View My Resume**
-
-> Tip: keep the vault and resume in sync—when you add a new project or room, append a single-line entry to your resume’s “Projects” or “Training” section.
+## Resume and Certifications
+*My resume and current certifications are available below*
+### Resume
+**[[Resume|Matthew Howard resume]]**
+### Certifications
+**[[CompTIA A+ ce certificate.pdf|CompTIA A+ Certification]]**
 
 ---
 

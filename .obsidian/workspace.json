@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/Commands.md",
+                "file": "Projects/PortScanner/portScanner V1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "portScanner V1"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/Commands.md",
+                "file": "Projects/PortScanner/portScanner V1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Commands"
+              "title": "Outline of portScanner V1"
             }
           }
         ]
@@ -281,14 +281,16 @@
   },
   "active": "f9762a4a61510396",
   "lastOpenFiles": [
+    "Projects/PortScanner/portScanner v2.md",
     "About Me.md",
+    "Resume.md",
+    "Linux_Notes/Commands/Commands.md",
     "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "README.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "Progress Journal/2025-08-08.md",
     "Certifications",
-    "Resume.md",
     "Weekly Summaries",
     "Progress Journal/2025-07-26.md",
     "Networking/Networking_Basics.md",
@@ -315,8 +317,6 @@
     "Linux_Notes/Commands/passwd.md",
     "Linux_Notes/Commands/chmod.md",
     "Linux_Notes/Commands/systemctl.md",
-    "Linux_Notes/Commands/pwd.md",
-    "Linux_Notes/Commands/ps.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
