@@ -1,7 +1,7 @@
 # Welcome to Techpedia
 
-> [!important]
-> Some features may not work properly hewre, the fu
+> [!faq|right-small] Notice
+> Some plugin features may not work properly due to limitations of Obsidian publish, the full vault, with plugin is available to clone at [Github](https://github.com/YourFriendHowy/IT_portfolio)
 
 This vault is a structured and evolving archive of my:
 
