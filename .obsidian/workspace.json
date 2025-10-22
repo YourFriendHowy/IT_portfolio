@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -278,7 +278,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f74c53671a210d1c",
+  "active": "f9762a4a61510396",
   "lastOpenFiles": [
     "Linux_Notes/Commands/fg.md",
     "publish.js",
