@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PortScanner/portScanner V1.md",
+                "file": "Glossary/PID.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "portScanner V1"
+              "title": "PID"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/PortScanner/portScanner V1.md",
+                "file": "Glossary/PID.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of portScanner V1"
+              "title": "Outline of PID"
             }
           }
         ]
@@ -281,6 +281,9 @@
   },
   "active": "f9762a4a61510396",
   "lastOpenFiles": [
+    "Glossary/Load Average.md",
+    "Glossary/Glossary.md",
+    "Projects/PortScanner/portScanner V1.md",
     "Projects/PortScanner/portScanner v2.md",
     "About Me.md",
     "Resume.md",
@@ -310,13 +313,10 @@
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Directories/etc.md",
     "Linux_Notes/Command Quick Reference.md",
-    "Glossary/Load Average.md",
     "GIT_Tips/cheatSheet.md",
     "COMS-170 Intro to Programming/Coding Assignments/program1.md",
     "COMS-170 Intro to Programming/Coding Assignments/project.md",
     "Linux_Notes/Commands/passwd.md",
-    "Linux_Notes/Commands/chmod.md",
-    "Linux_Notes/Commands/systemctl.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
