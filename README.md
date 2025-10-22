@@ -49,6 +49,6 @@ This vault is a structured and evolving archive of my:
 
 ## Contact
 
-- GitHub: YourFriendHowy
+- GitHub: [YourFriendHowy](https://github.com/YourFriendHowy)
 - LinkedIn: [Matthew Howard](https://www.linkedin.com/in/matthew-howard-7524682a6/)
 
