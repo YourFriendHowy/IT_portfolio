@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/PID.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PID"
+              "title": "README"
             }
           }
         ],
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/PID.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PID"
+              "title": "Outline of README"
             }
           }
         ]
@@ -281,6 +281,14 @@
   },
   "active": "f9762a4a61510396",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/fg.md",
+    "publish.js",
+    "publish (Copy).css",
+    "Linux_Notes/Commands/df.md",
+    "Linux_Notes/Commands/cp.md",
+    "Linux_Notes/Commands/curl.md",
+    "Linux_Notes/Commands/cd.md",
+    "Glossary/PID.md",
     "Glossary/Load Average.md",
     "Glossary/Glossary.md",
     "Projects/PortScanner/portScanner V1.md",
@@ -306,17 +314,9 @@
     "Soft_skills",
     "Projects/Homelab",
     "Docs",
-    "Linux_Notes/Scripting",
     "Linux_Notes/Directories/tmp.md",
-    "Security",
     "Linux_Notes/Directories/var.md",
     "Linux_Notes/Directories/root.md",
-    "Linux_Notes/Directories/etc.md",
-    "Linux_Notes/Command Quick Reference.md",
-    "GIT_Tips/cheatSheet.md",
-    "COMS-170 Intro to Programming/Coding Assignments/program1.md",
-    "COMS-170 Intro to Programming/Coding Assignments/project.md",
-    "Linux_Notes/Commands/passwd.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",

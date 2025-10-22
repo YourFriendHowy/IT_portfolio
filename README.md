@@ -1,5 +1,8 @@
 # Welcome to Techpedia
 
+> [!important]
+> Some features may not work properly hewre, the fu
+
 This vault is a structured and evolving archive of my:
 
 - Technical study (A+, TryHackMe, Odin)
