@@ -35,24 +35,12 @@
             "id": "f9762a4a61510396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Glossary/PID.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Certifications/CompTIA A+ ce certificate.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PID"
+              "icon": "lucide-file-text",
+              "title": "CompTIA A+ ce certificate"
             }
           }
         ],
@@ -151,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/PID.md",
+                "file": "Certifications/CompTIA A+ ce certificate.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PID"
+              "title": "Outline of CompTIA A+ ce certificate"
             }
           }
         ]
@@ -281,6 +269,7 @@
   },
   "active": "f9762a4a61510396",
   "lastOpenFiles": [
+    "Glossary/PID.md",
     "Glossary/Load Average.md",
     "Glossary/Glossary.md",
     "GIT_Tips/cheatSheet.md",
@@ -306,7 +295,6 @@
     "Linux_Notes/Directories/tmp.md",
     "Linux_Notes/Directories/root.md",
     "Linux_Notes/Custom_Settings.md",
-    "Linux_Notes/packet management.md",
     "publish.js",
     "publish (Copy).css",
     "Certifications/CompTIA A+ ce certificate.pdf",
