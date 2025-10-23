@@ -2,7 +2,8 @@
 
 Lapeer, MI  
 Authorized to work in the United States for any employer  
-Available for remote work
+Open to remote work
+Open to relocation
 
 ---
 

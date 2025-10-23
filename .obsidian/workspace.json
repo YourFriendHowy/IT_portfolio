@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Glossary/PID.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PID"
             }
           }
         ],
@@ -94,19 +94,17 @@
             }
           },
           {
-            "id": "5fd176f5d5ff2b1c",
+            "id": "ebb59b8e47b6c384",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -153,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Glossary/PID.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of PID"
             }
           }
         ]
@@ -283,42 +281,42 @@
   },
   "active": "f9762a4a61510396",
   "lastOpenFiles": [
-    "About Me.md",
-    "README.md",
-    "Linux_Notes/Commands/fg.md",
-    "publish.js",
-    "publish (Copy).css",
-    "Linux_Notes/Commands/df.md",
-    "Linux_Notes/Commands/cp.md",
-    "Linux_Notes/Commands/curl.md",
-    "Linux_Notes/Commands/cd.md",
-    "Glossary/PID.md",
     "Glossary/Load Average.md",
     "Glossary/Glossary.md",
-    "Projects/PortScanner/portScanner V1.md",
-    "Projects/PortScanner/portScanner v2.md",
-    "Resume.md",
-    "Linux_Notes/Commands/Commands.md",
-    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+    "GIT_Tips/cheatSheet.md",
+    "Windows_Notes/Windows_Fundamentals.md",
+    "Windows_Notes/PowerShell_Cheatsheet.md",
+    "Networking/Networking_Basics.md",
+    "Vim_Tips/Vim_Tips.md",
+    "Vim_Tips/Cheatsheet.md",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
+    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
+    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
+    "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
+    "Linux_Notes/Command Quick Reference.md",
+    "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
+    "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
+    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
+    "Linux_Notes/LearnLinuxTV/Notes/Package Management.md",
+    "Linux_Notes/LearnLinuxTV/Notes/Output Redirection.md",
+    "Linux_Notes/LearnLinuxTV/Notes/Logs.md",
+    "Linux_Notes/Directories/Directories.md",
+    "Linux_Notes/Directories/etc.md",
+    "Linux_Notes/Directories/var.md",
+    "Linux_Notes/Directories/tmp.md",
+    "Linux_Notes/Directories/root.md",
+    "Linux_Notes/Custom_Settings.md",
+    "Linux_Notes/packet management.md",
+    "publish.js",
+    "publish (Copy).css",
     "Certifications/CompTIA A+ ce certificate.pdf",
-    "Progress Journal/2025-08-08.md",
     "Certifications",
     "Weekly Summaries",
-    "Progress Journal/2025-07-26.md",
-    "Networking/Networking_Basics.md",
     "publish.css",
     "theme.css",
-    "Windows_Notes/PowerShell_Cheatsheet.md",
-    "Windows_Notes/Windows_Fundamentals.md",
-    "z_templates/default_template.md",
-    "Linux_Notes/Untitled.md",
     "Soft_skills",
     "Projects/Homelab",
     "Docs",
-    "Linux_Notes/Directories/tmp.md",
-    "Linux_Notes/Directories/var.md",
-    "Linux_Notes/Directories/root.md",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",

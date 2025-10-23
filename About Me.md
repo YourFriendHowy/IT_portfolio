@@ -1,4 +1,4 @@
-# <p style="text-align:center">Techpedia</p>
+<p style="text-align:center">Techpedia</p>
 
 > A living knowledge base, skill archive, and project portfolio by **Matt Howard**
 
@@ -17,8 +17,6 @@ I’m **Matthew J. Howard**, a hands-on learner with a passion for technology, p
 
 I’m currently seeking **entry-level positions** where I can contribute, grow, and continue learning through real-world challenges.
 
-> Email / LinkedIn / GitHub: _add links here_
-
 ---
 
 ## Skills Snapshot
@@ -35,17 +33,15 @@ I’m currently seeking **entry-level positions** where I can contribute, grow, 
 
 ## Weekly Progress (recent)
 
-|Date|Focus|Link|
-|---|---|---|
-|2025-08-08|A+ Core 1 prep reflections; THM streak|[[2025-08-08]]|
-|2025-07-28|Package mgmt & vault structure tweaks|[[2025-07-28]]|
-|2025-07-27|`apt` vs `apt-get`; custom callouts|[[2025-07-27]]|
-|2025-07-26|Taught Linux basics to a friend|[[2025-07-26]]|
-|2025-07-25|Practice quiz takeaways; THM start|[[2025-07-25]]|
-|2025-07-23|A+ networking study; note workflow|[[2025-07-23]]|
-|2025-07-22|JS date study; vault restructure|[[2025-07-22]]|
-
-**Full Journal Index** → _link your journal index or tag view_
+| Date       | Focus                                  | Link           |
+| ---------- | -------------------------------------- | -------------- |
+| 2025-08-08 | A+ Core 1 prep reflections; THM streak | [[2025-08-08]] |
+| 2025-07-28 | Package mgmt & vault structure tweaks  | [[2025-07-28]] |
+| 2025-07-27 | `apt` vs `apt-get`; custom callouts    | [[2025-07-27]] |
+| 2025-07-26 | Taught Linux basics to a friend        | [[2025-07-26]] |
+| 2025-07-25 | Practice quiz takeaways; THM start     | [[2025-07-25]] |
+| 2025-07-23 | A+ networking study; note workflow     | [[2025-07-23]] |
+| 2025-07-22 | JS date study; vault restructure       | [[2025-07-22]] |
 
 ---
 
@@ -115,4 +111,4 @@ A directory of known commands can be found at Linux_Notes/Commands/
 
 ### Footer
 
-_Last updated:_ **<insert today’s date>** • _Vault owner:_ **Matt Howard (YourFriendHowy)**
+_Last updated:_ 10/21/2025• _Vault owner:_ **Matt Howard (YourFriendHowy)**

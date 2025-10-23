@@ -1,15 +1,19 @@
 ---
 obsidianUIMode: preview
 Language: PowerShell
-Category: IT Portfolio
+Category: Study
 Topic: PowerShell Cheat Sheet
-Type: Documentation
+Type: Notes
 System: Windows
 Element type: Cheat Sheet
-Arguments: A+-scope PowerShell basics with short summary and quick commands
+Arguments: N
 Source: TestOut / limited Professor Messer / personal notes
 Complexity: Beginner
-Keywords: [PowerShell, Windows, A+, cheat sheet]
+Keywords:
+  - PowerShell
+  - Windows
+  - A+
+  - cheat sheet
 aliases: PowerShell Cheat Sheet
 DateCreated: 2025-10-20
 LastEdited: 2025-10-20
@@ -65,10 +69,4 @@ LastEdited: 2025-10-20
 
 ## Notes
 - PowerShell uses **objects**, not text, which means output can be filtered and formatted easily.  
-- For quick discovery: `Get-Command`, then `Get-Help <cmdlet> -Examples`.  
-- Focus here stays within the **A+ beginner scope** — just enough to understand and navigate Windows PowerShell safely.
-
----
-
-## References
-(Add your TestOut and Professor Messer lesson links here)
+- For quick discovery: `Get-Command`, then `Get-Help <cmdlet> -Examples`.

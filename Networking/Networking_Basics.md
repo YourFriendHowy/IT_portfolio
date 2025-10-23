@@ -1,15 +1,20 @@
 ---
 obsidianUIMode: preview
 Language: N/A
-Category: IT Portfolio
+Category: Networking
 Topic: Networking Basics
-Type: Documentation
+Type: Notes
 System: Any
 Element type: Concept
-Arguments: A+-level summary of networking fundamentals and common commands
+Arguments: N
 Source: TestOut / Professor Messer / personal notes
 Complexity: Beginner
-Keywords: [Networking, A+, TCP/IP, Commands, Fundamentals]
+Keywords:
+  - Networking
+  - A+
+  - TCP/IP
+  - Commands
+  - Fundamentals
 aliases: Networking Basics
 DateCreated: 2025-10-20
 LastEdited: 2025-10-20
@@ -97,10 +102,5 @@ Focuses on key concepts, basic troubleshooting, and common commands used in Wind
 ---
 
 ## Notes
-This note is meant for quick review — basic networking concepts, ports, and commands that tie into A+ fundamentals.  
+This note is meant for quick review of basic networking concepts, ports, and commands that tie into A+ fundamentals.  
 Any actual configurations, lab builds, or troubleshooting logs go into projects.
-
----
-
-## References
-(Add TestOut / Messer sections or labs here)

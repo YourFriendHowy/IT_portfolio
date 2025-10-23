@@ -2,6 +2,14 @@
 table WITHOUT ID link(file.name) AS "Used to Parse files of the day, Adjust code to todays date"
 where LastEdited = date("2025-07-00")
 ```
+
+# 2025-10-22
+- Corrected some grammar and spelling issues
+- Added some missing data
+# 2025-10-21
+- Cleaned up vault
+- Published select files to online portfolio
+- Updated [[README]] and [[About Me]]
 # 2025-07-25
 - Add plugin Omnisearch
 - Add plugin make.md

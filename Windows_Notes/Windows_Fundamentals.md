@@ -2,12 +2,12 @@
 obsidianUIMode: preview
 Language:
   - N/A
-Category: IT Portfolio
+Category: Study
 Topic: Windows Fundamentals
-Type: Documentation
+Type: Notes
 System: Windows
 Element type: Concept
-Arguments: Basic OS knowledge, user management, permissions, and maintenance
+Arguments: N
 Source: TestOut / Professor Messer
 Complexity: Beginner
 Keywords:
@@ -75,8 +75,3 @@ It’s meant as a quick refresher for how Windows works and what tools I actuall
 ## Notes
 This note just keeps my basic Windows knowledge in one place.  
 Any hands-on steps, screenshots, or troubleshooting examples will go in a project or journal entry instead.
-
----
-
-## References
-(Add TestOut and Messer lesson references here)
