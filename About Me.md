@@ -33,15 +33,15 @@ I’m currently seeking **entry-level positions** where I can contribute, grow, 
 
 ## Weekly Progress (recent)
 
-| Date           | Focus                                                        |
-| -------------- | ------------------------------------------------------------ |
-| [[2025-10-27]] | Homelab setup; Security+ Study(Professor Messer Audio files) |
-| [[2025-08-08]] | A+ Core 1 prep reflections; THM streak                       |
-| [[2025-07-28]] | Package mgmt & vault structure tweaks                        |
-| [[2025-07-27]] | `apt` vs `apt-get`; custom callouts                          |
-| [[2025-07-26]] | Taught Linux basics to a friend                              |
-| [[2025-07-25]] | Practice quiz takeaways; THM start                           |
-| [[2025-07-23]] | A+ networking study; note workflow                           |
+| Date           | Focus                                                                |
+| -------------- | -------------------------------------------------------------------- |
+| [[2025-10-28]] | Homelab setup continued-DNS and DHCP creation on windows server 2025 |
+| [[2025-10-27]] | Homelab setup; Security+ Study(Professor Messer Audio files)         |
+| [[2025-08-08]] | A+ Core 1 prep reflections; THM streak                               |
+| [[2025-07-28]] | Package mgmt & vault structure tweaks                                |
+| [[2025-07-27]] | `apt` vs `apt-get`; custom callouts                                  |
+| [[2025-07-26]] | Taught Linux basics to a friend                                      |
+| [[2025-07-25]] | Practice quiz takeaways; THM start                                   |
 
 ---
 

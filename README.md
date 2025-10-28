@@ -36,6 +36,9 @@ This vault is a structured and evolving archive of my:
 - Tags like `#project`, `#study`, `#cli` used for filtering
 - Internal links (`[[Note]]`) used where relevant
 - Callouts (`> [!tip]`, etc.) used for clarity
+##### Progress Journal Conventions
+- The ⚠️ emoji represents issues encountered
+- The ✅ emoji represents the solution proceeding troubleshooting an issue
 
 ---
 
