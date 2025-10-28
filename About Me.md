@@ -33,15 +33,15 @@ I’m currently seeking **entry-level positions** where I can contribute, grow, 
 
 ## Weekly Progress (recent)
 
-| Date       | Focus                                  | Link           |
-| ---------- | -------------------------------------- | -------------- |
-| 2025-08-08 | A+ Core 1 prep reflections; THM streak | [[2025-08-08]] |
-| 2025-07-28 | Package mgmt & vault structure tweaks  | [[2025-07-28]] |
-| 2025-07-27 | `apt` vs `apt-get`; custom callouts    | [[2025-07-27]] |
-| 2025-07-26 | Taught Linux basics to a friend        | [[2025-07-26]] |
-| 2025-07-25 | Practice quiz takeaways; THM start     | [[2025-07-25]] |
-| 2025-07-23 | A+ networking study; note workflow     | [[2025-07-23]] |
-| 2025-07-22 | JS date study; vault restructure       | [[2025-07-22]] |
+| Date           | Focus                                                        |
+| -------------- | ------------------------------------------------------------ |
+| [[2025-10-27]] | Homelab setup; Security+ Study(Professor Messer Audio files) |
+| [[2025-08-08]] | A+ Core 1 prep reflections; THM streak                       |
+| [[2025-07-28]] | Package mgmt & vault structure tweaks                        |
+| [[2025-07-27]] | `apt` vs `apt-get`; custom callouts                          |
+| [[2025-07-26]] | Taught Linux basics to a friend                              |
+| [[2025-07-25]] | Practice quiz takeaways; THM start                           |
+| [[2025-07-23]] | A+ networking study; note workflow                           |
 
 ---
 
@@ -55,8 +55,6 @@ Small, focused CLI port scanner with banner-grabbing and simple range parsing.
 **File:** [[portScanner.py]]
 
 `Examples - Scan a few ports:    python portScanner.py 192.168.1.10 22,80,443 - Scan a range:        python portScanner.py 10.0.0.5 1-1024 -l - Grab banners:        python portScanner.py target.tld 80,443 -v`
-
-> Next steps (roadmap): parallel scans with `concurrent.futures`, service fingerprints, output to CSV/JSON.
 
 ---
 
