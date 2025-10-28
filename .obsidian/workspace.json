@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me.md",
+                "file": "Progress Journal/2025-10-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "About Me"
+              "title": "2025-10-28"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Me.md",
+                "file": "Progress Journal/2025-10-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About Me"
+              "title": "Outline of 2025-10-28"
             }
           }
         ]
@@ -246,9 +246,10 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "About Me.md",
+    "Progress Journal/2025-10-28.md",
     "Resume.md",
     "README.md",
-    "About Me.md",
     "Progress Journal/2025-10-27.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
@@ -272,7 +273,6 @@
     "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Package Management.md",
     "publish.js",
     "publish (Copy).css",
     "Certifications",
