@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-10-28.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-10-28.md",
+                "file": "CHANGELOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-28"
+              "title": "Outline of CHANGELOG"
             }
           }
         ]
@@ -246,17 +246,19 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "README.md",
+    "CHANGELOG.md",
+    "Progress Journal/2025-10-27.md",
+    "Progress Journal/2025-08-08.md",
+    "Progress Journal/2025-10-28.md",
+    "z_templates/progress_template.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "About Me.md",
-    "Progress Journal/2025-10-28.md",
     "Progress Journal/2025-07-26.md",
-    "README.md",
     "Resume.md",
-    "Progress Journal/2025-10-27.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
     "Progress Journal/2025-07-27.md",
-    "Progress Journal/2025-08-08.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
@@ -272,7 +274,6 @@
     "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "TryHackMe/CyberSecurity101/R2-Defensive Security Intro.md",
     "Linux_Notes/Command Quick Reference.md",
-    "Linux_Notes/LearnLinuxTV/Notes/User and Group management.md",
     "publish.js",
     "publish (Copy).css",
     "Certifications",
