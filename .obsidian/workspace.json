@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_templates/skill_template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "skill_template"
-            }
-          },
-          {
-            "id": "a794d1d427d0d634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Expanded Skills Log.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "Expanded Skills Log"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +244,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a794d1d427d0d634",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
     "z_templates/skill_template.md",
     "Expanded Skills Log.md",
