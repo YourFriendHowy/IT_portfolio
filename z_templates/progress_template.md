@@ -58,4 +58,5 @@ _%>
 
 #### **Future**
 
-- 
+- Ongoing Sec+ prep, test by end of January 2026
+- Resume TryHackMe rooms and complete Cyber Security 101 course

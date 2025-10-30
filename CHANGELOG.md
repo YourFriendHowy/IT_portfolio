@@ -7,6 +7,8 @@ where LastEdited = date("2025-07-00")
 - Created [[skill_template]]
 - Added custom hotkey for [[skill_template]] insertion (alt+s)
 - Added entry to [[README]]; [[README#Progress Journal Conventions|progress journal conventions]] explaining "Vault Updates" purpose and use
+- Updated [[progress_template]] to reflect current goals under "Future"
+- Vault Publication expanded to include templates and today's updates
 # 2025-10-28
 - Removed plugin make.md
 - Updated [[README]]; added [[README#Progress Journal Conventions|progress journal conventions]]
