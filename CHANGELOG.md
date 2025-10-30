@@ -6,7 +6,7 @@ where LastEdited = date("2025-07-00")
 - Created [[Expanded Skills Log]] to serve as a complete collection of skills and experiences
 - Created [[skill_template]]
 - Added custom hotkey for [[skill_template]] insertion (alt+s)
-- Added 
+- Added entry to [[README]]; [[README#Progress Journal Conventions|progress journal conventions]] explaining "Vault Updates" purpose and use
 # 2025-10-28
 - Removed plugin make.md
 - Updated [[README]]; added [[README#Progress Journal Conventions|progress journal conventions]]

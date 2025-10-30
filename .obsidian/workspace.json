@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Progress Journal/2025-10-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "2025-10-29"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Progress Journal/2025-10-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGELOG"
+              "title": "Outline of 2025-10-29"
             }
           }
         ]
@@ -246,9 +246,10 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "About Me.md",
+    "CHANGELOG.md",
     "README.md",
     "Progress Journal/2025-10-28.md",
-    "CHANGELOG.md",
     "Progress Journal/2025-10-29.md",
     "Progress Journal/2025-07-27.md",
     "Progress Journal/2025-07-26.md",
@@ -261,7 +262,6 @@
     "Progress Journal/2025-08-08.md",
     "z_templates/progress_template.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
-    "About Me.md",
     "Resume.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "Glossary/PID.md",
