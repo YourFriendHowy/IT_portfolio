@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
-                "mode": "source",
+                "file": "Projects/PortScanner/portScanner V1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "portScanner V1"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Projects/PortScanner/portScanner V1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGELOG"
+              "title": "Outline of portScanner V1"
             }
           }
         ]
@@ -246,34 +246,34 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Progress Journal/2025-10-28.md",
+    "Projects/PortScanner/portScanner v2.md",
+    "Projects/PortScanner/portScanner V1.md",
+    "About Me.md",
+    "Expanded Skills Log.md",
+    "README.md",
     "CHANGELOG.md",
+    "Projects/COMS-170 Intro to Programming/project.md",
+    "Projects/COMS-170 Intro to Programming/program8.md",
+    "Projects/COMS-170 Intro to Programming/program7.md",
+    "Projects/COMS-170 Intro to Programming/program6.md",
+    "Projects/COMS-170 Intro to Programming/program5.md",
+    "Projects/COMS-170 Intro to Programming/program4.md",
+    "Projects/COMS-170 Intro to Programming/program3.md",
+    "Projects/COMS-170 Intro to Programming/program2.md",
+    "Projects/COMS-170 Intro to Programming/program1.md",
+    "Projects/COMS-170 Intro to Programming/Final Program.md",
+    "Progress Journal/2025-10-28.md",
     "Progress Journal/2025-10-29.md",
     "z_templates/progress_template.md",
     "Progress Journal/2025-10-27.md",
-    "Expanded Skills Log.md",
-    "About Me.md",
-    "README.md",
     "Progress Journal/2025-07-27.md",
     "Progress Journal/2025-07-26.md",
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
     "Progress Journal/2025-07-25.md",
     "z_templates/skill_template.md",
-    "Progress Journal/2025-08-08.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
-    "Resume.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
-    "Glossary/PID.md",
-    "Glossary/Load Average.md",
-    "Glossary/Glossary.md",
-    "GIT_Tips/cheatSheet.md",
-    "Windows_Notes/Windows_Fundamentals.md",
-    "Windows_Notes/PowerShell_Cheatsheet.md",
-    "Networking/Networking_Basics.md",
-    "Vim_Tips/Vim_Tips.md",
-    "Vim_Tips/Cheatsheet.md",
-    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "publish.js",
     "publish (Copy).css",
     "Certifications",

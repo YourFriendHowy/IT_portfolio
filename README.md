@@ -5,7 +5,7 @@
 
 This vault is a structured and evolving archive of my:
 
-- Technical study (A+, TryHackMe, Odin)
+- Technical study (A+, security + TryHackMe, Homelab)
 - Programming projects (Python, Bash, etc.)
 - Personal learning journal
 - Custom configurations (for environment reuse)
@@ -33,7 +33,6 @@ This vault is a structured and evolving archive of my:
 ## Notes Conventions
 
 - Markdown only, preview-ready
-- Tags like `#project`, `#study`, `#cli` used for filtering
 - Internal links (`[[Note]]`) used where relevant
 - Callouts (`> [!tip]`, etc.) used for clarity
 ##### Progress Journal Conventions

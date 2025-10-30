@@ -22,13 +22,15 @@ I’m currently seeking **entry-level positions** where I can contribute, grow, 
 ## Skills Snapshot
 *[[Expanded Skills Log]]*
 
-| Area           | What I’ve practiced                                       | Evidence                                                                                    |
-| -------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Linux Ops      | Filesystem/navigation, permissions, processes, journaling | `Linux_Notes/*` (command cards like `ls`, `chmod`, `systemctl`, `journalctl`, `tail`, etc.) |
-| Scripting      | Python (CLI tools, sockets), Bash (workflow, aliases)     | **Port Scanner** (`portScanner.py`), **Bash Aliases**                                       |
-| Networking     | Ports/services, basic scanning, SSH/SCP                   | Port scanner usage, `scp` notes, TryHackMe rooms                                            |
-| Systems & Logs | `journalctl`, `/var/log`, `dmesg`, `uptime`, load avg     | Notes: **Logs.md**, **systemd.md**, **Systemd/load avg**                                    |
-| Tooling        | Git basics + workflow, Obsidian templating/dataview       | **Git Cheatsheet**, **Templates** (`progress_template`, `command_template`)                 |
+| Area                             | What I’ve Practiced                                                                                                                                                              | Evidence                                                                                                               |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Systems & Troubleshooting**    | Two decades of self-guided PC repair, OS installation, and issue resolution across Windows and Linux(1 year); proficient in diagnosing performance, driver, and hardware faults. | _[[Expanded Skills Log#Earlier Accomplishments\|Earlier Accomplishments]]_, _Progress Journals_                        |
+| **Hardware & Build Maintenance** | Rebuilt and upgraded systems (CPU, RAM, cooling, PSU, storage); applied thermal paste, resolved overheating, and optimized builds for stability.                                 | _[[Expanded Skills Log]]_                                                                                              |
+| **Networking & Connectivity**    | Configured DHCP/DNS, router firmware (DD-WRT bridge), port forwarding, and LAN hosting for multiplayer environments.                                                             | _Networking Notes_, _[[Expanded Skills Log#Earlier Accomplishments\|Earlier Accomplishments]]_                         |
+| **Virtualization & Homelab**     | Installed and configured Proxmox; deployed Windows Server 2025 and Linux VMs; explored AD DS, DNS, DHCP, and future security hardening.                                          | _Projects → Homelab_                                                                                                   |
+| **Documentation & Workflow**     | Designed and maintain a structured personal knowledge vault with changelogs, skill logs, templates, and daily progress journals.                                                 | _Vault Architecture_, _CHANGELOG_                                                                                      |
+| **Security & Privacy Awareness** | Practiced safe OS isolation (VM sandboxing for monitored WFH software), studied network defense/hardening, and use privacy-focused tools.                                        | _Progress Journals_, _Homelab Security Plan_, [[Expanded Skills Log#Earlier Accomplishments\|Earlier Accomplishments]] |
+| **Linux Familiarity & CLI**      | Installed and configured Arch Linux and Ubuntu; navigated file systems, permissions, and package management.                                                                     | _Linux Notes_                                                                                                          |
 
 ---
 

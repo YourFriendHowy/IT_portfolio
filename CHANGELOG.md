@@ -9,6 +9,7 @@ where LastEdited = date("2025-07-00")
 - Added entry to [[README]]; [[README#Progress Journal Conventions|progress journal conventions]] explaining "Vault Updates" purpose and use
 - Updated [[progress_template]] to reflect current goals under "Future"
 - Vault Publication expanded to include templates and today's updates
+- Moved COMS-170 folder into projects folder, cleaned up COMS-170 folder structure
 # 2025-10-28
 - Removed plugin make.md
 - Updated [[README]]; added [[README#Progress Journal Conventions|progress journal conventions]]
