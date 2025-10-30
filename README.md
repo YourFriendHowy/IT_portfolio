@@ -39,6 +39,7 @@ This vault is a structured and evolving archive of my:
 ##### Progress Journal Conventions
 - The ⚠️ emoji represents issues encountered
 - The ✅ emoji represents the solution proceeding troubleshooting an issue
+- Header "Vault Updates" displays major changes, a link to the CHANGELOG for that day is labeled as "*On this day*"
 
 ---
 

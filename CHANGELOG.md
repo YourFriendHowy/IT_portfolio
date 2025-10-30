@@ -2,6 +2,11 @@
 table WITHOUT ID link(file.name) AS "Used to Parse files of the day, Adjust code to todays date"
 where LastEdited = date("2025-07-00")
 ```
+# 2025-10-29
+- Created [[Expanded Skills Log]] to serve as a complete collection of skills and experiences
+- Created [[skill_template]]
+- Added custom hotkey for [[skill_template]] insertion (alt+s)
+- Added 
 # 2025-10-28
 - Removed plugin make.md
 - Updated [[README]]; added [[README#Progress Journal Conventions|progress journal conventions]]

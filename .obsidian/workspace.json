@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expanded Skills Log.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expanded Skills Log"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expanded Skills Log.md",
+                "file": "CHANGELOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expanded Skills Log"
+              "title": "Outline of CHANGELOG"
             }
           }
         ]
@@ -246,21 +246,23 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "z_templates/skill_template.md",
-    "Expanded Skills Log.md",
-    "CHANGELOG.md",
     "README.md",
+    "Progress Journal/2025-10-28.md",
+    "CHANGELOG.md",
+    "Progress Journal/2025-10-29.md",
+    "Progress Journal/2025-07-27.md",
+    "Progress Journal/2025-07-26.md",
+    "Progress Journal/2025-07-23.md",
+    "Progress Journal/2025-07-22.md",
+    "Progress Journal/2025-07-25.md",
+    "Expanded Skills Log.md",
+    "z_templates/skill_template.md",
     "Progress Journal/2025-10-27.md",
     "Progress Journal/2025-08-08.md",
-    "Progress Journal/2025-10-28.md",
     "z_templates/progress_template.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "About Me.md",
-    "Progress Journal/2025-07-26.md",
     "Resume.md",
-    "Progress Journal/2025-07-23.md",
-    "Progress Journal/2025-07-22.md",
-    "Progress Journal/2025-07-27.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "Glossary/PID.md",
     "Glossary/Load Average.md",
@@ -272,8 +274,6 @@
     "Vim_Tips/Vim_Tips.md",
     "Vim_Tips/Cheatsheet.md",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
-    "TryHackMe/CyberSecurity101/R4-Linux Fundamentals-part1.md",
-    "TryHackMe/CyberSecurity101/R3-Search Skills.md",
     "publish.js",
     "publish (Copy).css",
     "Certifications",

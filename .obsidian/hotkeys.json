@@ -14,5 +14,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "templater-obsidian:z_templates/skill_template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

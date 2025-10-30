@@ -49,7 +49,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "z_templates/skill_template.md"
   ],
   "startup_templates": [
     ""
