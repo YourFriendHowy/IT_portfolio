@@ -55,7 +55,7 @@ I’m currently seeking **entry-level positions** where I can contribute, grow, 
 Small, focused CLI port scanner with banner-grabbing and simple range parsing.  
 **Stack:** Python 3 (sockets, argparse)  
 **Flags:** `-i` show local IP, `-l` show closed/filtered, `-v` verbose banners  
-**File:** [[portScanner.py]]
+**File:** [[portScanner v2]]
 
 `Examples - Scan a few ports:    python portScanner.py 192.168.1.10 22,80,443 - Scan a range:        python portScanner.py 10.0.0.5 1-1024 -l - Grab banners:        python portScanner.py target.tld 80,443 -v`
 
@@ -92,6 +92,7 @@ Quick, single-purpose cards with flags, meaning, and examples.
     
 
 A directory of known commands can be found at Linux_Notes/Commands/ 
+*Note: Command documents use dynamic population via obsidian properties, data is currently missing as this process is not supported on published vaults*
 
 ---
 
@@ -112,4 +113,4 @@ A directory of known commands can be found at Linux_Notes/Commands/
 
 ### Footer
 
-_Last updated:_ 10/21/2025• _Vault owner:_ **Matt Howard (YourFriendHowy)**
+_Last updated:_ 10/29/2025• _Vault owner:_ **Matt Howard (YourFriendHowy)**

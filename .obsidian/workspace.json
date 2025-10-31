@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/PortScanner/portScanner V1.md",
-                "mode": "preview",
+                "file": "About Me.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "portScanner V1"
+              "title": "About Me"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/PortScanner/portScanner V1.md",
+                "file": "About Me.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of portScanner V1"
+              "title": "Outline of About Me"
             }
           }
         ]
@@ -246,9 +246,10 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Projects/PortScanner/portScanner v2.md",
-    "Projects/PortScanner/portScanner V1.md",
+    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "About Me.md",
+    "Projects/PortScanner/portScanner V1.md",
+    "Projects/PortScanner/portScanner v2.md",
     "Expanded Skills Log.md",
     "README.md",
     "CHANGELOG.md",
@@ -271,7 +272,6 @@
     "Progress Journal/2025-07-23.md",
     "Progress Journal/2025-07-22.md",
     "Progress Journal/2025-07-25.md",
-    "z_templates/skill_template.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
