@@ -2,6 +2,10 @@
 table WITHOUT ID link(file.name) AS "Used to Parse files of the day, Adjust code to todays date"
 where LastEdited = date("2025-07-00")
 ```
+
+# 2025-11-06
+- Created [[Event_Viewer]]
+- Moved /Homelab to / of vault
 # 2025-10-29
 - Created [[Expanded Skills Log]] to serve as a complete collection of skills and experiences
 - Created [[skill_template]]
