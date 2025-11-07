@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows_Notes/Event_Viewer.md",
+                "file": "Progress Journal/2025-11-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Event_Viewer"
+              "title": "2025-11-06"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows_Notes/Event_Viewer.md",
+                "file": "Progress Journal/2025-11-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Event_Viewer"
+              "title": "Outline of 2025-11-06"
             }
           }
         ]
@@ -246,8 +246,9 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "About Me.md",
     "Windows_Notes/Event_Viewer.md",
+    "Progress Journal/2025-11-06.md",
+    "About Me.md",
     "Homelab_Diagram.canvas",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "Projects/PortScanner/portScanner V1.md",
@@ -272,7 +273,6 @@
     "Progress Journal/2025-07-27.md",
     "Progress Journal/2025-07-26.md",
     "Progress Journal/2025-07-23.md",
-    "Progress Journal/2025-07-22.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
