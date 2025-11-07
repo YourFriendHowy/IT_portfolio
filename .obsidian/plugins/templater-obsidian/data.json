@@ -37,6 +37,10 @@
     {
       "folder": "Linux_Notes",
       "template": "z_templates/default_template.md"
+    },
+    {
+      "folder": "Windows_Notes",
+      "template": "z_templates/default_template.md"
     }
   ],
   "enable_file_templates": false,

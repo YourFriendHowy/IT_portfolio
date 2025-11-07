@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me.md",
+                "file": "Windows_Notes/Event_Viewer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "About Me"
+              "title": "Event_Viewer"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Me.md",
+                "file": "Windows_Notes/Event_Viewer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About Me"
+              "title": "Outline of Event_Viewer"
             }
           }
         ]
@@ -246,8 +246,9 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Homelab_Diagram.canvas",
     "About Me.md",
+    "Windows_Notes/Event_Viewer.md",
+    "Homelab_Diagram.canvas",
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "Projects/PortScanner/portScanner V1.md",
     "Projects/PortScanner/portScanner v2.md",
