@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expanded Skills Log.md",
+                "file": "Linux_Notes/Commands/adduser.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expanded Skills Log"
+              "title": "adduser"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expanded Skills Log.md",
+                "file": "Linux_Notes/Commands/adduser.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expanded Skills Log"
+              "title": "Outline of adduser"
             }
           }
         ]
@@ -246,6 +246,7 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Expanded Skills Log.md",
     "Progress Journal/2025-11-06.md",
     "CHANGELOG.md",
     "z_templates/progress_template.md",
@@ -257,7 +258,6 @@
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "Projects/PortScanner/portScanner V1.md",
     "Projects/PortScanner/portScanner v2.md",
-    "Expanded Skills Log.md",
     "README.md",
     "Projects/COMS-170 Intro to Programming/project.md",
     "Projects/COMS-170 Intro to Programming/program8.md",
