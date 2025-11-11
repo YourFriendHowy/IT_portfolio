@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-11-06.md",
-                "mode": "preview",
+                "file": "Progress Journal/2025-11/2025-11-11.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-06"
+              "title": "2025-11-11"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-11-06.md",
+                "file": "Progress Journal/2025-11/2025-11-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-06"
+              "title": "Outline of 2025-11-11"
             }
           }
         ]
@@ -246,14 +246,19 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Progress Journal/2025-11-10.md",
+    "Progress Journal/2025-11/2025-11-10.md",
+    "Progress Journal/2025-11/2025-11-11.md",
+    "Progress Journal/2025-11",
+    "Progress Journal/2025-10",
+    "Progress Journal/2025-08",
+    "Progress Journal/2025-07",
+    "Progress Journal/2025-11/2025-11-06.md",
     "Linux_Notes/Commands/adduser.md",
     "Expanded Skills Log.md",
-    "Progress Journal/2025-11-06.md",
     "CHANGELOG.md",
     "z_templates/progress_template.md",
-    "Progress Journal/2025-10-28.md",
-    "Progress Journal/2025-10-29.md",
+    "Progress Journal/2025-10/2025-10-28.md",
+    "Progress Journal/2025-10/2025-10-29.md",
     "Windows_Notes/Event_Viewer.md",
     "About Me.md",
     "Homelab_Diagram.canvas",
@@ -271,8 +276,7 @@
     "Projects/COMS-170 Intro to Programming/program2.md",
     "Projects/COMS-170 Intro to Programming/program1.md",
     "Projects/COMS-170 Intro to Programming/Final Program.md",
-    "Progress Journal/2025-10-27.md",
-    "Progress Journal/2025-07-27.md",
+    "Progress Journal/2025-10/2025-10-27.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
@@ -280,10 +284,6 @@
     "Certifications",
     "Weekly Summaries",
     "publish.css",
-    "theme.css",
-    "Soft_skills",
-    "Homelab",
-    "Docs",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
