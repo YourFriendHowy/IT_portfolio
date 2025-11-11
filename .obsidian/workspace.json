@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/adduser.md",
-                "mode": "preview",
+                "file": "Progress Journal/2025-11-10.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "adduser"
+              "title": "2025-11-10"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/adduser.md",
+                "file": "Progress Journal/2025-11-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of adduser"
+              "title": "Outline of 2025-11-10"
             }
           }
         ]
@@ -246,6 +246,8 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/adduser.md",
+    "Progress Journal/2025-11-10.md",
     "Expanded Skills Log.md",
     "Progress Journal/2025-11-06.md",
     "CHANGELOG.md",
@@ -271,8 +273,6 @@
     "Projects/COMS-170 Intro to Programming/Final Program.md",
     "Progress Journal/2025-10-27.md",
     "Progress Journal/2025-07-27.md",
-    "Progress Journal/2025-07-26.md",
-    "Progress Journal/2025-07-23.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
