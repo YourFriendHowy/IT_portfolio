@@ -42,4 +42,14 @@ All three permissions interact for full control. For example:
 - Without `r`, you can’t list contents, but with `x` you can access files if you know their names.
 - Without `w`, you can’t create or delete files in that directory.
 
+# umask
+umask is a static permission filter 
 
+`0` = remove nothing
+`1` = remove execute
+`2` = remove write
+`3` = remove write+execute
+`4` = remove read
+`5` = remove read+execute
+`6` = remove read+write
+`7` = remove all permissions

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Journal/2025-11/2025-11-10.md",
+                "file": "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "Permissions"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Journal/2025-11/2025-11-10.md",
+                "file": "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-10"
+              "title": "Outline of Permissions"
             }
           }
         ]
@@ -246,9 +246,9 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Progress Journal/2025-11/2025-11-10.md",
     "Progress Journal/2025-11/2025-11-06.md",
     "Progress Journal/2025-11/2025-11-11.md",
-    "Progress Journal/2025-11/2025-11-10.md",
     "Progress Journal/2025-11",
     "Progress Journal/2025-10",
     "Progress Journal/2025-08",
