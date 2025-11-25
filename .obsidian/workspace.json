@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/tail.md",
-                "mode": "preview",
+                "file": "GIT_Tips/cheatSheet.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tail"
+              "title": "cheatSheet"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/tail.md",
+                "file": "GIT_Tips/cheatSheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tail"
+              "title": "Outline of cheatSheet"
             }
           }
         ]
@@ -246,6 +246,7 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Linux_Notes/Commands/tail.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
     "Progress Journal/2025-11/2025-11-11.md",
@@ -276,7 +277,6 @@
     "Projects/COMS-170 Intro to Programming/program4.md",
     "Projects/COMS-170 Intro to Programming/program3.md",
     "Projects/COMS-170 Intro to Programming/program2.md",
-    "Projects/COMS-170 Intro to Programming/program1.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",

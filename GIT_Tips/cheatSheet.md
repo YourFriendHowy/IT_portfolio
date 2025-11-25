@@ -23,7 +23,15 @@ Last Edited: 2025-07-22
 `git config --global user.email yourname@example.com`
 
 
+
 - `git config --global init.defaultBranch main`
+- `git config --global pull.rebase false`
+- get ssh
+	- exiting `ls ~/.ssh/id_ed25519.pub`
+	- new `ssh-keygen -t ed25519`
+	- print public ssh `cat ~/.ssh/id_ed25519.pub`
+	- add to github
+	- test key with `ssh -T git@github.com #Attempts to ssh to GitHub`
 - `mkdir repos` than `cd repos/`
 - `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git`
 - 
