@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "cheatSheet"
             }
+          },
+          {
+            "id": "6ae686f2a4d5492c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +257,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "657b1740a0f0ae43",
+  "active": "6ae686f2a4d5492c",
   "lastOpenFiles": [
     "Linux_Notes/Commands/tail.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
