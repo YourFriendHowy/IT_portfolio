@@ -35,12 +35,24 @@
             "id": "6ae686f2a4d5492c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Linux_Notes/Custom_Settings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Custom_Settings"
             }
           }
         ],
@@ -129,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Linux_Notes/Custom_Settings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheatSheet"
+              "title": "Outline of Custom_Settings"
             }
           }
         ]

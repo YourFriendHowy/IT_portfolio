@@ -28,3 +28,5 @@ alias rst='source ~/.bashrc'
 alias edalias='nano .bash_aliases'
 ```
 
+Terminal Font Icons
+ https://fontawesome.com/v5/icons/d-and-d?f=brands&s=solid
