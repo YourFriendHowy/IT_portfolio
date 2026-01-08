@@ -54,9 +54,23 @@
               "icon": "lucide-file",
               "title": "Custom_Settings"
             }
+          },
+          {
+            "id": "be0dff13ccf9a606",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://fontawesome.com/search?ip=brands",
+                "title": "data:text/plain,",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "data:text/plain,"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Custom_Settings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Custom_Settings"
+              "title": "Outline"
             }
           }
         ]
@@ -269,8 +282,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ae686f2a4d5492c",
+  "active": "be0dff13ccf9a606",
   "lastOpenFiles": [
+    "Linux_Notes/Custom_Settings.md",
     "Linux_Notes/Commands/tail.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
     "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
@@ -301,7 +315,6 @@
     "Projects/COMS-170 Intro to Programming/program5.md",
     "Projects/COMS-170 Intro to Programming/program4.md",
     "Projects/COMS-170 Intro to Programming/program3.md",
-    "Projects/COMS-170 Intro to Programming/program2.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
