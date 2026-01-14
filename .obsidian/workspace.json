@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cheatSheet"
-            }
-          },
-          {
-            "id": "6ae686f2a4d5492c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux_Notes/Custom_Settings.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,25 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Custom_Settings"
-            }
-          },
-          {
-            "id": "be0dff13ccf9a606",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://fontawesome.com/search?ip=brands",
-                "title": "data:text/plain,",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "data:text/plain,"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,12 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -282,8 +244,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "be0dff13ccf9a606",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "README.md",
+    "GIT_Tips/cheatSheet.md",
+    "Vim_Tips/Cheatsheet.md",
     "Linux_Notes/Custom_Settings.md",
     "Linux_Notes/Commands/tail.md",
     "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
@@ -307,14 +272,11 @@
     "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
     "Projects/PortScanner/portScanner V1.md",
     "Projects/PortScanner/portScanner v2.md",
-    "README.md",
     "Projects/COMS-170 Intro to Programming/project.md",
     "Projects/COMS-170 Intro to Programming/program8.md",
     "Projects/COMS-170 Intro to Programming/program7.md",
     "Projects/COMS-170 Intro to Programming/program6.md",
     "Projects/COMS-170 Intro to Programming/program5.md",
-    "Projects/COMS-170 Intro to Programming/program4.md",
-    "Projects/COMS-170 Intro to Programming/program3.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "publish.js",
