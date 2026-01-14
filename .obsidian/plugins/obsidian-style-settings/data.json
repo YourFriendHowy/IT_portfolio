@@ -1,6 +1,5 @@
 {
   "ITS@@select": "none",
-  "ITS@@its-d": false,
   "ITS@@ITS-Sizes": "none",
   "ITS@@minimalist-workspace": false,
   "ITS@@hide-resize-handle": false,
@@ -35,13 +34,13 @@
   "modular-css-layout-mc@@float-large-width": 600,
   "ITS@@breadcrumbs-block": false,
   "ITS@@accent-color": false,
-  "ITS@@slrvb-b": true,
+  "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
   "ITS@@t-d": false,
   "ITS@@drwn": false,
   "ITS@@nord": false,
-  "ITS@@mini": true,
+  "ITS@@mini": false,
   "ITS@@notion": false,
   "modular-css-layout-mc@@float-medium-width": 450,
   "ITS@@kanban-minimal": false,
@@ -53,5 +52,6 @@
   "ITS@@heading-color-override": false,
   "ITS@@hide-header-underline": false,
   "ITS@@h2-color@@light": "#142DA8",
-  "ITS@@h2-color@@dark": "#142DA8"
+  "ITS@@h2-color@@dark": "#142DA8",
+  "ITS@@its-d": false
 }
