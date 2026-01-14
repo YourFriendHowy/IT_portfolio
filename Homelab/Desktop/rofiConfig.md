@@ -1,0 +1,5 @@
+```
+//@theme "/usr/share/rofi/themes/Monokai.rasi"
+
+@theme "/usr/share/rofi/themes/Monokai.rasi"
+```

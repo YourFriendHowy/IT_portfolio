@@ -1,3 +1,4 @@
+```
 -- ================================================================================================
 -- TITLE : nvim-treesitter
 -- ABOUT : Treesitter configurations and abstraction layer for Neovim.
@@ -52,3 +53,5 @@ return {
 		})
 	end,
 }
+
+```

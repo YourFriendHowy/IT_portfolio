@@ -1,3 +1,4 @@
+```
 -- ~/.config/nvim/lua/plugins/toggleterm.lua
 return {
   "akinsho/toggleterm.nvim",
@@ -35,3 +36,5 @@ return {
   end,
 }
 
+
+```

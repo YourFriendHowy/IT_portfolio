@@ -1,186 +1,166 @@
 body {
-  --font-default: Courier, monospace;
-  --font-monospace-default: "Lucida Console", monospace;
+  /* Typography */
+  --font-default: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-monospace-default: "JetBrains Mono", "Fira Code", monospace;
 
-  /* default: 700px */
-  --file-line-width: 520px;
+  --file-line-width: 680px;
 
-  /* GB Studio colors */
-  --color-light: #e0f8cf;
-  --color-green: #86c06c;
-  --color-darkgreen: #306850;
-  --color-nearblack: #071821;
-
-  /* Light mode edit */
-  --color-off-light: #cfe6be;
+  /* Global Accents */
+  --accent-orange: #ff6b00;
+  --deep-red: #a80000; 
+  --bright-red: #e63946;
 }
 
+/* --- DARK MODE: WARM SEPIA OBSIDIAN --- */
 .theme-dark {
-  --background-primary: black;
+  /* This is the 'Sepia Black' - a deep, warm espresso/charcoal */
+  --background-primary: #141210; 
+  --background-primary-alt: #1b1917;
+  --background-secondary: #0f0e0d;
 
-  /* Code blocks */
-  --background-primary-alt: var(--color-nearblack);
+  /* Text: Creamy white instead of pure white to reduce eye strain */
+  --text-normal: #ebdbb2;
+  --text-muted: #8c837a;
+  --text-faint: #4d463e;
   
-  /* Tab color when window unfocused, settings sidebar */
-  --background-secondary: black;
-
-  /* Tab color when window focused */
-  --background-secondary-alt: black;
-
-  /* Horizontal rule/divider and inner window border */
-  --background-modifier-border: var(--color-darkgreen);
-
-  /* Textbox background */
-  --background-modifier-form-field: var(--color-nearblack);
-
-  /* Certain hover popups, like sync errors or hover over close window button */
-  --background-modifier-form-field-highlighted: var(--color-green);
-  --background-modifier-box-shadow: var(--color-green);
-
-  /* Unsure what this is; default value */
-  --background-modifier-success: #A4E7C3;	
-
-  /* Close window button, clear history button */
-  --background-modifier-error: red;	
-  --background-modifier-error-hover: orange;	
-
-  /* Settings outer space */
-  --background-modifier-cover: var(--color-nearblack);	
-
-  /* Links */
-  --text-accent: var(--color-green);
-
-  /* Hover link */
-  --text-accent-hover: var(--color-light);
-
-  /* Body text */
-  --text-normal: var(--color-green);	
-
-  /* Icon colors, property names, graph nodes */
-  --text-muted: var(--color-green);	
-
-  /* Line numbers, tab title when unfocused, non-existing graph nodes */
-  --text-faint: var(--color-darkgreen);	
-
-  /* Warnings */
-  --text-error: red;	
-  --text-error-hover: orange;	
-
-  /* Highlighter mark, selected bullet points and heading symbols */
-  --text-highlight-bg: rgba(48, 104, 80, 0.5);
-
-  --text-highlight-bg-active: blue;
-
-  /* Mouse selection */
-  --text-selection: var(--color-darkgreen);
-
-  /* Text on settings buttons and sidebar tabs */
-  --text-on-accent: var(--color-darkgreen);
-
-  /* Some settings buttons, canvas side buttons */
-  --interactive-normal: var(--color-darkgreen);	
-  --interactive-hover: var(--color-nearblack);
-
-  /* Settings toggle background, graph node hover */
-  --interactive-accent: var(--color-green);	
-
-  /* Checkbox hover */
-  --interactive-accent-hover: var(--color-light);	
-
-  /* Not sure what this does... */
-  --interactive-success: var(--color-green);	
-
-  /* Scrollbar hover */
-  --scrollbar-active-thumb-bg: var(--color-green);	
-
-  /* Doesn't seem to do anything */
-  --scrollbar-bg: rgba(0, 0, 0, 0.05)	
-
-  /* Scrollbar */
-  --scrollbar-thumb-bg: var(--color-darkgreen);	
+  /* UI Elements #2e2a26 */
+  --background-modifier-border: #4f493b;
+  --interactive-accent: var(--deep-red);
+  --text-accent: #8a7954;
+  
+  /* Bold Style: Red pops beautifully against the warm darks */
+  --bold-color: var(--accent-orange);
+  
+  --text-selection: rgba(255, 107, 0, 0.2);
 }
 
+/* --- LIGHT MODE: AGED PARCHMENT --- */
 .theme-light {
-  --background-primary: var(--color-light);
-
-  /* Code blocks */
-  --background-primary-alt: var(--color-nearblack);
+  --background-primary: #f4eee1; 
+  --background-primary-alt: #ece4d1;
+  --background-secondary: #e8dfcc;
   
-  /* Tab color when window unfocused, settings sidebar */
-  --background-secondary: var(--color-light);
-
-  /* Tab color when window focused */
-  --background-secondary-alt: var(--color-light);
-
-  /* Horizontal rule/divider and inner window border */
-  --background-modifier-border: var(--color-nearblack);
-
-  /* Textbox background */
-  --background-modifier-form-field: var(--color-light);
-
-  /* Certain hover popups, like sync errors or hover over close window button */
-  --background-modifier-form-field-highlighted: var(--color-green);
-  --background-modifier-box-shadow: var(--color-green);
-
-  /* Unsure what this is; default value */
-  --background-modifier-success: #A4E7C3;	
-
-  /* Close window button, clear history button */
-  --background-modifier-error: red;	
-  --background-modifier-error-hover: orange;	
-
-  /* Settings outer space */
-  --background-modifier-cover: var(--color-light);	
-
-  /* Links */
-  --text-accent: var(--color-green);
-
-  /* Hover link */
-  --text-accent-hover: var(--color-nearblack);
-
-  /* Body text */
-  --text-normal: var(--color-nearblack);	
-
-  /* Icon colors, property names, graph nodes */
-  --text-muted: var(--color-green);	
-
-  /* Line numbers, tab title when unfocused, non-existing graph nodes */
-  --text-faint: var(--color-darkgreen);	
-
-  /* Warnings */
-  --text-error: red;	
-  --text-error-hover: orange;	
-
-  /* Highlighter mark, selected bullet points and heading symbols */
-  --text-highlight-bg: var(--color-green);
-
-  --text-highlight-bg-active: rgba(255, 128, 0, 0.4);
-
-  /* Mouse selection */
-  --text-selection: var(--color-green);	
-
-   /* Text on settings buttons and sidebar tabs */
-  --text-on-accent: var(--color-darkgreen);
-
-  /* Some settings buttons, canvas side buttons */
-  --interactive-normal: var(--color-light);	
-  --interactive-hover: var(--color-darkgreen);
-
-  /* Settings toggle background, graph node hover */
-  --interactive-accent: var(--color-green);	
-
-  /* Checkbox hover */
-  --interactive-accent-hover: var(--color-nearblack);	
-
-  /* Not sure what this does... */
-  --interactive-success: #197300;
-
-  /* Scrollbar hover */
-  --scrollbar-active-thumb-bg: var(--color-green);	
-
-  /* Mostly affects light theme */
-  --scrollbar-bg: rgba(0, 0, 0, 0.05);	
-
-  /* Scrollbar */
-  --scrollbar-thumb-bg: var(--color-darkgreen);	
+  --text-normal: #2e2a24; 
+  --text-muted: #6e675a;
+  --text-faint: #b0a896;
+  
+  --background-modifier-border: #4f493b;
+  --interactive-accent: var(--deep-red);
+  --text-accent: #cc5500; 
+  
+  --bold-color: var(--accent-orange);
+  
+  --text-selection: rgba(168, 0, 0, 0.1);
 }
+
+/* --- SHARED STYLES --- */
+strong, b {
+  color: var(--bold-color);
+  font-weight: 700;
+}
+
+/* FORCE ORANGE HEADERS */
+.markdown-rendered h1, 
+.markdown-rendered h2, 
+.markdown-rendered h3, 
+.markdown-rendered h4,
+.cm-header-1, 
+.cm-header-2, 
+.cm-header-3, 
+.cm-header-4 {
+  color: var(--text-accent) !important; /* Your Bright Orange */
+  font-weight: 600 !important;
+  letter-spacing: -0.01em !important;
+}
+
+
+/* Horizontal Rule - The divider line */
+hr {
+  background-color: var(--background-modifier-border);
+  height: 1px;
+  border: none;
+}
+
+/* --- SLATE BACKGROUND WITH GRUVBOX SYNTAX --- */
+
+.markdown-rendered pre, 
+.theme-dark pre {
+  background-color: #161718 !important; 
+  border: 1px solid #2e3032 !important; 
+  border-radius: 4px !important;
+}
+
+.markdown-rendered pre code {
+  color: #ebdbb2 !important; /* Base text */
+}
+
+:not(pre) > code {
+    background-color: #161718 !important; /* Your Slate Background */
+    color: #d6cfc7 !important;            /* Your Orange Text */
+    border: 1px solid #161718 !important; /* Subtle Border */
+    padding: 0.1em 0.3em !important;
+}
+
+/* 1. BRIGHTER COMMENTS (Readable Grey/Aqua) */
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #a89984 !important; /* Using Bright Aqua for comments - very readable */
+  font-style: italic !important;
+}
+
+/* 2. THE SYNTAX PRETTYNESS (Restoring the colors) */
+.token.keyword,
+.token.selector,
+.token.important,
+.token.atrule {
+  color: var(--accent-orange) !important; /* Red for keywords like 'if', 'import' */
+}
+
+.token.function,
+.token.class-name {
+  color: var(--deep-red) !important; /* Yellow/Orange for functions */
+}
+
+.token.string,
+.token.char,
+.token.attr-value {
+  color: #7aa674 !important; /* Green for "Strings of text" */
+}
+
+.token.number,
+.token.boolean,
+.token.constant {
+  color: var(--bright-red) !important; /* Purple for numbers/logic */
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.token.variable {
+  color: #fbf1c7 !important; /* Blue for variables and symbols */
+}
+
+.token.punctuation {
+  color: #928374 !important; /* Clean grey for brackets () and dots . */
+}
+
+/* 2. LINKS: SWITCH TO RED */
+/* This targets internal links, external links, and the hover state */
+.markdown-rendered a, 
+.cm-link, 
+.cm-url,
+.internal-link {
+  color: var(--interactive-accent) !important; /* This is 'Bright Red' from your theme file */
+  text-decoration: none;
+}
+
+/* 3. LINK HOVER: OPTIONAL */
+/* Makes links slightly brighter or different when you mouse over them */
+.markdown-rendered a:hover, 
+.internal-link:hover {
+  color: #fe8019 !important; /* A slightly deeper red on hover */
+  text-decoration: underline;
+}
+

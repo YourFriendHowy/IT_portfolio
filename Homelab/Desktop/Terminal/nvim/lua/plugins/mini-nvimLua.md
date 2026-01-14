@@ -1,3 +1,4 @@
+```
 -- ================================================================================================
 -- TITLE : mini.nvim
 -- LINKS :
@@ -17,3 +18,5 @@ return {
 	{ "echasnovski/mini.bufremove", version = "*", opts = {} },
 	{ "echasnovski/mini.notify", version = "*", opts = {} },
 }
+
+```

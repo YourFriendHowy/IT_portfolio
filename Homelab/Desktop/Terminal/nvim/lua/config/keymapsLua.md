@@ -1,3 +1,4 @@
+```
 -- ================================================================================================
 -- TITLE: NeoVim keymaps
 -- ABOUT: sets some quality-of-life keymaps
@@ -42,3 +43,5 @@ vim.keymap.set("n", "<leader>m", "<Cmd>NvimTreeFocus<CR>", { desc = "Focus on Fi
 vim.keymap.set("n", "<leader>e", "<Cmd>NvimTreeToggle<CR>", { desc = "Toggle File Explorer" })
 
 
+
+```

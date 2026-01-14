@@ -118,4 +118,7 @@ source $ZSH/oh-my-zsh.sh
 #alias kittyconf="nano ~/.config/kitty/kitty.conf"
 #aias kittytheme="nano ~/.config/kitty/theme.conf"
 #alias makoconf="nano ~/.config/mako/config"
+
+fastfetch
+echo ""
 ```

@@ -1,3 +1,4 @@
+```
 -- ================================================================================================
 -- TITLE : melange-nvim
 -- ABOUT : A subtle, warm colorscheme for Neovim inspired by Sublime Text's Melange theme.
@@ -13,3 +14,5 @@ return {
 	  vim.cmd("colorscheme kanagawa-dragon")
 	end,
 }
+
+```

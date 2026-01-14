@@ -7,7 +7,7 @@ where LastEdited = date("2025-07-00")
 - Created [[Event_Viewer]]
 - Moved /Homelab to / of vault
 # 2025-10-29
-- Created [[Expanded Skills Log]] to serve as a complete collection of skills and experiences
+- Created [[Skills and Practical Experience]] to serve as a complete collection of skills and experiences
 - Created [[skill_template]]
 - Added custom hotkey for [[skill_template]] insertion (alt+s)
 - Added entry to [[README]]; [[README#Progress Journal Conventions|progress journal conventions]] explaining "Vault Updates" purpose and use

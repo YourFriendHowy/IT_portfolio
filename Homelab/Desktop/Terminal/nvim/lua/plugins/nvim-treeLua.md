@@ -1,3 +1,4 @@
+```
 -- ================================================================================================
 -- TITLE : nvim-tree.lua
 -- ABOUT : A file explorer tree for Neovim, written in Lua.
@@ -22,3 +23,5 @@ return {
 		})
 	end,
 }
+
+```
