@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "initLua"
+            }
+          },
+          {
+            "id": "28f2bf7af328bb05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of initLua"
             }
           }
         ]
@@ -244,46 +257,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "657b1740a0f0ae43",
+  "active": "28f2bf7af328bb05",
   "lastOpenFiles": [
-    "README.md",
-    "GIT_Tips/cheatSheet.md",
-    "Vim_Tips/Cheatsheet.md",
-    "Linux_Notes/Custom_Settings.md",
-    "Linux_Notes/Commands/tail.md",
-    "Linux_Notes/LearnLinuxTV/Notes/systemd.md",
-    "Linux_Notes/LearnLinuxTV/Notes/Permissions.md",
-    "Progress Journal/2025-11/2025-11-11.md",
-    "Progress Journal/2025-11/2025-11-10.md",
-    "Progress Journal/2025-11/2025-11-06.md",
-    "Progress Journal/2025-11",
-    "Progress Journal/2025-10",
-    "Progress Journal/2025-08",
-    "Progress Journal/2025-07",
-    "Linux_Notes/Commands/adduser.md",
-    "Expanded Skills Log.md",
-    "CHANGELOG.md",
-    "z_templates/progress_template.md",
-    "Progress Journal/2025-10/2025-10-28.md",
-    "Progress Journal/2025-10/2025-10-29.md",
-    "Windows_Notes/Event_Viewer.md",
-    "About Me.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/globalsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/autocmdsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/optionsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/lazyLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/keymapsLua.md",
+    "Homelab/Homelab.md",
+    "Homelab/Desktop/Terminal/nvim/initLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitterLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-iconsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/themeLua.md",
+    "Homelab/Desktop/Terminal/NVIM/config/autocmdsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/theme.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitter.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-tree.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvim.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvim.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-lua.lua",
+    "Homelab/Desktop/Terminal/nvim/lua/config/options.lua",
+    "Homelab/Desktop/Terminal/NVIM/initLua.md",
+    "Homelab/Desktop/Terminal/ZSH/zshrc.md",
+    "Homelab/Desktop/Terminal/Terminal.md",
+    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+    "Homelab/Desktop/HyprlandConf.md",
+    "Homelab/Network Host/Network Host.md",
     "Homelab_Diagram.canvas",
-    "TryHackMe/CyberSecurity101/R1-Offensive Security Intro.md",
-    "Projects/PortScanner/portScanner V1.md",
-    "Projects/PortScanner/portScanner v2.md",
-    "Projects/COMS-170 Intro to Programming/project.md",
-    "Projects/COMS-170 Intro to Programming/program8.md",
-    "Projects/COMS-170 Intro to Programming/program7.md",
-    "Projects/COMS-170 Intro to Programming/program6.md",
-    "Projects/COMS-170 Intro to Programming/program5.md",
     "z_resources/z-Images/Pasted image 20251028194159.png",
-    "Certifications/CompTIA A+ ce certificate.pdf",
-    "publish.js",
-    "publish (Copy).css",
-    "Certifications",
-    "Weekly Summaries",
-    "publish.css",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
