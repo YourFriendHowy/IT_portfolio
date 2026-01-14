@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "About Me"
             }
-          },
-          {
-            "id": "816e28af6a2560fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "About Me.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of About Me"
             }
           }
         ]
@@ -279,7 +270,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "816e28af6a2560fb",
+  "active": "28f2bf7af328bb05",
   "lastOpenFiles": [
     "About Me.md",
     "Projects/COMS-170 Intro to Programming/program2.md",

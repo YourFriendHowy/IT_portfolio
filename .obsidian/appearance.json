@@ -3,7 +3,7 @@
   "nativeMenus": true,
   "translucency": false,
   "showViewHeader": true,
-  "cssTheme": "Meridian",
+  "cssTheme": "Obsidian gruvbox",
   "baseFontSizeAction": false,
   "baseFontSize": 18,
   "theme": "obsidian",
