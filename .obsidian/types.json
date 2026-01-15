@@ -43,6 +43,7 @@
     "LastEdited": "date",
     "NewLetters": "multitext",
     "DateCreated": "date",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "excalidraw-export-internal-links": "checkbox"
   }
 }
