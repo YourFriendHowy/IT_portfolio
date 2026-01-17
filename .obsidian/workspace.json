@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "initLua"
             }
-          },
-          {
-            "id": "28f2bf7af328bb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About Me.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "About Me"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,7 @@
       {
         "id": "45e084586d88363b",
         "type": "tabs",
-        "dimension": 78.68939797549281,
+        "dimension": 54.325513196480934,
         "children": [
           {
             "id": "f74c53671a210d1c",
@@ -99,7 +74,7 @@
       {
         "id": "cb8faa5f59647d3e",
         "type": "tabs",
-        "dimension": 10.655301012253595,
+        "dimension": 31.011730205278592,
         "children": [
           {
             "id": "44b6e3dc44a13ce5",
@@ -107,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homelab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +108,7 @@
       {
         "id": "a979a95382c63e5b",
         "type": "tabs",
-        "dimension": 10.655301012253595,
+        "dimension": 14.66275659824047,
         "children": [
           {
             "id": "ee4c84cbb9dac2ab",
@@ -141,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Me.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About Me"
+              "title": "Outline of initLua"
             }
           }
         ]
@@ -270,13 +245,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "28f2bf7af328bb05",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
     "About Me.md",
+    "Homelab.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
     "Projects/COMS-170 Intro to Programming/program2.md",
     "Projects/COMS-170 Intro to Programming/Iterations.md",
     "Resume.md",
-    "Homelab/Homelab.md",
     "Skills and Practical Experience.md",
     "README.md",
     "Progress Journal/2025-10/2025-10-28.md",
@@ -298,7 +274,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
