@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+                "file": "Linux_Notes/Commands/IP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "initLua"
+              "title": "IP"
             }
           }
         ]
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+                "file": "Linux_Notes/Commands/IP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of initLua"
+              "title": "Outline of IP"
             }
           }
         ]
@@ -247,9 +247,10 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "About Me.md",
     "Homelab.md",
+    "Linux_Notes/Commands/IP.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+    "About Me.md",
     "Projects/COMS-170 Intro to Programming/program2.md",
     "Projects/COMS-170 Intro to Programming/Iterations.md",
     "Resume.md",
@@ -273,7 +274,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitterLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
