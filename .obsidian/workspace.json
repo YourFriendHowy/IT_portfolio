@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Vlan.md",
+                "file": "Homelab/Network Host/pfSense.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vlan"
+              "title": "pfSense"
+            }
+          },
+          {
+            "id": "de37792a43e59190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network actions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Network actions"
+            }
+          },
+          {
+            "id": "3852927e80aa15b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Vlan.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vlan"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -245,8 +282,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "657b1740a0f0ae43",
+  "active": "3852927e80aa15b9",
   "lastOpenFiles": [
+    "Homelab/Network Host/pfSense.md",
+    "Network actions.md",
     "Networking/Vlan.md",
     "Networking/Networking_Basics.md",
     "Linux_Notes/Commands/IP.md",
@@ -272,8 +311,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-iconsLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/themeLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitterLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
