@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "Network actions"
             }
-          },
-          {
-            "id": "3852927e80aa15b9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,7 +270,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3852927e80aa15b9",
+  "active": "7d2cda296967b570",
   "lastOpenFiles": [
     "Homelab/Network Host/pfSense.md",
     "Network actions.md",
