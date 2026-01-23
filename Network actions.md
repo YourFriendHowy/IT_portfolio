@@ -45,7 +45,7 @@ Starting out strong with downloading a .img installation media for OPNsense and 
 
 **Raspberry PI pseudo modem(Hyperion):** VLAN99; 10.42.99.222(placeholder, need to locate real IP); *hyper.homelab.arpa*
 
-### VLAN conventions: VLAN* (`10.42.*.0/24`)
+### VLAN DHCP conventions: VLAN* (`10.42.*.0/24`)
 
 | Range                       | Purpose                         |
 | --------------------------- | ------------------------------- |
