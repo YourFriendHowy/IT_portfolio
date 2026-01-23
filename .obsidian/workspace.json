@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,12 +271,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d2cda296967b570",
+  "active": "de37792a43e59190",
   "lastOpenFiles": [
-    "Homelab/Network Host/pfSense.md",
+    "Homelab/Cisco Switch.md",
     "Network actions.md",
-    "Networking/Vlan.md",
     "Networking/Networking_Basics.md",
+    "Networking/Vlan.md",
+    "Homelab/Network Host/Network Host.md",
+    "Homelab/Network Host/pfSense.md",
+    "Homelab/RaspberryPi.md",
     "Linux_Notes/Commands/IP.md",
     "Homelab.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
@@ -296,9 +300,6 @@
     "Homelab/Desktop/rofiConfig.md",
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
     "Homelab/Desktop/Terminal/nvim/initLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-iconsLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
