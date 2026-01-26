@@ -32,9 +32,9 @@ Starting out strong with downloading a .img installation media for OPNsense and 
 **Access point/Guest network:** VLAN5; 10.42.5.* (DHCP);
 
 **Kali linux(Hephaestus):** VLAN10; 10.42.10.2; *heph.homelab.arpa*
-
+ 
+**networkStorageLXC(moirai):** VLAN20; 10.42.20.10 *moirai.homelab.arpa*
 **MediaMTX and Jellyfin(Hermes):** VLAN20; 10.42.20.20; *hermes.homelab.arpa*
-
 **EdgeLXC(Apollo):** VLAN30; 10.42.30.30; *apollo.homelab.arpa*
 
 **NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
