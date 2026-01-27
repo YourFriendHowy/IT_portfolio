@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network actions.md",
+                "file": "Homelab/RaspberryPi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network actions"
+              "title": "RaspberryPi"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network actions.md",
+                "file": "Homelab/RaspberryPi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Network actions"
+              "title": "Outline of RaspberryPi"
             }
           }
         ]
@@ -273,6 +273,10 @@
   },
   "active": "de37792a43e59190",
   "lastOpenFiles": [
+    "Homelab/Cisco Switch.md",
+    "Homelab/Network Host/pfSense.md",
+    "Homelab/RaspberryPi.md",
+    "Network actions.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images/Pasted image 20241208113224.png",
@@ -283,16 +287,11 @@
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250725224203.png",
-    "z_resources/z-Images/Pasted image 20251028194159.png",
     "Homelab.md",
-    "Network actions.md",
     "Networking/Networking_Basics.md",
-    "Homelab/RaspberryPi.md",
-    "Homelab/Cisco Switch.md",
     "Homelab/Home Server/Home Server.md",
     "Networking/Vlan.md",
     "Homelab/Network Host/Network Host.md",
-    "Homelab/Network Host/pfSense.md",
     "Linux_Notes/Commands/IP.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
     "About Me.md",
