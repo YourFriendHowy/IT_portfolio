@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
+                "file": "Network actions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RaspberryPi"
+              "title": "Network actions"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RaspberryPi"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -273,9 +273,9 @@
   },
   "active": "de37792a43e59190",
   "lastOpenFiles": [
+    "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
     "Homelab/Network Host/pfSense.md",
-    "Homelab/RaspberryPi.md",
     "Network actions.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
