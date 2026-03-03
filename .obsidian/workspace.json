@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "6149fe4590731da6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
             "id": "de37792a43e59190",
             "type": "leaf",
             "state": {
@@ -67,8 +55,7 @@
               "title": "Moirai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,10 +270,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6149fe4590731da6",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Homelab/Home Server/Hermes.md",
     "Homelab/Home Server/Moirai.md",
+    "Homelab/Home Server/Hermes.md",
     "Network actions.md",
     "Homelab/Network Host/pfSense.md",
     "Homelab/RaspberryPi.md",
