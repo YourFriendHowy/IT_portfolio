@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "59428f2e0ab99635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "study"
+            }
+          },
+          {
+            "id": "74dc9a226587ef8e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "de37792a43e59190",
             "type": "leaf",
             "state": {
@@ -55,7 +91,8 @@
               "title": "Moirai"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network actions.md",
+                "file": "study.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Network actions"
+              "title": "Outline of study"
             }
           }
         ]
@@ -270,11 +307,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "657b1740a0f0ae43",
+  "active": "74dc9a226587ef8e",
   "lastOpenFiles": [
+    "Network actions.md",
+    "study.md",
     "Homelab/Home Server/Moirai.md",
     "Homelab/Home Server/Hermes.md",
-    "Network actions.md",
     "Homelab/Network Host/pfSense.md",
     "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
@@ -308,7 +346,6 @@
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh/Theme.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/superfilehotkeysToml.md",
-    "Homelab/Desktop/superfileconfigToml.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
