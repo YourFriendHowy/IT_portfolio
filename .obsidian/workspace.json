@@ -54,45 +54,9 @@
               "icon": "lucide-file",
               "title": "study"
             }
-          },
-          {
-            "id": "74dc9a226587ef8e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "de37792a43e59190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homelab/Home Server/Moirai.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Moirai"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,11 +271,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "74dc9a226587ef8e",
+  "active": "59428f2e0ab99635",
   "lastOpenFiles": [
+    "Homelab/Home Server/Moirai.md",
     "Network actions.md",
     "study.md",
-    "Homelab/Home Server/Moirai.md",
     "Homelab/Home Server/Hermes.md",
     "Homelab/Network Host/pfSense.md",
     "Homelab/RaspberryPi.md",
