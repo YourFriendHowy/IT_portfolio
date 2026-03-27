@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study.md",
+                "file": "Network actions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "study"
+              "title": "Network actions"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of study"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -273,9 +273,10 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
+    "Networking/Vlan.md",
+    "study.md",
     "Homelab/Home Server/Moirai.md",
     "Network actions.md",
-    "study.md",
     "Homelab/Home Server/Hermes.md",
     "Homelab/Network Host/pfSense.md",
     "Homelab/RaspberryPi.md",
@@ -293,7 +294,6 @@
     "Homelab.md",
     "Networking/Networking_Basics.md",
     "Homelab/Home Server/Home Server.md",
-    "Networking/Vlan.md",
     "Homelab/Network Host/Network Host.md",
     "Linux_Notes/Commands/IP.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
