@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -271,7 +271,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59428f2e0ab99635",
+  "active": "6a2c602f2f68f60d",
   "lastOpenFiles": [
     "Networking/Vlan.md",
     "study.md",
