@@ -6,9 +6,9 @@
 
 `10.42.1.*` = *VLAN1 default*
 
-`10.42.5.*` = *VLAN5; AP and guest connectivity*
+`10.42.5.*` = *VLAN5; Security/tools lab VLAN*
 
-`10.42.10.*` = *VLAN10; Security/tools lab VLAN*
+`10.42.10.*` = *VLAN10; AP and guest connectivity*
 
 `10.42.15.*` = *VLAN15; Proxmox services2*
 
@@ -26,9 +26,9 @@
 **Server(Underworld):** VLAN100(on trunk); 10.42.100.2; *underworld.homelab.arpa*
 **Control VM(Zeus):** same as host(VLAN100); 10.42.100.5; *zeus.homelab.arpa*
 
-**Access point/Guest network:** VLAN5; 10.42.5.* (DHCP);
+**Access point/Guest network:** VLAN5; 10.42.10.* (DHCP);
 
-**Kali linux(Hephaestus):** VLAN10; 10.42.10.2; *heph.homelab.arpa*
+**Kali linux(Hephaestus):** VLAN10; 10.42.5.2; *heph.homelab.arpa*
  
 **networkStorageLXC(moirai):** VLAN20; 10.42.20.10 *moirai.homelab.arpa*
 **MediaMTX and Jellyfin(Hermes):** VLAN20; 10.42.20.20; *hermes.homelab.arpa*
@@ -37,7 +37,7 @@
 **NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
 **OPNsense(Athena):** VLAN99; 10.42.99.1; *athena.homelab.arpa*
 **PI-hole controller(Prometheus):** VLAN99; 10.42.99.14; *prom.homelab.arpa*
-**Switch webUI(Proteus):** VLAN99; 10.42.99.49; *proteus.homelab.arpa*
+**Switch webUI(Proteus):** VLAN99; 10.42.99.49 / Serial console; *proteus.homelab.arpa* 
 **Unifi controller(Helios):** untagged VLAN99; 10.42.99.25; *helios.homelab.arpa*
 
 **Raspberry PI pseudo modem(Hyperion):** VLAN99; 10.42.99.222(placeholder, need to locate real IP); *hyper.homelab.arpa*
