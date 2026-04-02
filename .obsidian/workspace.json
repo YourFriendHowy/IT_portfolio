@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
-                "mode": "preview",
+                "file": "Network actions.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cheatSheet"
+              "title": "Network actions"
             }
           }
         ],
@@ -93,8 +93,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cb8faa5f59647d3e",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cheatSheet"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -272,6 +271,7 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
+    "GIT_Tips/cheatSheet.md",
     "Network actions.md",
     "Networking/Vlan.md",
     "study.md",
@@ -308,7 +308,6 @@
     "Homelab/Desktop/Terminal/ZSH/zshrc.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh/Theme.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
-    "Homelab/Desktop/superfilehotkeysToml.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
