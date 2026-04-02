@@ -52,23 +52,23 @@
   },
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "10.3.2",
+  "version": "11.0.3",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
   "dropShadow": true,
   "hideEmpty": false,
-  "open": {
-    "admonitions": true,
-    "icons": true,
-    "other": false,
-    "advanced": true
-  },
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.a9b674"
+  "snippetPath": "custom-admonitions.a9b674",
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": false,
+    "advanced": true
+  }
 }
