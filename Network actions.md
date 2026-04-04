@@ -40,7 +40,6 @@
 **Switch webUI(Proteus):** VLAN99; 10.42.99.49 / Serial console; *proteus.homelab.arpa* 
 **Unifi controller(Helios):** untagged VLAN99; 10.42.99.25; *helios.homelab.arpa*
 
-**Raspberry PI pseudo modem(Hyperion):** VLAN99; 10.42.99.222(placeholder, need to locate real IP); *hyper.homelab.arpa*
 
 ### VLAN DHCP conventions: VLAN* (`10.42.*.0/24`)
 
