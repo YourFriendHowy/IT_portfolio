@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network actions.md",
-                "mode": "source",
+                "file": "Homelab.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network actions"
+              "title": "Homelab"
             }
           }
         ],
@@ -68,7 +68,7 @@
       {
         "id": "45e084586d88363b",
         "type": "tabs",
-        "dimension": 54.325513196480934,
+        "dimension": 22.630418809698753,
         "children": [
           {
             "id": "f74c53671a210d1c",
@@ -79,7 +79,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "cb8faa5f59647d3e",
+        "type": "tabs",
+        "dimension": 62.674504041146214,
+        "children": [
           {
             "id": "6a2c602f2f68f60d",
             "type": "leaf",
@@ -92,14 +99,7 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          }
-        ]
-      },
-      {
-        "id": "cb8faa5f59647d3e",
-        "type": "tabs",
-        "dimension": 31.011730205278592,
-        "children": [
+          },
           {
             "id": "44b6e3dc44a13ce5",
             "type": "leaf",
@@ -132,7 +132,7 @@
       {
         "id": "a979a95382c63e5b",
         "type": "tabs",
-        "dimension": 14.66275659824047,
+        "dimension": 14.695077149155033,
         "children": [
           {
             "id": "ee4c84cbb9dac2ab",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network actions.md",
+                "file": "Homelab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Network actions"
+              "title": "Outline of Homelab"
             }
           }
         ]
@@ -271,8 +271,12 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
-    "GIT_Tips/cheatSheet.md",
+    "About Me.md",
+    "Certifications/CompTIA A+ ce certificate.pdf",
+    "Resume.md",
+    "README.md",
     "Network actions.md",
+    "GIT_Tips/cheatSheet.md",
     "Networking/Vlan.md",
     "study.md",
     "Homelab/Home Server/Moirai.md",
@@ -296,17 +300,13 @@
     "Homelab/Network Host/Network Host.md",
     "Linux_Notes/Commands/IP.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
-    "About Me.md",
     "Projects/COMS-170 Intro to Programming/program2.md",
     "Projects/COMS-170 Intro to Programming/Iterations.md",
-    "Resume.md",
     "Skills and Practical Experience.md",
-    "README.md",
     "Progress Journal/2025-10/2025-10-28.md",
     "Progress Journal/2025-10/2025-10-29.md",
     "Progress Journal/2025-08/2025-08-08.md",
     "Homelab/Desktop/Terminal/ZSH/zshrc.md",
-    "Homelab/Desktop/Terminal/ZSH/oh-my-zsh/Theme.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
@@ -316,7 +316,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-tree.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvim.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvim.lua",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-lua.lua",
     "Homelab_Diagram.canvas",
     "Untitled 3/Untitled 3.canvas"
   ]

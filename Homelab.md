@@ -113,7 +113,7 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
     
 - Virtualization:
     
-    - **pfSense**
+    - **opnSense**
         
 - Container runtime
     
