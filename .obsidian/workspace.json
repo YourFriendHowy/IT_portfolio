@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_Notes/Commands/adduser.md",
+                "file": "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,39 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "adduser"
+              "title": "KittyConfig"
+            }
+          },
+          {
+            "id": "709a3a01ba1ecfff",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://medium.com/better-programming/unleashing-your-terminal-with-kitty-and-zsh-102527d07a1c",
+                "title": "Unleashing Your Terminal With Kitty and Zsh | by Kevin Suñer | Better Programming",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Unleashing Your Terminal With Kitty and Zsh | by Kevin Suñer | Better Programming"
+            }
+          },
+          {
+            "id": "aca25b8937e634b0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dexpota/kitty-themes",
+                "title": "GitHub - dexpota/kitty-themes: A collection of themes for kitty terminal 😻 · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - dexpota/kitty-themes: A collection of themes for kitty terminal 😻 · GitHub"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_Notes/Commands/adduser.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of adduser"
+              "title": "Outline"
             }
           }
         ]
@@ -269,9 +296,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59428f2e0ab99635",
+  "active": "aca25b8937e634b0",
   "lastOpenFiles": [
+    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/RaspberryPi.md",
+    "Linux_Notes/Commands/adduser.md",
     "Homelab.md",
     "About Me.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
@@ -304,9 +335,6 @@
     "Projects/COMS-170 Intro to Programming/Iterations.md",
     "Skills and Practical Experience.md",
     "Progress Journal/2025-10/2025-10-28.md",
-    "Progress Journal/2025-10/2025-10-29.md",
-    "Progress Journal/2025-08/2025-08-08.md",
-    "Homelab/Desktop/Terminal/ZSH/zshrc.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
