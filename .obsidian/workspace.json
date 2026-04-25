@@ -70,17 +70,17 @@
             }
           },
           {
-            "id": "aca25b8937e634b0",
+            "id": "0ba881fbc378f4f1",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://github.com/dexpota/kitty-themes",
-                "title": "GitHub - dexpota/kitty-themes: A collection of themes for kitty terminal 😻 · GitHub",
+                "url": "https://github.com/ohmyzsh/ohmyzsh/wiki/Themes",
+                "title": "Themes · ohmyzsh/ohmyzsh Wiki · GitHub",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "GitHub - dexpota/kitty-themes: A collection of themes for kitty terminal 😻 · GitHub"
+              "title": "Themes · ohmyzsh/ohmyzsh Wiki · GitHub"
             }
           }
         ],
@@ -296,7 +296,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aca25b8937e634b0",
+  "active": "0ba881fbc378f4f1",
   "lastOpenFiles": [
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
