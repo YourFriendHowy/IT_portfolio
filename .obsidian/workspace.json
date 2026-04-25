@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,39 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KittyConfig"
-            }
-          },
-          {
-            "id": "709a3a01ba1ecfff",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://medium.com/better-programming/unleashing-your-terminal-with-kitty-and-zsh-102527d07a1c",
-                "title": "Unleashing Your Terminal With Kitty and Zsh | by Kevin Suñer | Better Programming",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Unleashing Your Terminal With Kitty and Zsh | by Kevin Suñer | Better Programming"
-            }
-          },
-          {
-            "id": "0ba881fbc378f4f1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/ohmyzsh/ohmyzsh/wiki/Themes",
-                "title": "Themes · ohmyzsh/ohmyzsh Wiki · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Themes · ohmyzsh/ohmyzsh Wiki · GitHub"
+              "title": "mini-nvimLua"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of mini-nvimLua"
             }
           }
         ]
@@ -296,10 +269,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0ba881fbc378f4f1",
+  "active": "59428f2e0ab99635",
   "lastOpenFiles": [
-    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/config.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/plugins.md",
+    "Homelab/Desktop/Terminal/nvim/lua/lua.md",
+    "Homelab/Desktop/Terminal/nvim/nvim.md",
+    "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
+    "Homelab/Desktop/Terminal/nvim/initLua.md",
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
     "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/RaspberryPi.md",
     "Linux_Notes/Commands/adduser.md",
@@ -327,14 +308,6 @@
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250725224203.png",
     "Networking/Networking_Basics.md",
-    "Homelab/Home Server/Home Server.md",
-    "Homelab/Network Host/Network Host.md",
-    "Linux_Notes/Commands/IP.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
-    "Projects/COMS-170 Intro to Programming/program2.md",
-    "Projects/COMS-170 Intro to Programming/Iterations.md",
-    "Skills and Practical Experience.md",
-    "Progress Journal/2025-10/2025-10-28.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
