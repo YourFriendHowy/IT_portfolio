@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.md",
+                "file": "Linux_Notes/Commands/adduser.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homelab"
+              "title": "adduser"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab.md",
+                "file": "Linux_Notes/Commands/adduser.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homelab"
+              "title": "Outline of adduser"
             }
           }
         ]
@@ -271,6 +271,8 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
+    "Homelab/RaspberryPi.md",
+    "Homelab.md",
     "About Me.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "Resume.md",
@@ -282,7 +284,6 @@
     "Homelab/Home Server/Moirai.md",
     "Homelab/Home Server/Hermes.md",
     "Homelab/Network Host/pfSense.md",
-    "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
@@ -294,7 +295,6 @@
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250725224203.png",
-    "Homelab.md",
     "Networking/Networking_Basics.md",
     "Homelab/Home Server/Home Server.md",
     "Homelab/Network Host/Network Host.md",
