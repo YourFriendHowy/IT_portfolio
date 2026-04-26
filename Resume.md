@@ -1,5 +1,5 @@
 # **Matthew J Howard**
-Lapeer, MI  
+Gaylord, MI  
 
 
 **Professional Summary**  

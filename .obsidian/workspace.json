@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
-                "mode": "preview",
+                "file": "Resume.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mini-nvimLua"
+              "title": "Resume"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
+                "file": "Resume.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mini-nvimLua"
+              "title": "Outline of Resume"
             }
           }
         ]
@@ -271,32 +271,33 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
+    "Skills and Practical Experience.md",
+    "About Me.md",
+    "Linux_Notes/Commands/alias.md",
+    "Homelab.md",
+    "CompTIA_A+/P. Messer/1.0 laptop Mobile Devices/1.1 Hardware/802.11 Wireless and Bluetooth.md",
+    "Certifications/CompTIA A+ ce certificate.pdf",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+    "Homelab/Desktop/Terminal/nvim/initLua.md",
+    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+    "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
+    "Projects/COMS-170 Intro to Programming/Final Program.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/config.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/plugins.md",
     "Homelab/Desktop/Terminal/nvim/lua/lua.md",
     "Homelab/Desktop/Terminal/nvim/nvim.md",
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
-    "Homelab/Desktop/Terminal/nvim/initLua.md",
-    "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
-    "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
-    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/RaspberryPi.md",
     "Linux_Notes/Commands/adduser.md",
-    "Homelab.md",
-    "About Me.md",
-    "Certifications/CompTIA A+ ce certificate.pdf",
     "Resume.md",
     "README.md",
     "Network actions.md",
     "GIT_Tips/cheatSheet.md",
     "Networking/Vlan.md",
-    "study.md",
-    "Homelab/Home Server/Moirai.md",
-    "Homelab/Home Server/Hermes.md",
-    "Homelab/Network Host/pfSense.md",
-    "Homelab/Cisco Switch.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images/Pasted image 20241208113224.png",
@@ -307,7 +308,6 @@
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
     "z_resources/z-Images/Pasted image 20250725224203.png",
-    "Networking/Networking_Basics.md",
     "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
