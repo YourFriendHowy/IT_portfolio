@@ -130,3 +130,16 @@ ZSH_THEME="theme-name" _# e.g., half-life_
 source ~/.zshrc
 ```
 #### Plugins
+```
+# Installing the zsh-syntax-highlighting plugin
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+
+# Installing the zsh-autosuggestions plugin
+`git clone https://github.com/zsh-users/zsh-autosuggestions${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+# Activating the plugins in the .zshrc file, 
+plugins=(  
+    _# other plugins..._  
+	zsh-syntax-highlighting
+    zsh-autosuggestions  
+)
