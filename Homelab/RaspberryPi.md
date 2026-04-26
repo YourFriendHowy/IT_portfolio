@@ -14,6 +14,8 @@ pacman -Syu --overwrite "/boot/*" linux-rpi
 ### git
 *needed to pull script and install fonts and other things, must ssh to github account*
 **Dependencies:** *openssh*
+#### Installation
+*Install using appropriate package manager for your system*
 #### Initial Setup
 ```bash
 # Configure git identity
@@ -53,10 +55,17 @@ cat ~/.ssh/id_ed25519.pub
 ssh -T git@github.com
 ```
 
-## wget - installed for kitty theme installation
-Hyprland
+### wget
+*Installed for kitty theme downloads*
+#### Installation
+*Install using appropriate package manager for your system*
+### Hyprland
+#### Installation
+*Install using appropriate package manager for your system*
 ### Kitty
 **Dependencies:** *git, wget*
+#### Installation
+*Install using appropriate package manager for your system*
 #### Theme
   *Theme can be changed, themes are found at "https://github.com/dexpota/kitty-themes"*
 ```bash
@@ -75,7 +84,7 @@ ln -s ./kitty-themes/themes/AlienBlood.conf ~/.config/kitty/theme.conf
 # Create kitty config file and add theme
 echo "include ./theme.conf" > kitty.conf
 ```
-### Fonts
+#### Fonts
 ```bash
 # Ready nerd-fonts
 git clone --filter=blob:none --sparse git@github.com:ryanoasis/nerd-fonts
@@ -96,5 +105,39 @@ cd ~/.config/kitty && echo "font_family Hack Nerd Font Mono" > font.conf
 echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ```
 
-oh-my-zsh
-- theme
+### ZSH
+#### Installation
+```bash
+# Install using appropriate package manager for your system
+
+# Making **Zsh** your default shell
+chsh -s $(which zsh)
+```
+
+### oh-my-zsh
+#### Installation
+```bash
+# Using wget
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+#### Themes
+```bash
+# Editing the .zshrc file
+nano ~/.zshrc
+# Rename the ZSH_THEME variable
+ZSH_THEME="theme-name" _# e.g., half-life_
+# Save and refresh .zshrc
+source ~/.zshrc
+```
+#### Plugins
+```bash
+# Installing the zsh-syntax-highlighting plugin
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+# Installing the zsh-suggestions plugin
+`git clone https://github.com/zsh-users/zsh-autosuggestions${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+# Activating plugins, add the following to the plugins section of the .zshrc file
+    # other plugins..._  
+    zsh-syntax-highlighting
+    zsh-autosuggestions
+```
