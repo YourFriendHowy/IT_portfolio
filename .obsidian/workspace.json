@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
-                "mode": "preview",
+                "file": "Homelab/RaspberryPi.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fzf-luaLua"
+              "title": "RaspberryPi"
             }
           }
         ]
@@ -115,20 +115,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+                "file": "Homelab/RaspberryPi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fzf-luaLua"
+              "title": "Outline of RaspberryPi"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 295.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -246,9 +246,11 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
+    "Homelab/RaspberryPi.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+    "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/Desktop/Desktop.md",
     "Linux_Notes/packet management.md",
     "Linux_Notes/Custom_Settings.md",
@@ -265,13 +267,11 @@
     "Network actions.md",
     "Vim_Tips/Cheatsheet.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
-    "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
     "Resume.md",
     "Skills and Practical Experience.md",
     "About Me.md",
     "Linux_Notes/Commands/alias.md",
-    "Homelab.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",

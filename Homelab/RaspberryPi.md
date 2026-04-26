@@ -11,9 +11,21 @@ pacman -Syu --overwrite "/boot/*" linux-rpi
 
 
 ## Build
+git - needed to pull script and install fonts and other things, must ssh to github account
+wget - installed for kitty theme installation
 Hyprland
 Kitty
 - theme
-- font
+  *theme name can be edited, themes are found at https://github.com/dexpota/kitty-themes
+	- set variable for theme: `THEME=https://raw.githubusercontent.com/dexpota/kitty-themes/master/themes/AlienBlood.conf`
+	- downloads theme to specified directory: `wget "$THEME" -P ~/.config/kitty/kitty-themes/themes`
+	- navigate to kitty config: `cd ~/.config/kitty`
+	- symlink theme: `ln -s ./kitty-themes/themes/AlienBlood.conf ~/.config/kitty/theme.conf`
+	- create kitty config file and add theme: `echo "include ./theme.conf" > kitty.conf`
+- fonts
+	- download nerd-fonts: `git clone --filter=blob:none --sparse git@github.com:ryanoasis/nerd-fonts`
+	- navigate to nerd-fonts directory: `cd nerd-fonts`
+	- 
+
 oh-my-zsh
 - theme
