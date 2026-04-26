@@ -11,3 +11,9 @@ pacman -Syu --overwrite "/boot/*" linux-rpi
 
 
 ## Build
+Hyprland
+Kitty
+- theme
+- font
+oh-my-zsh
+- theme

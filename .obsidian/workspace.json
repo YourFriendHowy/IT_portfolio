@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resume"
+              "title": "toggletermLua"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resume"
+              "title": "Outline of toggletermLua"
             }
           }
         ]
@@ -271,6 +271,9 @@
   },
   "active": "59428f2e0ab99635",
   "lastOpenFiles": [
+    "Homelab/RaspberryPi.md",
+    "Homelab/Cisco Switch.md",
+    "Resume.md",
     "Skills and Practical Experience.md",
     "About Me.md",
     "Linux_Notes/Commands/alias.md",
@@ -291,13 +294,10 @@
     "Homelab/Desktop/Terminal/nvim/lua/lua.md",
     "Homelab/Desktop/Terminal/nvim/nvim.md",
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
-    "Homelab/RaspberryPi.md",
     "Linux_Notes/Commands/adduser.md",
-    "Resume.md",
     "README.md",
     "Network actions.md",
     "GIT_Tips/cheatSheet.md",
-    "Networking/Vlan.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images/Pasted image 20241208113224.png",
