@@ -1,9 +1,8 @@
 ## Installing Arch Arm
-Installed Arch Arm via "https://www.youtube.com/watch?v=WpCSOS_1vic"
-- Guide: https://kiljan.org/2023/11/24/arch-linux-arm-on-a-raspberry-pi-5-model-b/
-- Current Version: https://archlinuxarm.org/packages/aarch64/linux-rpi
-
-### Issues
+[Youtube Guide](https://www.youtube.com/watch?v=WpCSOS_1vic)
+- [Written Guide](https://kiljan.org/2023/11/24/arch-linux-arm-on-a-raspberry-pi-5-model-b/)
+- [Current Version of Arch Arm](https://archlinuxarm.org/packages/aarch64/linux-rpi)
+##### Issues
 The following command had a 404 error solves by running `pacman -Syy && pacman -Su` then reran the command below. *There is suggestions for this error in the guide linked above*
 ```bash
 pacman -Syu --overwrite "/boot/*" linux-rpi
@@ -54,7 +53,6 @@ cat ~/.ssh/id_ed25519.pub
 # Test GitHub connection
 ssh -T git@github.com
 ```
-
 ### wget
 *Installed for kitty theme downloads*
 #### Installation
@@ -63,11 +61,12 @@ ssh -T git@github.com
 #### Installation
 *Install using appropriate package manager for your system*
 ### Kitty
+[Kitty Guide by Kevin Suñer](https://medium.com/better-programming/unleashing-your-terminal-with-kitty-and-zsh-102527d07a1c)
 **Dependencies:** *git, wget*
 #### Installation
 *Install using appropriate package manager for your system*
 #### Theme
-  *Theme can be changed, themes are found at "https://github.com/dexpota/kitty-themes"*
+  *Theme can be changed, [Themes can be found here!](https://github.com/dexpota/kitty-themes)*
 ```bash
 # Set variable for theme
 THEME=https://raw.githubusercontent.com/dexpota/kitty-themes/master/themes/AlienBlood.conf
@@ -104,7 +103,6 @@ cd ~/.config/kitty && echo "font_family Hack Nerd Font Mono" > font.conf
 # Add font to kitty.conf
 echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ```
-
 ### ZSH
 #### Installation
 ```bash
@@ -113,7 +111,6 @@ echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 # Making **Zsh** your default shell
 chsh -s $(which zsh)
 ```
-
 ### oh-my-zsh
 #### Installation
 ```bash
@@ -132,10 +129,10 @@ source ~/.zshrc
 #### Plugins
 ```
 # Installing the zsh-syntax-highlighting plugin
-`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
 # Installing the zsh-autosuggestions plugin
-`git clone https://github.com/zsh-users/zsh-autosuggestions${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 
 # Activating the plugins in the .zshrc file, 
 plugins=(  

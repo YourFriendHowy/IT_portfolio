@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homelab/RaspberryPi.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -246,8 +246,9 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
-    "GIT_Tips/cheatSheet.md",
+    "Homelab/Desktop/HyprlandConf.md",
     "Homelab/RaspberryPi.md",
+    "GIT_Tips/cheatSheet.md",
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
@@ -260,7 +261,6 @@
     "Homelab/Desktop/superfilehotkeysToml.md",
     "Homelab/Desktop/superfileconfigToml.md",
     "Homelab/Desktop/rofiConfig.md",
-    "Homelab/Desktop/HyprlandConf.md",
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/keymapsLua.md",
     "Homelab/Desktop/Terminal/nvim/initLua.md",
