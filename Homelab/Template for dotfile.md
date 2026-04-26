@@ -380,8 +380,8 @@ The sequence your install script should follow on a fresh system. Order matters.
 
 Brief log of significant changes. Not a substitute for git log — just big-picture notes.
 
-|Date|Change|
-|---|---|
-|<!-- date -->|Initial documentation created|
-|<!-- date -->|Added tmux config|
-|<!-- date -->|<!-- etc. -->|
+| Date          | Change                        |
+| ------------- | ----------------------------- |
+| <!-- date --> | Initial documentation created |
+| <!-- date --> | Added tmux config             |
+| <!-- date --> | <!-- etc. -->                 |

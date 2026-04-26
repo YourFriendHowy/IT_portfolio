@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Template for dotfile.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template for dotfile"
+              "title": "nvim-treeLua"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Template for dotfile.md",
+                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template for dotfile"
+              "title": "Outline of nvim-treeLua"
             }
           }
         ]
@@ -246,13 +246,22 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/optionsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/lazyLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/keymapsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/globalsLua.md",
+    "Homelab/Desktop/Terminal/nvim/lua/config/autocmdsLua.md",
+    "Homelab/Desktop/Terminal/nvim/initLua.md",
     "Homelab/RaspberryPi.md",
     "Homelab/Template for dotfile.md",
     "Homelab/Desktop/HyprlandConf.md",
     "GIT_Tips/cheatSheet.md",
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
     "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/Desktop/Desktop.md",
     "Linux_Notes/packet management.md",
@@ -263,15 +272,6 @@
     "Homelab/Desktop/superfileconfigToml.md",
     "Homelab/Desktop/rofiConfig.md",
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/keymapsLua.md",
-    "Homelab/Desktop/Terminal/nvim/initLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/plugins.md",
-    "Network actions.md",
-    "Vim_Tips/Cheatsheet.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
-    "Homelab/Cisco Switch.md",
-    "Resume.md",
-    "Skills and Practical Experience.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",

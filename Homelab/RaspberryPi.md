@@ -140,3 +140,9 @@ plugins=(
 	zsh-syntax-highlighting
     zsh-autosuggestions  
 )
+```
+
+### Tmux
+#### Installation
+*Install using appropriate package manager for your system*
+
