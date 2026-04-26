@@ -23,9 +23,12 @@ Kitty
 	- symlink theme: `ln -s ./kitty-themes/themes/AlienBlood.conf ~/.config/kitty/theme.conf`
 	- create kitty config file and add theme: `echo "include ./theme.conf" > kitty.conf`
 - fonts
-	- download nerd-fonts: `git clone --filter=blob:none --sparse git@github.com:ryanoasis/nerd-fonts`
+	- ready nerd-fonts: `git clone --filter=blob:none --sparse git@github.com:ryanoasis/nerd-fonts`
 	- navigate to nerd-fonts directory: `cd nerd-fonts`
-	- 
+	- download nerd-fonts chosen font: `git sparse-checkout add patched-fonts/Hack`
+	- install font: `./install.sh Hack`
+	- add font to kitty: `cd ~/.config/kitty && echo "font_family Hack Nerd Font Mono" > font.conf`
+	- add font to kitty.conf: `echo "include ./font.conf" >> ~/.config/kitty/kitty.conf`
 
 oh-my-zsh
 - theme
