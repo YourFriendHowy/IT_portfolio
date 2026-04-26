@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Network actions"
             }
-          },
-          {
-            "id": "59428f2e0ab99635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "toggletermLua"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of toggletermLua"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -269,8 +244,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59428f2e0ab99635",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Vim_Tips/Cheatsheet.md",
+    "Homelab/Desktop/Terminal/nvim/lua/plugins/toggletermLua.md",
     "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
     "Resume.md",
@@ -296,8 +273,6 @@
     "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
     "Linux_Notes/Commands/adduser.md",
     "README.md",
-    "Network actions.md",
-    "GIT_Tips/cheatSheet.md",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
     "z_resources/z-Images/Pasted image 20241208113224.png",
