@@ -57,6 +57,55 @@ ssh -T git@github.com
 *Installed for kitty theme downloads*
 #### Installation
 *Install using appropriate package manager for your system*
+### curl
+### openssh
+### ZSH
+#### Installation
+```bash
+# Install using appropriate package manager for your system
+
+# Making **Zsh** your default shell
+chsh -s $(which zsh)
+```
+### oh-my-zsh
+#### Installation
+```bash
+# Using wget
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+#### Themes
+```bash
+# Editing the .zshrc file
+nano ~/.zshrc
+# Rename the ZSH_THEME variable
+ZSH_THEME="theme-name" _# e.g., half-life_
+# Save and refresh .zshrc
+source ~/.zshrc
+```
+#### Plugins
+```
+# Installing the zsh-syntax-highlighting plugin
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+
+# Installing the zsh-autosuggestions plugin
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+# Activating the plugins in the .zshrc file, 
+plugins=(  
+    _# other plugins..._  
+	zsh-syntax-highlighting
+    zsh-autosuggestions  
+)
+```
+
+### Tmux
+#### Installation
+*Install using appropriate package manager for your system*
+### fastfetch
+### Base-devel
+### Python3
+### NVIM + Plugins
+## Desktop only additions
 ### Hyprland
 #### Installation
 *Install using appropriate package manager for your system*
@@ -103,61 +152,50 @@ cd ~/.config/kitty && echo "font_family Hack Nerd Font Mono" > font.conf
 # Add font to kitty.conf
 echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ```
-### ZSH
-#### Installation
-```bash
-# Install using appropriate package manager for your system
-
-# Making **Zsh** your default shell
-chsh -s $(which zsh)
-```
-### oh-my-zsh
-#### Installation
-```bash
-# Using wget
-sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-#### Themes
-```bash
-# Editing the .zshrc file
-nano ~/.zshrc
-# Rename the ZSH_THEME variable
-ZSH_THEME="theme-name" _# e.g., half-life_
-# Save and refresh .zshrc
-source ~/.zshrc
-```
-#### Plugins
-```
-# Installing the zsh-syntax-highlighting plugin
-`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
-
-# Installing the zsh-autosuggestions plugin
-`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-
-# Activating the plugins in the .zshrc file, 
-plugins=(  
-    _# other plugins..._  
-	zsh-syntax-highlighting
-    zsh-autosuggestions  
-)
-```
-
-### Tmux
-#### Installation
-*Install using appropriate package manager for your system*
 ### SDDM
-
 ### Superfile file manager
-
 ### Waybar
-
 ### Firefox(to be replaced possibly)
-### fastfetch
-### Base-devel
+### rofi
+### Obsidian
+## CLI Monitoring build(Experimental)
+*List of programs to test to find the ones I like*
+### btop++
+_Terminal resource monitor. Shows CPU, memory, disk, and network stats with live graphs. Runs on each host via SSH, one per tmux pane._
 
-## Monitoring build
-### 
-
+### glances
+_Info-dense system monitor with network focus. Python-based. Best suited for Athena given its router/firewall role._
+### bottom (btm)
+_Lightweight Rust-based monitor. Minimal and fast, good for service hosts like Underworld._
+### nmon
+_Retro-aesthetic monitor, very old school block layout. Low overhead, good for LXC containers._
+### lazydocker
+_Docker and docker-compose TUI. Shows all containers, live logs, CPU/memory per container, compose stack groupings. Runs on Hermes._
+### lnav
+_Multi-source log aggregator and viewer. Pulls journalctl streams from multiple hosts and interleaves them with syntax highlighting and log-level colorization._
+### gping
+_Ping visualizer that renders latency as live terminal graphs. Run against all hosts simultaneously for a panoramic network health view across the bottom pane._
+### speedtest-cli
+_WAN speed test tool. Runs on a timer in a small corner pane, quietly logs upload/download speeds periodically._
+### bmon
+_Per-interface bandwidth monitor with live throughput graphs. Good for a dedicated network pane._
+### iftop
+_Live connection monitor showing active traffic between IPs, displayed as a ranked list. Strong hacker aesthetic._
+### ccze
+_Log colorizer. Pipes journalctl or other log output through it to add terminal-color highlighting without needing lnav._
+### watch + custom script
+_Shell-based service up/down tracker. Polls hosts and services via ping and curl, outputs a color-coded UP/DOWN list. Green on up, red on down. Refreshes every 30 seconds._
+## Modern monitoring solutions
+### Promtail
+_Per-machine log shipping agent. Runs on every host and forwards logs to Loki. Configured per host to ship systemd journal and any service-specific log files._
+### Loki
+_Log aggregation backend. Receives log streams from all Promtail agents and indexes them for querying. Pairs directly with Grafana for unified log and metrics viewing._
+### Prometheus Node Exporter
+_Per-machine metrics exporter. Runs on every host and exposes system metrics on a local port for Prometheus to scrape. Covers CPU, memory, disk, network, and more._
+### Prometheus
+_Metrics collection and storage backend. Polls all node exporters on a schedule and stores time-series data. The data source for Grafana metrics dashboards._
+### Grafana
+_Unified observability dashboard. Connects to both Prometheus and Loki as data sources, displaying metrics and logs in a single interface. Community dashboard templates available for node exporter out of the box._
 ## Scripts 
 ### .zhrc helper scripts
 *Directory: ~/.oh-my-zsh/custom/scripts.zsh*
