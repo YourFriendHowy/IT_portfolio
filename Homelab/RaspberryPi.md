@@ -9,7 +9,7 @@ pacman -Syu --overwrite "/boot/*" linux-rpi
 ```
 
 
-## Build
+## Generic stack Build
 ### git
 *needed to pull script and install fonts and other things, must ssh to github account*
 **Dependencies:** *openssh*
@@ -153,7 +153,11 @@ plugins=(
 
 ### Firefox(to be replaced possibly)
 ### fastfetch
- 
+### Base-devel
+
+## Monitoring build
+### 
+
 ## Scripts 
 ### .zhrc helper scripts
 *Directory: ~/.oh-my-zsh/custom/scripts.zsh*
