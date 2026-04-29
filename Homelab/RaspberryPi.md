@@ -145,4 +145,31 @@ plugins=(
 ### Tmux
 #### Installation
 *Install using appropriate package manager for your system*
+### SDDM
 
+### Superfile file manager
+
+### Waybar
+
+### Firefox(to be replaced possibly)
+
+
+## Scripts 
+
+### .zhrc helper scripts
+
+
+
+````bash
+#!/bin/bash
+
+# Show a directory listing when using 'cd'
+function cd() {
+#!/bin/bash
+
+# Show a directory listing when using 'cd'
+function cd() {
+#!/bin/bash
+
+# Show a directory listing when using 'cd'
+function cd() {
