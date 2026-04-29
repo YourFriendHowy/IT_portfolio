@@ -152,12 +152,42 @@ plugins=(
 ### Waybar
 
 ### Firefox(to be replaced possibly)
-
-
+### fastfetch
+ 
 ## Scripts 
-
 ### .zhrc helper scripts
-
+*Directory: ~/.oh-my-zsh/custom/scripts.zsh*
 ```bash
+#!/bin/bash
 
+# Show a directory listing when using 'cd'
+function cd() {
+    local new_directory="
+    builtin cd "$new_directory" && ls -ahF --time-style=long-iso --color=auto --ignore=lost+found
+}
+
+
+# Extract anyfile type on list
+function extract () {
+  if [ -f $1 ] ; then
+    case $1 in
+      *.tar.bz2)   tar xjvf $1    ;;
+      *.tar.gz)    tar xzvf $1    ;;
+      *.tar.xz)    tar xvf $1    ;;
+      *.bz2)       bzip2 -d $1    ;;
+      *.rar)       unrar2dir $1    ;;
+      *.gz)        gunzip $1    ;;
+      *.tar)       tar xf $1    ;;
+      *.tbz2)      tar xjf $1    ;;
+      *.tgz)       tar xzf $1    ;;
+      *.zip)       unzip2dir $1     ;;
+      *.Z)         uncompress $1    ;;
+      *.7z)        7z x $1    ;;
+      *.ace)       unace x $1    ;;
+      *)           echo "'$1' cannot be extracted via extract()"   ;;
+    esac
+  else
+    echo "'$1' is not a valid file"
+  fi
+}
 ```
