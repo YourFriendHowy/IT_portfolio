@@ -158,18 +158,6 @@ plugins=(
 
 ### .zhrc helper scripts
 
+```bash
 
-
-````bash
-#!/bin/bash
-
-# Show a directory listing when using 'cd'
-function cd() {
-#!/bin/bash
-
-# Show a directory listing when using 'cd'
-function cd() {
-#!/bin/bash
-
-# Show a directory listing when using 'cd'
-function cd() {
+```
