@@ -158,7 +158,7 @@ echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ### Firefox(to be replaced possibly)
 ### rofi
 ### Obsidian
-## CLI Monitoring build(Experimental)
+## CLI Monitoring build(Experimental run on VM or container)
 *List of programs to test to find the ones I like*
 ### btop++
 _Terminal resource monitor. Shows CPU, memory, disk, and network stats with live graphs. Runs on each host via SSH, one per tmux pane._
@@ -185,7 +185,7 @@ _Live connection monitor showing active traffic between IPs, displayed as a rank
 _Log colorizer. Pipes journalctl or other log output through it to add terminal-color highlighting without needing lnav._
 ### watch + custom script
 _Shell-based service up/down tracker. Polls hosts and services via ping and curl, outputs a color-coded UP/DOWN list. Green on up, red on down. Refreshes every 30 seconds._
-## Modern monitoring solutions
+## Modern monitoring solutions(services)
 ### Promtail
 _Per-machine log shipping agent. Runs on every host and forwards logs to Loki. Configured per host to ship systemd journal and any service-specific log files._
 ### Loki
