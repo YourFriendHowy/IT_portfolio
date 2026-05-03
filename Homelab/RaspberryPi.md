@@ -57,7 +57,7 @@ ssh -T git@github.com
 *Installed for kitty theme downloads*
 #### Installation
 *Install using appropriate package manager for your system*
-### curlw
+### curl
 ### openssh
 ### ZSH
 #### Installation
