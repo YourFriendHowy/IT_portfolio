@@ -158,6 +158,7 @@ echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ### Firefox(to be replaced possibly)
 ### rofi
 ### Obsidian
+### Mako
 ## CLI Monitoring build(Experimental run on VM or container)
 *List of programs to test to find the ones I like*
 ### btop++
