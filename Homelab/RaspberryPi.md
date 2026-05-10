@@ -152,6 +152,8 @@ cd ~/.config/kitty && echo "font_family Hack Nerd Font Mono" > font.conf
 # Add font to kitty.conf
 echo "include ./font.conf" >> ~/.config/kitty/kitty.conf
 ```
+￼￼btop++
+￼￼Terminal resource monitor. Shows CPU, memory, disk, and network stats with live graphs. Runs on each host via SSH, one per tmux pane.￼￼
 ### SDDM
 ### Superfile file manager
 ### Waybar
