@@ -199,6 +199,13 @@ _Per-machine metrics exporter. Runs on every host and exposes system metrics on 
 _Metrics collection and storage backend. Polls all node exporters on a schedule and stores time-series data. The data source for Grafana metrics dashboards._
 ### Grafana
 _Unified observability dashboard. Connects to both Prometheus and Loki as data sources, displaying metrics and logs in a single interface. Community dashboard templates available for node exporter out of the box._
+
+### Homelabbable
+research it
+
+### Patchmon v2
+research it
+
 ## Scripts 
 ### .zhrc helper scripts
 *Directory: ~/.oh-my-zsh/custom/scripts.zsh*
