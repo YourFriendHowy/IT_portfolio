@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-12 18.05.28.excalidraw.md"
+                "file": "Excalidraw/TUI_crypto_app.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-12 18.05.28.excalidraw"
+              "title": "TUI_crypto_app.excalidraw"
             }
           }
         ],
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-12 18.05.28.excalidraw.md",
+                "file": "Excalidraw/TUI_crypto_app.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-05-12 18.05.28.excalidraw"
+              "title": "Outline of TUI_crypto_app.excalidraw"
             }
           }
         ]
@@ -259,7 +259,7 @@
   },
   "active": "eae67d0d27d5744a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-05-12 18.05.28.excalidraw.md",
+    "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
     "Excalidraw",
     "Homelab/Desktop/Terminal/ZSH/zshrc.md",
