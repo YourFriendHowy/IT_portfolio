@@ -35,12 +35,12 @@
             "id": "eae67d0d27d5744a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/TUI_crypto_app.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... TUI_crypto_app.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "TUI_crypto_app.excalidraw"
             }
           }
         ],
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "69b430577b55bc8e",
