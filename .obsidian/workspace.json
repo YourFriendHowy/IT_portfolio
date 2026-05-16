@@ -35,12 +35,12 @@
             "id": "eae67d0d27d5744a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/TUI_crypto_app.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "TUI_crypto_app.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... TUI_crypto_app.excalidraw"
             }
           }
         ],
