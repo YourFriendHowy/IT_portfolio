@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "RaspberryPi"
             }
-          },
-          {
-            "id": "eae67d0d27d5744a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TUI_crypto_app.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TUI_crypto_app.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/TUI_crypto_app.excalidraw.md",
+                "file": "Homelab/RaspberryPi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TUI_crypto_app.excalidraw"
+              "title": "Outline of RaspberryPi"
             }
           }
         ]
@@ -258,7 +245,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eae67d0d27d5744a",
+  "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
     "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
