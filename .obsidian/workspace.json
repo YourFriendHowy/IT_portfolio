@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
-                "mode": "source",
+                "file": "Network actions.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RaspberryPi"
+              "title": "Network actions"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RaspberryPi"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -246,10 +246,11 @@
   },
   "active": "657b1740a0f0ae43",
   "lastOpenFiles": [
+    "Excalidraw/TUI_crypto_app.excalidraw.md",
+    "Network actions.md",
+    "Homelab/RaspberryPi.md",
     "Untitled.md",
     "z_resources/z-Images/Pasted image 20260518184936.png",
-    "Homelab/RaspberryPi.md",
-    "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Excalidraw",
     "Homelab/Desktop/Terminal/ZSH/zshrc.md",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",

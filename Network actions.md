@@ -33,6 +33,8 @@
 **networkStorageLXC(moirai):** VLAN20; 10.42.20.10 *moirai.homelab.arpa*
 **MediaMTX and Jellyfin(Hermes):** VLAN20; 10.42.20.20; *hermes.homelab.arpa*
 **EdgeLXC(Apollo):** VLAN30; 10.42.30.30; *apollo.homelab.arpa*
+**Nextcloud:** vlan100(to be moved); 10.42.100.131:12321/12322; 
+**HomeAssistant(Hestia):** vlan100; 10.42.100.79:8123; *hestia.homelab.arpa* 
 
 **NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
 **OPNsense(Athena):** VLAN99; 10.42.99.1; *athena.homelab.arpa*
