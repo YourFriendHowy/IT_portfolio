@@ -35,13 +35,13 @@
 **EdgeLXC(Apollo):** VLAN30; 10.42.30.30; *apollo.homelab.arpa*
 **Nextcloud(Delphi):** vlan100(to be moved); 10.42.100.131:12321/12322; *delphi.homelab.arpa*
 **HomeAssistant(Hestia):** vlan100; 10.42.100.79:8123; *hestia.homelab.arpa* 
-**Ollama(Logos):**
+**Ollama(Prometheus):**
 **Alfred(Iris):**
 
 
 **NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
 **OPNsense(Athena):** VLAN99; 10.42.99.1; *athena.homelab.arpa*
-**PI-hole controller(Prometheus):** VLAN99; 10.42.99.14; *prom.homelab.arpa*
+**PI-hole controller(Cerberus):** VLAN99; 10.42.99.14; *Cerberus.homelab.arpa*
 **Switch webUI(Proteus):** VLAN99; 10.42.99.49 / Serial console; *proteus.homelab.arpa* 
 **Unifi controller(Helios):** untagged VLAN99; 10.42.99.25; *helios.homelab.arpa*
 

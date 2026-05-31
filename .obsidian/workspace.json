@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Network actions"
             }
+          },
+          {
+            "id": "50d7574ed7578d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homelab Requirements.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homelab Requirements"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network actions.md",
+                "file": "Homelab Requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Network actions"
+              "title": "Outline of Homelab Requirements"
             }
           }
         ]
@@ -244,12 +269,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "657b1740a0f0ae43",
+  "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
-    "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Network actions.md",
+    "Homelab Requirements.md",
+    "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
-    "Untitled.md",
     "z_resources/z-Images/Pasted image 20260518184936.png",
     "Excalidraw",
     "Homelab/Desktop/Terminal/ZSH/zshrc.md",
