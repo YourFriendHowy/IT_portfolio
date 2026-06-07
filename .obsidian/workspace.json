@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab Requirements.md",
+                "file": "Network actions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homelab Requirements"
+              "title": "Network actions"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab Requirements.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Homelab Requirements"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -271,8 +271,9 @@
   },
   "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
-    "Network actions.md",
+    "Homelab.md",
     "Homelab Requirements.md",
+    "Network actions.md",
     "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
     "z_resources/z-Images/Pasted image 20260518184936.png",
@@ -298,7 +299,6 @@
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
     "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
     "Homelab/Desktop/Desktop.md",
-    "Linux_Notes/packet management.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",

@@ -1,4 +1,4 @@
-![[Pasted image 20260126182730.png]]
+10![[Pasted image 20260126182730.png]]
 
 ## Router/Firewall Config
 
