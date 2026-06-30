@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network actions.md",
+                "file": "Skills and Practical Experience.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network actions"
+              "title": "Skills and Practical Experience"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network actions.md",
+                "file": "Skills and Practical Experience.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Network actions"
+              "title": "Outline of Skills and Practical Experience"
             }
           }
         ]
@@ -271,9 +271,9 @@
   },
   "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
+    "Network actions.md",
     "Homelab.md",
     "Homelab Requirements.md",
-    "Network actions.md",
     "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
     "z_resources/z-Images/Pasted image 20260518184936.png",
