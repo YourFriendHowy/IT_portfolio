@@ -8,6 +8,8 @@
 
 **NAS HDD 10tb 7200 rpm($2000; $330 ea):** seagate ironwolf 10tb
 
+**PSU:** need to math out requirements
+
 **PC build for Ollama($1500 budget):**
 
 | Component       | Selection                                         | Est. Price        |

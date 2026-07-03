@@ -155,5 +155,3 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
 - **Cisco Catalyst 2960L** 8-Port PoE+ (managed switch)
     
 - **Ubiquiti UniFi UAP-AC-Pro** (wireless access point)
-    
-- **Raspberry Pi (Ubuntu Server)** – temporary network edge / Wi-Fi to Ethernet bridge

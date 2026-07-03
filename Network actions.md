@@ -28,7 +28,7 @@
 
 **Access point/Guest network:** VLAN5; 10.42.10.* (DHCP);
 
-**Kali linux(Hephaestus):** VLAN10; 10.42.5.2; *heph.homelab.arpa*
+**Kali linux(Hephaestus):** VLAN5; 10.42.5.2; *heph.homelab.arpa*
  
 **networkStorageLXC(moirai):** VLAN20; 10.42.20.10 *moirai.homelab.arpa*
 **MediaMTX and Jellyfin(Hermes):** VLAN20; 10.42.20.20; *hermes.homelab.arpa*
