@@ -35,16 +35,18 @@
 **EdgeLXC(Apollo):** VLAN30; 10.42.30.30; *apollo.homelab.arpa*
 **Nextcloud(Delphi):** vlan100(to be moved); 10.42.100.131:12321/12322; *delphi.homelab.arpa*
 **HomeAssistant(Hestia):** vlan100; 10.42.100.79:8123; *hestia.homelab.arpa* 
-**Ollama(Prometheus):**
-**Alfred(Iris):**
+**Ollama(Prometheus):** not built need hardware
+**Alfred(Iris):** not built need hardware
 
 
 **NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
 **OPNsense(Athena):** VLAN99; 10.42.99.1; *athena.homelab.arpa*
-**PI-hole controller(Cerberus):** VLAN99; 10.42.99.14; *Cerberus.homelab.arpa*
+**PI-hole controller(Cerberus):** VLAN99; 10.42.99.7; *Cerberus.homelab.arpa*
 **Switch webUI(Proteus):** VLAN99; 10.42.99.49 / Serial console; *proteus.homelab.arpa* 
 **Unifi controller(Helios):** untagged VLAN99; 10.42.99.25; *helios.homelab.arpa*
 
+
+many lxc and vm with unknown ip static and dhcp
 
 ### VLAN DHCP conventions: VLAN* (`10.42.*.0/24`)
 
@@ -61,9 +63,9 @@ Empty ports on vlan5
 
 **Port 1:** Trunk in
 **Port 2:** Empty
-**Port 3:** VLAN100(LAN)
-**Port 4:** Empty
+**Port 3:** VLAN100(LAN)(Hades)
+**Port 4:** trunk 1,99 cerberus
 **Port 5:** Trunk(VLAN100, VLAN30, VLAN20, VLAN15, VLAN10)(underworld)
-**Port 6:** Trunk(VLAN99,VLAN999)(olympus management)
+**Port 6:** unknown to printer
 **Port 7:** Trunk(VLAN1,VLAN10, untagged VLAN99)(AP)
-**Port 8:** TRUNK(VLAN1, VLAN99)(PI management and LAN)
+**Port 8:** TRUNK(VLAN1, VLAN99)(Zeus)

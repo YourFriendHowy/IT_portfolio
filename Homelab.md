@@ -18,14 +18,14 @@ This is a **custom build** I researched and assembled in **May 2020**.
 
 - **Host OS:** Fedora 43
     
-- **Secondary OS:** Windows 10 (gaming and OS-required applications)
+- **Secondary OS:** Windows 10 (gaming and OS-required applications) may switch this to bazzite
     
-
+- Both OS are installed on the same ssd, plans are to put bazzite on a partition on the 4tb hdd and use the other partition for gaming. this is undecided at the moment. Windows is required to take pearson vue tests, cant be a VM. this has me holding off, the 80gb provided for windows is full, no updates for windows 10 or drivers can be patched, win10 at eol. 
 ### Workloads / Purpose
 
 - **Primary personal workstation**
     
-- **Homelab command center**
+- **Homelab control and data command center**
     
 - **Windows 10:** Gaming and OS-required general-purpose computing (e.g., certification testing)
     
@@ -38,13 +38,13 @@ This is a **custom build** I researched and assembled in **May 2020**.
 
 Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
 
-|CPU|**Intel Core i7-8700** @ 3.20GHz 6-Core|
-|---|---|
-|GPU|**MSI GeForce GTX 1060** 6GB|
-|Mobo|**ASRock B360M Xtreme**|
-|PSU|**CyberPower OEM ATX PSU** (model not software-detectable)|
-|RAM|**CORSAIR VENGEANCE LPX** 32GB (2x16GB) DDR4 3200MHz|
-|Storage|**WD Green** 240GB SSD,  <br>**WD Blue** 1TB HDD|
+| CPU     | **Intel Core i7-8700** @ 3.20GHz 6-Core                    |
+| ------- | ---------------------------------------------------------- |
+| GPU     | **MSI GeForce GTX 1060** 6GB                               |
+| Mobo    | **ASRock B360M Xtreme**                                    |
+| PSU     | **CyberPower OEM ATX PSU** (model not software-detectable) |
+| RAM     | **CORSAIR VENGEANCE LPX** 32GB (2x16GB) DDR4 3200MHz       |
+| Storage | **WD Green** 240GB SSD,  <br>**WD Blue** 1TB HDD           |
 
 ### Platform / Software
 
@@ -62,7 +62,7 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
         
 - Container runtime
     
-    - **Docker**
+    - **Docker(on pve lxc, needs moved to a vm for security)**
         
         - **Docker Compose**
             
@@ -89,7 +89,7 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
     
 - **Evolving home server** as I learn of new projects to build
     
-
+- **This is the data machine currently**
 ---
 
 # Network Host
@@ -98,14 +98,14 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
 
 **Lenovo M900 ThinkCentre** SFF
 
-|CPU|**Intel Core i5-6500**|
-|---|---|
-|GPU|**Intel HD Graphics 530**|
-|Mobo|**LENOVO 30BC**|
-|PSU|**Lenovo OEM PSU**|
-|RAM|**8GB**|
-|Storage|**Samsung SSD 850 PRO** 256GB|
-|NIC|**Intel I350** Gigabit Network (2-port)|
+| CPU     | **Intel Core i5-6500**                  |
+| ------- | --------------------------------------- |
+| GPU     | **Intel HD Graphics 530**               |
+| Mobo    | **LENOVO 30BC**                         |
+| PSU     | **Lenovo OEM PSU**                      |
+| RAM     | **8GB**                                 |
+| Storage | **Samsung SSD 850 PRO** 256GB           |
+| NIC     | **Intel I350** Gigabit Network (2-port) |
 
 ### Platform / Software
 
@@ -117,9 +117,9 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
         
 - Container runtime
     
-    - **MongoDB-backed UniFi Network Controller** (containerized)
+    - **MongoDB-backed UniFi Network Controller** (containerized docker on lxc, needs moved to vm, would like to actually do thius on the laptop that has pihole)
         
-- Key system-level services:
+- Key system-level services(broken):
     
     - **Cron-scheduled maintenance tasks**
         
@@ -133,11 +133,24 @@ Cyberpower **prebuilt**, upgraded **RAM** and **CPU cooler**
 - **Centralized automation node** for the entire homelab, responsible for **home server uptime (5pm–12am)** and orchestrating **updates and maintenance** across all hosts, VMs, containers, and the Raspberry Pi via **scripts and cron**
     
 
+# Network Services
+
+### Hardware
+
+**Asus k55a 2012 i5**
+
+### Platform / Software
+
+- **Host OS:** Debian 13.1
+
+### Workloads / Purpose
+
+- **Primary purpose:** Pi-hole and network services host
 ---
 
 # Network Infrastructure
 
-- **Network host** (router)
+- **Network host** (router) netgear
     
 - **Cisco Catalyst 2960L** 8-Port PoE+ (managed switch)
     

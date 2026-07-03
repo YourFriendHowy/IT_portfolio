@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills and Practical Experience.md",
+                "file": "Homelab Requirements.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skills and Practical Experience"
+              "title": "Homelab Requirements"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skills and Practical Experience.md",
+                "file": "Homelab Requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Skills and Practical Experience"
+              "title": "Outline of Homelab Requirements"
             }
           }
         ]
@@ -273,6 +273,7 @@
   "lastOpenFiles": [
     "Network actions.md",
     "Homelab.md",
+    "Skills and Practical Experience.md",
     "Homelab Requirements.md",
     "Excalidraw/TUI_crypto_app.excalidraw.md",
     "Homelab/RaspberryPi.md",
@@ -298,7 +299,6 @@
     "Homelab/Desktop/Terminal/Kitty/ThemeConfig.md",
     "Homelab/Desktop/Terminal/Kitty/KittyConfig.md",
     "Homelab/Desktop/Terminal/Kitty/FontConfig.md",
-    "Homelab/Desktop/Desktop.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
