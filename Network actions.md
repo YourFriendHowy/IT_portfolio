@@ -22,28 +22,62 @@
 
 ### IP addressing and VLAN assignments
 
-**Desktop(Hades):** VLAN100; 10.42.100.* (DHCP); *hades.homelab.arpa*
-**Server(Underworld):** VLAN100(on trunk); 10.42.100.2; *underworld.homelab.arpa*
-**Control VM(Zeus):** same as host(VLAN100); 10.42.100.5; *zeus.homelab.arpa*
 
-**Access point/Guest network:** VLAN5; 10.42.10.* (DHCP);
+Fixed — AP moves to VLAN10.
 
-**Kali linux(Hephaestus):** VLAN5; 10.42.5.2; *heph.homelab.arpa*
- 
-**networkStorageLXC(moirai):** VLAN20; 10.42.20.10 *moirai.homelab.arpa*
-**MediaMTX and Jellyfin(Hermes):** VLAN20; 10.42.20.20; *hermes.homelab.arpa*
-**EdgeLXC(Apollo):** VLAN30; 10.42.30.30; *apollo.homelab.arpa*
-**Nextcloud(Delphi):** vlan100(to be moved); 10.42.100.131:12321/12322; *delphi.homelab.arpa*
-**HomeAssistant(Hestia):** vlan100; 10.42.100.79:8123; *hestia.homelab.arpa* 
-**Ollama(Prometheus):** not built need hardware
-**Alfred(Iris):** not built need hardware
+**VLAN10 — Guest/AP Connectivity**
 
+|Device (Codename)|IP|Hostname|
+|---|---|---|
+|Access Point / Guest Network|10.42.10.* (DHCP)|—|
 
-**NetworkMGMT host(Olympus):** VLAN99; 10.42.99.2; *olympus.homelab.arpa*
-**OPNsense(Athena):** VLAN99; 10.42.99.1; *athena.homelab.arpa*
-**PI-hole controller(Cerberus):** VLAN99; 10.42.99.7; *Cerberus.homelab.arpa*
-**Switch webUI(Proteus):** VLAN99; 10.42.99.49 / Serial console; *proteus.homelab.arpa* 
-**Unifi controller(Helios):** untagged VLAN99; 10.42.99.25; *helios.homelab.arpa*
+**VLAN5 — Security/Tools Lab**
+
+|Device (Codename)|IP|Hostname|
+|---|---|---|
+|Kali Linux (Hephaestus)|10.42.5.2|heph.homelab.arpa|
+
+**VLAN20 — Private Services (Tailscale/internal)**
+
+| Device (Codename)                                                                 | IP          | Hostname         |
+| --------------------------------------------------------------------------------- | ----------- | ---------------- |
+| Network Storage LXC (Moirai)                                                      | 10.42.20.10 | moirai.home.arpa |
+| Atlas (formerly Hermes — MediaMTX, Jellyfin, Gitea, Filebrowser, Foundry, Termix) | 10.42.20.20 | atlas.home.arpa  |
+
+**VLAN30 — Public Services (Tailscale Funnel / edge)**
+
+| Device (Codename) | IP          | Hostname         |
+| ----------------- | ----------- | ---------------- |
+| Edge LXC (Apollo) | 10.42.30.30 | apollo.home.arpa |
+
+**VLAN99 — Network Management Plane**
+
+| Device (Codename)             | IP                               | Hostname           |
+| ----------------------------- | -------------------------------- | ------------------ |
+| Network Mgmt Host (Olympus)   | 10.42.99.2                       | olympus.home.arpa  |
+| OPNsense (Athena)             | 10.42.99.1                       | athena.home.arpa   |
+| Pi-hole Controller (Cerberus) | 10.42.99.7<br>currently on 100.7 | cerberus.home.arpa |
+| Switch WebUI (Proteus)        | 10.42.99.49 / Serial console     | proteus.home.arpa  |
+| Unifi Controller (Helios)     | 10.42.99.25 (untagged)           | helios.home.arpa   |
+
+**VLAN100 — User Plane**
+
+| Device (Codename)       | IP                                      | Hostname                |
+| ----------------------- | --------------------------------------- | ----------------------- |
+| Desktop (Hades)         | 10.42.100.* (DHCP)                      | hades.homelab.arpa      |
+| Server (Underworld)     | 10.42.100.2 (on trunk)                  | underworld.homelab.arpa |
+| Control VM (Zeus)       | 10.42.100.5                             | zeus.home.arpa          |
+| Nextcloud (Delphi)      | 10.42.100.131:12321/12322 (to be moved) | delphi.home.arpa        |
+| Home Assistant (Hestia) | 10.42.100.79:8123                       | hestia.home.arpa        |
+| Vaultwarden (Aegis)     | 10.42.100.253                           | aegis.home.arpa         |
+
+**Not Yet Built**
+
+|Device (Codename)|Status|
+|---|---|
+|Ollama (Prometheus)|Needs hardware|
+|Alfred (Iris)|Needs hardware|
+
 
 
 many lxc and vm with unknown ip static and dhcp

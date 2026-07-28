@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/Home Server/Atlas.md",
+                "file": "Network actions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atlas"
+              "title": "Network actions"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Home Server/Atlas.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atlas"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -271,8 +271,8 @@
   },
   "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
-    "Homelab/Template for dotfile.md",
     "Homelab/Home Server/Atlas.md",
+    "Homelab/Template for dotfile.md",
     "Homelab.md",
     "Homelab/Home Server/Moirai.md",
     "Homelab/Home Server/Hermes.md",
