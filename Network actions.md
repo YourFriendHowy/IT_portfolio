@@ -62,14 +62,14 @@ Fixed — AP moves to VLAN10.
 
 **VLAN100 — User Plane**
 
-| Device (Codename)       | IP                                      | Hostname                |
-| ----------------------- | --------------------------------------- | ----------------------- |
-| Desktop (Hades)         | 10.42.100.* (DHCP)                      | hades.homelab.arpa      |
-| Server (Underworld)     | 10.42.100.2 (on trunk)                  | underworld.homelab.arpa |
-| Control VM (Zeus)       | 10.42.100.5                             | zeus.home.arpa          |
-| Nextcloud (Delphi)      | 10.42.100.131:12321/12322 (to be moved) | delphi.home.arpa        |
-| Home Assistant (Hestia) | 10.42.100.79:8123                       | hestia.home.arpa        |
-| Vaultwarden (Aegis)     | 10.42.100.253                           | aegis.home.arpa         |
+| Device (Codename)       | IP                                     | Hostname                |
+| ----------------------- | -------------------------------------- | ----------------------- |
+| Desktop (Hades)         | 10.42.100.* (DHCP)                     | hades.homelab.arpa      |
+| Server (Underworld)     | 10.42.100.2 (on trunk)                 | underworld.homelab.arpa |
+| Control VM (Zeus)       | 10.42.100.5                            | zeus.home.arpa          |
+| Nextcloud (Delphi)      | 10.42.100.13:12321/12322 (to be moved) | delphi.home.arpa        |
+| Home Assistant (Hestia) | 10.42.100.79:8123                      | hestia.home.arpa        |
+| Vaultwarden (Aegis)     | 10.42.100.253                          | aegis.home.arpa         |
 
 **Not Yet Built**
 
