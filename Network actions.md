@@ -73,10 +73,10 @@ Fixed — AP moves to VLAN10.
 
 **Not Yet Built**
 
-|Device (Codename)|Status|
-|---|---|
-|Ollama (Prometheus)|Needs hardware|
-|Alfred (Iris)|Needs hardware|
+| Device (Codename)   | Status          |
+| ------------------- | --------------- |
+| Ollama (Prometheus) | Needs hardware  |
+| Alfred (Iris)       | Needs hardw are |
 
 
 

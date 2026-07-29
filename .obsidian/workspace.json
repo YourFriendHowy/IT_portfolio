@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
+                "file": "Network actions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RaspberryPi"
+              "title": "Network actions"
             }
           }
         ],
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/RaspberryPi.md",
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RaspberryPi"
+              "title": "Outline of Network actions"
             }
           }
         ]
@@ -271,13 +271,13 @@
   },
   "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
+    "Homelab/RaspberryPi.md",
     "Homelab/Home Server/Hermes.md",
     "Homelab.md",
     "Network actions.md",
     "Homelab/Home Server/Atlas.md",
     "Homelab/Template for dotfile.md",
     "Homelab/Home Server/Moirai.md",
-    "Homelab/RaspberryPi.md",
     "Homelab/Cisco Switch.md",
     "Homelab Requirements.md",
     "Skills and Practical Experience.md",
