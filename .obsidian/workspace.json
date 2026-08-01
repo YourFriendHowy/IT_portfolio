@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "Network actions"
             }
-          },
-          {
-            "id": "b2eb361810bb3256",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,6 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,7 +271,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2eb361810bb3256",
+  "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
     "Homelab/RaspberryPi.md",
     "Homelab.md",
