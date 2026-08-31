@@ -1,772 +1,1465 @@
-/* =========================================================
+/*
+ * ============================================================
+ * HADES
+ * Obsidian Theme
+ *
+ * Dark translucent industrial interface for the Hades desktop.
+ * Deus Ex: Human Revolution inspired.
+ *
+ * Maintained by YourFriendHowy
+ * ============================================================
+ */
+
+
+/* ============================================================
    HADES PALETTE
-   ========================================================= */
+   ============================================================ */
 
-:root
-{
-    /* Core charcoal surfaces */
-    --dark0-hard_x:     8,8,8;
-    --dark0-hard:       rgb(var(--dark0-hard_x));
+:root {
+    /* Surfaces */
+    --hades-black:          #080808;
+    --hades-deep:           #0B0B0A;
+    --hades-charcoal:       #10100F;
+    --hades-panel:          #181611;
 
-    --dark0_x:          16,16,15;
-    --dark0:            rgb(var(--dark0_x));
+    /* Primary interface colors */
+    --hades-amber:          #F2C768;
+    --hades-gold:           #D69A2D;
+    --hades-gold-dark:      #A87322;
+    --hades-gold-dim:       #5B471E;
 
-    --dark0-soft_x:     20,18,15;
-    --dark0-soft:       rgb(var(--dark0-soft_x));
+    /* Strong emphasis */
+    --hades-orange:         #FB5D00;
+    --hades-rust:           #C03900;
+    --hades-red:            #FB521C;
 
-    --dark1_x:          32,29,23;
-    --dark1:            rgb(var(--dark1_x));
+    /* Text */
+    --hades-text:           #D8CBAA;
+    --hades-text-bright:    #E8DCBD;
+    --hades-text-muted:     #A99773;
+    --hades-text-faint:     #71664E;
 
-    --dark2_x:          58,47,29;
-    --dark2:            rgb(var(--dark2_x));
-
-    --dark3_x:          91,71,30;
-    --dark3:            rgb(var(--dark3_x));
-
-    --dark4_x:          106,78,41;
-    --dark4:            rgb(var(--dark4_x));
-
-    --gray_x:           119,119,119;
-    --gray:             rgb(var(--gray_x));
-
-
-    /* Warm text hierarchy */
-    --light0-hard_x:    255,227,174;
-    --light0-hard:      rgb(var(--light0-hard_x));
-
-    --light0_x:         255,203,131;
-    --light0:           rgb(var(--light0_x));
-
-    --light0-soft_x:    255,200,138;
-    --light0-soft:      rgb(var(--light0-soft_x));
-
-    --light1_x:         216,216,216;
-    --light1:           rgb(var(--light1_x));
-
-    --light2_x:         198,177,124;
-    --light2:           rgb(var(--light2_x));
-
-    --light3_x:         197,151,82;
-    --light3:           rgb(var(--light3_x));
-
-    --light4_x:         154,135,107;
-    --light4:           rgb(var(--light4_x));
-
-
-    /* Hades bright palette */
-    --bright-red_x:     251,82,28;
-    --bright-red:       rgb(var(--bright-red_x));
-
-    --bright-green_x:   198,177,124;
-    --bright-green:     rgb(var(--bright-green_x));
-
-    --bright-yellow_x:  242,199,104;
-    --bright-yellow:    rgb(var(--bright-yellow_x));
-
-    --bright-blue_x:    255,189,84;
-    --bright-blue:      rgb(var(--bright-blue_x));
-
-    --bright-purple_x:  252,135,79;
-    --bright-purple:    rgb(var(--bright-purple_x));
-
-    --bright-aqua_x:    255,200,138;
-    --bright-aqua:      rgb(var(--bright-aqua_x));
-
-    --bright-orange_x:  255,139,103;
-    --bright-orange:    rgb(var(--bright-orange_x));
-
-
-    /* Main interface palette */
-    --neutral-red_x:     192,57,0;
-    --neutral-red:       rgb(var(--neutral-red_x));
-
-    --neutral-green_x:   198,177,124;
-    --neutral-green:     rgb(var(--neutral-green_x));
-
-    --neutral-yellow_x:  214,154,45;
-    --neutral-yellow:    rgb(var(--neutral-yellow_x));
-
-    --neutral-blue_x:    197,151,82;
-    --neutral-blue:      rgb(var(--neutral-blue_x));
-
-    --neutral-purple_x:  251,93,0;
-    --neutral-purple:    rgb(var(--neutral-purple_x));
-
-    --neutral-aqua_x:    242,199,104;
-    --neutral-aqua:      rgb(var(--neutral-aqua_x));
-
-    --neutral-orange_x:  247,148,0;
-    --neutral-orange:    rgb(var(--neutral-orange_x));
-
-
-    /* Darker accent variants */
-    --faded-red_x:       128,38,10;
-    --faded-red:         rgb(var(--faded-red_x));
-
-    --faded-green_x:     106,78,41;
-    --faded-green:       rgb(var(--faded-green_x));
-
-    --faded-yellow_x:    168,115,34;
-    --faded-yellow:      rgb(var(--faded-yellow_x));
-
-    --faded-blue_x:      91,71,30;
-    --faded-blue:        rgb(var(--faded-blue_x));
-
-    --faded-purple_x:    128,54,15;
-    --faded-purple:      rgb(var(--faded-purple_x));
-
-    --faded-aqua_x:      106,78,41;
-    --faded-aqua:        rgb(var(--faded-aqua_x));
-
-    --faded-orange_x:    175,58,3;
-    --faded-orange:      rgb(var(--faded-orange_x));
+    /* RGB helpers */
+    --amber-rgb:            242, 199, 104;
+    --gold-rgb:             214, 154, 45;
+    --orange-rgb:           251, 93, 0;
+    --rust-rgb:             192, 57, 0;
+    --black-rgb:            8, 8, 8;
+    --charcoal-rgb:         16, 16, 15;
 }
 
 
-body
-{
-    /*
-     * Hades amber accent.
-     */
-    --accent-h: 39;
-    --accent-s: 75%;
-    --accent-l: 48%;
+/* ============================================================
+   OBSIDIAN CORE VARIABLES
+   ============================================================ */
 
-    --link-decoration:                none;
-    --link-decoration-hover:          none;
-    --link-external-decoration:       none;
-    --link-external-decoration-hover: none;
-
-    --tag-decoration:                 none;
-    --tag-decoration-hover:           underline;
-    --tag-padding-x:                  .5em;
-    --tag-padding-y:                  .2em;
-    --tag-radius:                     .5em;
-
-    --tab-font-weight:                600;
-    --bold-weight:                    600;
-
-    --checkbox-radius:                0;
-
-    --embed-border-left: 2px solid var(--interactive-accent);
-}
-
-
-/* =========================================================
-   HADES DARK MODE
-   ========================================================= */
-
-.theme-dark
-{
-    --color-red-rgb:                 var(--neutral-red_x);
-    --color-red:                     var(--neutral-red);
-
-    --color-purple-rgb:              var(--neutral-purple_x);
-    --color-purple:                  var(--neutral-purple);
-
-    --color-green-rgb:               var(--neutral-green_x);
-    --color-green:                   var(--neutral-green);
-
-    --color-cyan-rgb:                var(--neutral-aqua_x);
-    --color-cyan:                    var(--neutral-aqua);
-
-    --color-blue-rgb:                var(--neutral-blue_x);
-    --color-blue:                    var(--neutral-blue);
-
-    --color-yellow-rgb:              var(--neutral-yellow_x);
-    --color-yellow:                  var(--neutral-yellow);
-
-    --color-orange-rgb:              var(--neutral-orange_x);
-    --color-orange:                  var(--neutral-orange);
-
-    --color-pink-rgb:                var(--bright-purple_x);
-    --color-pink:                    var(--bright-purple);
-
+.theme-dark {
+    color-scheme: dark;
 
     /*
-     * Translucent workspace surfaces.
-     */
-    --background-primary:            rgba(16,16,15,0.88);
-    --background-primary-alt:        rgba(16,16,15,0.90);
-
-    --background-secondary:          rgba(8,8,8,0.84);
-    --background-secondary-alt:      rgba(32,29,23,0.86);
-
-    --background-modifier-border:    rgba(91,71,30,0.80);
-
-    --background-modifier-hover:     rgba(214,154,45,0.10);
-    --background-modifier-active-hover:
-                                        rgba(214,154,45,0.16);
-
-    --cursor-line-background:        rgba(214,154,45,0.06);
-
-
-    /*
-     * Main text.
-     */
-    --text-normal:                   var(--light0);
-    --text-faint:                    var(--light4);
-    --text-muted:                    var(--light2);
-
-
-    /*
-     * Links.
-     */
-    --link-url:                      var(--light3);
-
-    --text-accent:                   var(--bright-yellow);
-    --text-accent-hover:             var(--bright-blue);
-
-
-    /*
-     * Heading hierarchy.
+     * TRANSPARENT SURFACES
      *
-     * Red -> orange -> gold -> amber -> tan -> cream.
+     * Keep Obsidian dark, but let the Hades wallpaper/compositor
+     * become part of the interface.
      */
-    --h1-color:                      var(--neutral-red);
-    --h2-color:                      var(--bright-orange);
-    --h3-color:                      var(--bright-yellow);
-    --h4-color:                      var(--neutral-yellow);
-    --h5-color:                      var(--light3);
-    --h6-color:                      var(--light2);
+    --background-primary:
+        rgba(var(--black-rgb), 0.52);
+
+    --background-primary-alt:
+        rgba(var(--black-rgb), 0.60);
+
+    --background-secondary:
+        rgba(var(--black-rgb), 0.64);
+
+    --background-secondary-alt:
+        rgba(var(--charcoal-rgb), 0.68);
+
+    --background-modifier-form-field:
+        rgba(var(--black-rgb), 0.70);
+
+    --background-modifier-form-field-highlighted:
+        rgba(var(--gold-rgb), 0.08);
+
+    --background-modifier-hover:
+        rgba(var(--amber-rgb), 0.055);
+
+    --background-modifier-active-hover:
+        rgba(var(--amber-rgb), 0.10);
+
+    --background-modifier-border:
+        rgba(var(--amber-rgb), 0.30);
+
+    --background-modifier-border-hover:
+        rgba(var(--amber-rgb), 0.62);
+
+    --background-modifier-border-focus:
+        var(--hades-amber);
+
+    --background-modifier-cover:
+        rgba(0, 0, 0, 0.74);
 
 
     /*
-     * Highlighting.
+     * TEXT
      */
-    --text-highlight-bg:             rgba(214,154,45,0.55);
-    --text-highlight-fg:             var(--light0-hard);
+    --text-normal:
+        var(--hades-text);
+
+    --text-muted:
+        var(--hades-text-muted);
+
+    --text-faint:
+        var(--hades-text-faint);
+
+    --text-on-accent:
+        var(--hades-charcoal);
+
+    --text-error:
+        var(--hades-red);
+
+    --text-warning:
+        var(--hades-gold);
+
+    --text-success:
+        var(--hades-amber);
 
 
     /*
-     * Tags.
+     * ACCENT
      */
-    --tag-color:                     var(--bright-yellow);
-    --tag-background:                rgba(214,154,45,0.12);
-    --tag-background-hover:          rgba(214,154,45,0.22);
+    --interactive-accent:
+        var(--hades-gold);
+
+    --interactive-accent-hover:
+        var(--hades-amber);
+
+    --interactive-normal:
+        rgba(var(--gold-rgb), 0.08);
+
+    --interactive-hover:
+        rgba(var(--amber-rgb), 0.10);
 
 
     /*
-     * Titles.
+     * HEADINGS
+     *
+     * H1 = orange
+     * H2 = deep gold
+     * H3 = bright Hades amber
      */
-    --titlebar-text-color-focused:   var(--bright-yellow);
-    --inline-title-color:            var(--bright-yellow);
+    --h1-color:
+        var(--hades-orange);
+
+    --h2-color:
+        var(--hades-gold);
+
+    --h3-color:
+        var(--hades-amber);
+
+    --h4-color:
+        #C59752;
+
+    --h5-color:
+        #B6A277;
+
+    --h6-color:
+        var(--hades-text-muted);
+
+    --inline-title-color:
+        var(--hades-amber);
 
 
     /*
-     * Markdown emphasis.
+     * EMPHASIS
      */
-    --bold-color:                    var(--bright-yellow);
-    --italic-color:                  var(--light3);
+    --bold-color:
+        var(--hades-gold);
+
+    --italic-color:
+        #C59752;
+
+    --text-highlight-bg:
+        rgba(var(--gold-rgb), 0.30);
+
+    --text-highlight-fg:
+        var(--hades-text-bright);
+
+    --text-selection:
+        rgba(var(--rust-rgb), 0.48);
 
 
     /*
-     * Checkboxes.
+     * LINKS
      */
-    --checkbox-color:                var(--neutral-yellow);
-    --checkbox-color-hover:          var(--bright-yellow);
+    --link-color:
+        var(--hades-amber);
 
-    --checkbox-border-color:         var(--neutral-yellow);
-    --checkbox-border-color-hover:   var(--bright-yellow);
+    --link-color-hover:
+        var(--hades-text-bright);
 
-    --checklist-done-color:          rgba(var(--light2_x), 0.45);
+    --link-external-color:
+        var(--hades-gold);
+
+    --link-external-color-hover:
+        var(--hades-amber);
+
+    --link-unresolved-color:
+        var(--hades-orange);
+
+    --link-decoration:
+        none;
+
+    --link-decoration-hover:
+        underline;
 
 
     /*
-     * Tables.
+     * CODE
      */
-    --table-header-background:       rgba(214,154,45,0.08);
-    --table-header-background-hover: rgba(214,154,45,0.14);
+    --code-normal:
+        #CBBE9A;
 
-    --table-row-even-background:     rgba(32,29,23,0.20);
-    --table-row-odd-background:      rgba(32,29,23,0.35);
+    --code-background:
+        rgba(var(--black-rgb), 0.62);
 
-    --table-row-background-hover:    rgba(214,154,45,0.08);
+    --code-comment:
+        #766B53;
+
+    --code-function:
+        var(--hades-amber);
+
+    --code-important:
+        var(--hades-red);
+
+    --code-keyword:
+        var(--hades-orange);
+
+    --code-operator:
+        var(--hades-gold);
+
+    --code-property:
+        var(--hades-text);
+
+    --code-punctuation:
+        #A68E61;
+
+    --code-string:
+        #C59752;
+
+    --code-tag:
+        var(--hades-rust);
+
+    --code-value:
+        #FF8B67;
 
 
     /*
-     * Selection.
+     * NAVIGATION
      */
-    --text-selection:                rgba(192,57,0,0.55);
-    --flashing-background:           rgba(214,154,45,0.25);
+    --nav-item-color:
+        var(--hades-text-muted);
+
+    --nav-item-color-hover:
+        var(--hades-amber);
+
+    --nav-item-color-active:
+        var(--hades-amber);
+
+    --nav-item-color-selected:
+        var(--hades-text-bright);
+
+    --nav-item-background-hover:
+        rgba(var(--amber-rgb), 0.045);
+
+    --nav-item-background-active:
+        rgba(var(--amber-rgb), 0.075);
 
 
     /*
-     * Code.
+     * ICONS
      */
-    --code-normal:                   var(--light0);
-    --code-background:               rgba(8,8,8,0.72);
+    --icon-color:
+        var(--hades-text-muted);
+
+    --icon-color-hover:
+        var(--hades-amber);
+
+    --icon-color-active:
+        var(--hades-amber);
+
+    --icon-color-focused:
+        var(--hades-amber);
 
 
     /*
-     * Mermaid.
+     * TABS
      */
-    --mermaid-note:                  var(--neutral-yellow);
-    --mermaid-actor:                 var(--dark2);
-    --mermaid-loopline:              var(--neutral-yellow);
-    --mermaid-exclude:               var(--dark4);
-    --mermaid-seqnum:                var(--dark0);
+    --tab-text-color:
+        var(--hades-text-muted);
 
+    --tab-text-color-focused:
+        var(--hades-text);
 
-    /*
-     * Icons/navigation.
-     */
-    --icon-color-hover:              var(--bright-yellow);
-    --icon-color-focused:            var(--neutral-yellow);
-
-    --nav-item-color-hover:          var(--bright-yellow);
-    --nav-item-color-active:         var(--neutral-yellow);
-
-    --nav-file-tag:                  rgba(var(--neutral-orange_x),0.90);
-
-
-    /*
-     * Graph.
-     */
-    --graph-line:                    var(--dark3);
-    --graph-node:                    var(--bright-yellow);
-    --graph-node-tag:                var(--neutral-red);
-    --graph-node-attachment:         var(--neutral-orange);
-
-
-    /*
-     * Calendar.
-     */
-    --calendar-hover:                var(--bright-yellow);
-    --calendar-background-hover:     rgba(214,154,45,0.10);
-    --calendar-week:                 var(--neutral-orange);
-    --calendar-today:                var(--bright-yellow);
-
-
-    /*
-     * Dataview.
-     */
-    --dataview-key:                  var(--light2);
-    --dataview-key-background:       rgba(var(--neutral-red_x),0.22);
-
-    --dataview-value:                var(--light0);
-    --dataview-value-background:     rgba(var(--neutral-yellow_x),0.14);
-
-
-    /*
-     * Tabs.
-     */
     --tab-text-color-focused-active:
-                                        var(--bright-yellow);
+        var(--hades-amber);
 
     --tab-text-color-focused-active-current:
-                                        var(--bright-orange);
+        var(--hades-amber);
+
+    --tab-container-background:
+        rgba(var(--black-rgb), 0.52);
+
+
+    /*
+     * TABLES
+     */
+    --table-background:
+        transparent;
+
+    --table-border-color:
+        rgba(var(--amber-rgb), 0.25);
+
+    --table-header-background:
+        rgba(var(--gold-rgb), 0.055);
+
+    --table-header-background-hover:
+        rgba(var(--gold-rgb), 0.09);
+
+    --table-header-color:
+        var(--hades-amber);
+
+    --table-row-even-background:
+        rgba(var(--black-rgb), 0.08);
+
+    --table-row-odd-background:
+        transparent;
+
+    --table-row-background-hover:
+        rgba(var(--amber-rgb), 0.035);
+
+
+    /*
+     * TAGS
+     */
+    --tag-color:
+        var(--hades-amber);
+
+    --tag-color-hover:
+        var(--hades-text-bright);
+
+    --tag-background:
+        rgba(var(--gold-rgb), 0.08);
+
+    --tag-background-hover:
+        rgba(var(--gold-rgb), 0.14);
+
+    --tag-border-color:
+        rgba(var(--amber-rgb), 0.24);
+
+    --tag-border-color-hover:
+        var(--hades-amber);
+
+    --tag-radius:
+        3px;
+
+
+    /*
+     * CHECKBOXES
+     */
+    --checkbox-color:
+        var(--hades-gold);
+
+    --checkbox-color-hover:
+        var(--hades-amber);
+
+    --checkbox-border-color:
+        var(--hades-gold-dark);
+
+    --checkbox-border-color-hover:
+        var(--hades-amber);
+
+    --checkbox-radius:
+        2px;
+
+    --checklist-done-color:
+        var(--hades-text-faint);
+
+
+    /*
+     * DIVIDERS
+     */
+    --divider-color:
+        rgba(var(--amber-rgb), 0.30);
+
+    --divider-color-hover:
+        var(--hades-amber);
+
+
+    /*
+     * GRAPH
+     */
+    --graph-line:
+        var(--hades-gold-dim);
+
+    --graph-node:
+        var(--hades-amber);
+
+    --graph-node-focused:
+        var(--hades-orange);
+
+    --graph-node-tag:
+        var(--hades-rust);
+
+    --graph-node-attachment:
+        var(--hades-gold);
+
+    --graph-node-unresolved:
+        var(--hades-text-faint);
+
+
+    /*
+     * EMBEDS
+     */
+    --embed-border-left:
+        2px solid var(--hades-gold);
 }
 
 
-/* =========================================================
-   TRANSPARENT HADES WINDOW
-   ========================================================= */
+/* ============================================================
+   TRANSPARENCY FOUNDATION
+   ============================================================ */
+
+html,
+body,
+.app-container,
+.horizontal-main-container,
+.workspace,
+.workspace-split,
+.workspace-tabs,
+.workspace-leaf,
+.workspace-leaf-content,
+.view-content,
+.markdown-source-view,
+.markdown-reading-view,
+.cm-editor,
+.cm-scroller {
+    background-color: transparent !important;
+}
+
+
+/* ============================================================
+   MAIN EDITOR
+   ============================================================ */
+
+.markdown-source-view,
+.markdown-reading-view {
+    color: var(--hades-text);
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    color: var(--hades-text);
+}
+
+.cm-editor .cm-activeLine {
+    background:
+        rgba(var(--amber-rgb), 0.025);
+}
+
+.cm-editor .cm-gutters {
+    background:
+        rgba(var(--black-rgb), 0.18);
+
+    color:
+        var(--hades-text-faint);
+
+    border-right:
+        1px solid rgba(var(--amber-rgb), 0.14);
+}
+
+.cm-editor .cm-activeLineGutter {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.055);
+}
+
+.cm-cursor {
+    border-left-color:
+        var(--hades-orange) !important;
+}
+
+
+/* ============================================================
+   NOTE TITLE
+   ============================================================ */
+
+.inline-title {
+    color:
+        var(--hades-amber);
+
+    font-weight:
+        700;
+
+    letter-spacing:
+        0.025em;
+}
+
+
+/* ============================================================
+   HEADINGS
+   ============================================================ */
+
+.markdown-rendered h1,
+.HyperMD-header-1 {
+    color:
+        var(--hades-orange);
+
+    font-weight:
+        700;
+}
+
+.markdown-rendered h2,
+.HyperMD-header-2 {
+    color:
+        var(--hades-gold);
+
+    font-weight:
+        700;
+}
+
+.markdown-rendered h3,
+.HyperMD-header-3 {
+    color:
+        var(--hades-amber);
+
+    font-weight:
+        700;
+}
+
+.markdown-rendered h4,
+.HyperMD-header-4 {
+    color:
+        #C59752;
+}
+
+.markdown-rendered h5,
+.HyperMD-header-5 {
+    color:
+        #B6A277;
+}
+
+.markdown-rendered h6,
+.HyperMD-header-6 {
+    color:
+        var(--hades-text-muted);
+}
+
+
+/* ============================================================
+   BOLD / ITALIC
+   ============================================================ */
+
+.markdown-rendered strong,
+.cm-strong {
+    color:
+        var(--hades-gold);
+
+    font-weight:
+        700;
+}
+
+.markdown-rendered em,
+.cm-em {
+    color:
+        #C59752;
+}
+
+
+/* ============================================================
+   TITLE BAR
+   ============================================================ */
+
+.titlebar {
+    color:
+        var(--hades-text-muted);
+
+    background:
+        rgba(var(--black-rgb), 0.62) !important;
+
+    border-bottom:
+        1px solid rgba(var(--amber-rgb), 0.48);
+}
+
+.titlebar-button {
+    color:
+        var(--hades-text-muted) !important;
+}
+
+.titlebar-button:hover {
+    color:
+        var(--hades-amber) !important;
+
+    background:
+        rgba(var(--amber-rgb), 0.06) !important;
+}
+
+
+/* ============================================================
+   TABS
+   ============================================================ */
+
+.workspace-tab-header-container {
+    background:
+        rgba(var(--black-rgb), 0.52) !important;
+
+    border-bottom:
+        1px solid rgba(var(--amber-rgb), 0.42);
+}
+
+.workspace-tab-header {
+    color:
+        var(--hades-text-muted) !important;
+
+    background:
+        transparent !important;
+
+    border-radius:
+        4px 4px 0 0;
+}
+
+.workspace-tab-header:hover {
+    color:
+        var(--hades-amber) !important;
+
+    background:
+        rgba(var(--amber-rgb), 0.045) !important;
+}
+
+.workspace-tab-header.is-active {
+    color:
+        var(--hades-amber) !important;
+
+    background:
+        rgba(var(--amber-rgb), 0.055) !important;
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.40);
+
+    border-bottom-color:
+        transparent;
+}
+
+.workspace-tab-header-inner-title {
+    color:
+        inherit !important;
+}
+
+.workspace-tab-header-new-tab,
+.workspace-tab-header-tab-list {
+    color:
+        var(--hades-text-muted) !important;
+}
+
+.workspace-tab-header-new-tab:hover,
+.workspace-tab-header-tab-list:hover {
+    color:
+        var(--hades-amber) !important;
+
+    background:
+        rgba(var(--amber-rgb), 0.05) !important;
+}
+
+
+/* ============================================================
+   VIEW HEADER
+   ============================================================ */
+
+.view-header {
+    color:
+        var(--hades-text-muted);
+
+    background:
+        rgba(var(--black-rgb), 0.42);
+
+    border-bottom:
+        1px solid rgba(var(--amber-rgb), 0.36);
+}
+
+.view-header-title {
+    color:
+        var(--hades-text-muted);
+}
+
+
+/* ============================================================
+   SIDEBARS
+   ============================================================ */
+
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+    background:
+        rgba(var(--black-rgb), 0.40) !important;
+}
+
+.workspace-split.mod-left-split {
+    border-right:
+        1px solid rgba(var(--amber-rgb), 0.42);
+}
+
+.workspace-split.mod-right-split {
+    border-left:
+        1px solid rgba(var(--amber-rgb), 0.42);
+}
+
+.workspace-ribbon {
+    background:
+        rgba(var(--black-rgb), 0.50);
+
+    border-right:
+        1px solid rgba(var(--amber-rgb), 0.36);
+}
+
+.workspace-sidedock-vault-profile {
+    color:
+        var(--hades-text-muted);
+
+    background:
+        rgba(var(--black-rgb), 0.48);
+
+    border-top:
+        1px solid rgba(var(--amber-rgb), 0.36);
+}
+
+
+/* ============================================================
+   FILE TREE
+   ============================================================ */
 
 /*
- * Make the major Obsidian surfaces transparent enough for
- * compositor transparency to show through.
+ * Folder tree carries H2 gold.
+ * Individual files remain quieter.
  */
 
-.theme-dark .workspace,
-.theme-dark .workspace-split,
-.theme-dark .workspace-tabs,
-.theme-dark .workspace-leaf,
-.theme-dark .workspace-leaf-content,
-.theme-dark .view-content,
-.theme-dark .markdown-source-view,
-.theme-dark .markdown-reading-view
-{
-    background-color: transparent;
+.nav-folder-title {
+    color:
+        var(--hades-gold);
+}
+
+.nav-file-title {
+    color:
+        var(--hades-text-muted);
+}
+
+.nav-folder-title,
+.nav-file-title {
+    border-radius:
+        3px;
+}
+
+.nav-folder-title:hover,
+.nav-file-title:hover {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.045);
+}
+
+.nav-file-title.is-active {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.07);
+
+    border-left:
+        2px solid var(--hades-amber);
 }
 
 
-/*
- * Keep sidebars slightly darker than the editor.
- */
-.theme-dark .workspace-sidedock-vault-profile,
-.theme-dark .workspace-ribbon,
-.theme-dark .mod-left-split,
-.theme-dark .mod-right-split
-{
-    background-color: rgba(8,8,8,0.36);
+/* ============================================================
+   TOOLBAR / ICONS
+   ============================================================ */
+
+.clickable-icon {
+    color:
+        var(--hades-text-muted);
+}
+
+.clickable-icon:hover,
+.clickable-icon.is-active {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.055);
 }
 
 
-/*
- * Thin Hades separation between major interface regions.
- */
-.theme-dark .workspace-split.mod-left-split
-{
-    border-right: 1px solid rgba(214,154,45,0.20);
+/* ============================================================
+   LINKS
+   ============================================================ */
+
+.internal-link,
+.cm-hmd-internal-link {
+    color:
+        var(--hades-amber);
 }
 
-.theme-dark .workspace-split.mod-right-split
-{
-    border-left: 1px solid rgba(214,154,45,0.20);
+.internal-link:hover {
+    color:
+        var(--hades-text-bright);
 }
 
-.theme-light
-{
-    --color-red-rgb:                 var(--neutral-red_x);
-    --color-red:                     var(--neutral-red);
-    --color-purple-rgb:              var(--neutral-purple_x);
-    --color-purple:                  var(--neutral-purple);
-    --color-green-rgb:               var(--neutral-green_x);
-    --color-green:                   var(--neutral-green);
-    --color-cyan-rgb:                var(--neutral-blue_x);
-    --color-cyan:                    var(--neutral-blue);
-    --color-blue-rgb:                var(--faded-blue_x);
-    --color-blue:                    var(--faded-blue);
-    --color-yellow-rgb:              var(--neutral-yellow_x);
-    --color-yellow:                  var(--neutral-yellow);
-    --color-orange-rgb:              var(--neutral-orange_x);
-    --color-orange:                  var(--neutral-orange);
-    --color-pink-rgb:                var(--bright-purple_x);
-    --color-pink:                    var(--bright-purple);
-
-    --background-primary:            var(--light0-hard);
-    --background-primary-alt:        var(--light0-hard);
-    --background-secondary:          var(--light1);
-    --background-secondary-alt:      var(--light1);
-    --background-modifier-border:    var(--light2);
-
-    --cursor-line-background:        rgba(var(--light1_x), 0.5);
-
-    --text-normal:                   var(--dark0);
-    --text-faint:                    var(--dark3);
-    --text-muted:                    var(--dark2);
-
-    --link-url:                      var(--neutral-green);
-
-    --h1-color:                      var(--neutral-red);
-    --h2-color:                      var(--neutral-yellow);
-    --h3-color:                      var(--neutral-green);
-    --h4-color:                      var(--neutral-aqua);
-    --h5-color:                      var(--neutral-blue);
-    --h6-color:                      var(--neutral-purple);
-
-    --text-highlight-bg:             var(--bright-yellow);
-    --text-highlight-fg:             var(--dark0);
-
-    --text-accent:                   var(--neutral-orange);
-    --text-accent-hover:             var(--bright-aqua);
-
-    --tag-color:                     var(--neutral-aqua);
-    --tag-background:                var(--light1);
-    --tag-background-hover:          rgba(var(--light1_x), 0.6);
-
-    --titlebar-text-color-focused:   var(--bright-red);
-
-    --inline-title-color:            var(--bright-yellow);
-
-    --bold-color:                    var(--neutral-yellow);
-    --italic-color:                  var(--neutral-yellow);
-
-    --checkbox-color:                var(--light4);
-    --checkbox-color-hover:          var(--light4);
-    --checkbox-border-color:         var(--light4);
-    --checkbox-border-color-hover:   var(--light4);
-    --checklist-done-color:          rgba(var(--dark2_x), 0.4);
-
-    --table-header-background:       rgba(var(--light3_x), 0.4);
-    --table-header-background-hover: var(--light2);
-    --table-row-even-background:     rgba(var(--light1_x), 0.2);
-    --table-row-odd-background:      rgba(var(--light1_x), 0.7);
-    --table-row-background-hover:    var(--light2);
-
-    --text-selection:                rgba(var(--neutral-red_x), 0.6);
-    --flashing-background:           rgba(var(--neutral-red_x), 0.3);
-
-    --code-normal:                   var(--bright-blue);
-    --code-background:               var(--light1);
-
-    --mermaid-note:                  var(--bright-blue);
-    --mermaid-actor:                 var(--light3);
-    --mermaid-loopline:              var(--neutral-blue);
-    --mermaid-exclude:               var(--light2);
-    --mermaid-seqnum:                var(--light0);
-
-    --icon-color-hover:              var(--bright-red);
-    --icon-color-focused:            var(--bright-blue);
-
-    --nav-item-color-hover:          var(--bright-red);
-    --nav-item-color-active:         var(--neutral-blue);
-    --nav-file-tag:                  rgba(var(--neutral-blue_x), 0.9);
-
-    --graph-line:                    var(--light1);
-    --graph-node:                    var(--gray);
-    --graph-node-tag:                var(--neutral-red);
-    --graph-node-attachment:         var(--bright-green);
-
-    --calendar-hover:                var(--bright-red);
-    --calendar-background-hover:     var(--light1);
-    --calendar-week:                 var(--bright-red);
-    --calendar-today:                var(--bright-red);
-
-    --dataview-key:                  var(--text-faint);
-    --dataview-key-background:       rgba(var(--faded-red_x), 0.3);
-    --dataview-value:                var(--text-faint);
-    --dataview-value-background:     rgba(var(--neutral-green_x), 0.2);
-
-    --tab-text-color-focused-active:         var(--neutral-yellow);
-    --tab-text-color-focused-active-current: var(--bright-red);
+.external-link,
+.cm-link {
+    color:
+        var(--hades-gold);
 }
 
-table
-{
-    border: 1px solid var(--background-secondary) !important;
-    border-collapse: collapse;
+
+/* ============================================================
+   INLINE CODE
+   ============================================================ */
+
+.markdown-rendered code,
+.cm-inline-code {
+    color:
+        #C9BEA4;
+
+    background:
+        rgba(var(--black-rgb), 0.60);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.14);
+
+    border-radius:
+        4px;
+
+    padding:
+        2px 5px;
 }
 
-thead
-{
-    border-bottom: 2px solid var(--background-modifier-border) !important;
-}
-  
-th
-{
-    font-weight: 600 !important;
-    border: 1px solid var(--background-secondary) !important;
+
+/* ============================================================
+   CODE BLOCKS
+   ============================================================ */
+
+.markdown-rendered pre {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.54);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.28);
+
+    border-radius:
+        5px;
+
+    padding:
+        12px;
 }
 
-td
-{
-    border-left: 1px solid var(--background-secondary) !important;
-    border-right: 1px solid var(--background-secondary) !important;
-    border-bottom: 1px solid var(--background-secondary) !important;
+.markdown-rendered pre code {
+    padding:
+        0;
+
+    background:
+        transparent;
+
+    border:
+        none;
 }
 
-.markdown-rendered tbody tr:nth-child(even)
-{
-    background-color: var(--table-row-even-background) !important;
+
+/* ============================================================
+   TABLES
+   ============================================================ */
+
+.markdown-rendered table {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.15);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.28);
+
+    border-collapse:
+        collapse;
 }
 
-.markdown-rendered tbody tr:nth-child(odd)
-{
-    background-color: var(--table-row-odd-background) !important;
+.markdown-rendered th {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--gold-rgb), 0.055);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.36);
+
+    font-weight:
+        700;
 }
 
-.markdown-rendered tbody tr:nth-child(even):hover,
-.markdown-rendered tbody tr:nth-child(odd):hover
-{
-    background-color: var(--table-row-background-hover) !important;
+.markdown-rendered td {
+    color:
+        var(--hades-text);
+
+    background:
+        transparent;
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.17);
 }
 
-.markdown-rendered mark
-{
-    background-color: var(--text-highlight-bg);
-    color: var(--text-highlight-fg);
+.markdown-rendered tr:hover td {
+    background:
+        rgba(var(--amber-rgb), 0.025);
 }
 
-.markdown-rendered mark a
-{
-    color: var(--red) !important;
-    font-weight: 600;
+
+/* ============================================================
+   BLOCKQUOTES
+   ============================================================ */
+
+.markdown-rendered blockquote {
+    color:
+        var(--hades-text-muted);
+
+    background:
+        rgba(var(--gold-rgb), 0.025);
+
+    border-left:
+        2px solid var(--hades-gold);
+
+    padding:
+        8px 14px;
 }
 
-.search-result-file-matched-text
-{
-    color: var(--text-highlight-fg) !important;
+
+/* ============================================================
+   HORIZONTAL RULES
+   ============================================================ */
+
+.markdown-rendered hr {
+    border:
+        none;
+
+    border-top:
+        1px solid rgba(var(--amber-rgb), 0.48);
 }
 
-.cm-hashtag-begin:hover, .cm-hashtag-end:hover
-{
-    color: var(--text-accent);
-    /* background-color: var(--tag-background-hover); */
-    text-decoration: underline;
-}
 
-input[type=checkbox]
-{
-    border: 1px solid var(--checkbox-color);
-}
-
-input[type=checkbox]:checked
-{
-    background-color: var(--checkbox-color);
-    box-shadow: inset 0 0 0 2px var(--background-primary);
-}
-
-input[type=checkbox]:checked:after
-{
-    display: none;
-}
-
-code[class*="language-"],
-pre[class*="language-"]
-{
-    line-height: var(--line-height-tight) !important;
-}
-
-.cm-url
-{
-    color: var(--link-url) !important;
-}
-
-.cm-url:hover
-{
-    color: var(--text-accent-color) !important;
-}
-
-/* Keep highlight/marks the same between viewer and editor. */
-.cm-highlight
-{
-    color: var(--text-highlight-fg) !important;
-}
-
-/* Keep inline code the same between viewer and editor. */
-.cm-inline-code
-{
-    border-radius: var(--radius-s);
-    font-size: var(--code-size);
-    padding: 0.1em 0.25em;
-}
-
-.cm-line .cm-strong
-{
-    color: var(--bold-color) !important;
-}
-
-/*
- * Keep list bullet padding the same between viewer and editor.
- * This is annoying with the cursor in the editor as there is a gap.
- */
-/*
-.cm-formatting-list
-{
-    padding-right: 4px !important;
-}
-*/
-
-/*
- * Keep sub-list indenting the same between viewer and editor.
- * This assumes --list-indent is default at 2em.
- */
-/*
-.cm-indent 
-{
-    text-indent: 1em !important;
-}
-*/
-
-.mermaid .note
-{
-    fill: var(--mermaid-note) !important;
-}
-
-.mermaid .actor
-{
-    fill: var(--mermaid-actor) !important;
-}
-
-.mermaid .loopLine
-{
-    stroke: var(--mermaid-loopline) !important;
-}
-
-.mermaid .loopText>tspan,
-.mermaid .entityLabel
-{
-    fill: var(--neutral-red) !important;
-}
-
-.mermaid .exclude-range
-{
-    fill: var(--mermaid-exclude) !important;
-}
-
-.mermaid .sequenceNumber
-{
-    fill: var(--mermaid-seqnum) !important;
-}
-
-.calendar .week-num
-{
-    color: var(--calendar-week) !important;
-}
-
-.calendar .today
-{
-    color: var(--calendar-today) !important;
-}
-
-.calendar .week-num:hover,
-.calendar .day:hover
-{
-    color: var(--calendar-hover) !important;
-    background-color: var(--calendar-background-hover) !important;
-}
-
-.markdown-embed-title
-{
-    color: var(--yellow);
-    font-weight: 600 !important;
-}
-
-.cm-active
-{
-    background-color: var(--cursor-line-background) !important;
-}
-
-.nav-file-tag
-{
-    color: var(--nav-file-tag) !important;
-}
-
-.is-flashing
-{
-    background-color: var(--flashing-background) !important;
-}
-
-.dataview.inline-field-key
-{
-    border-top-left-radius: var(--radius-s);
-    border-bottom-left-radius: var(--radius-s);
-    padding-left: 4px;
-    font-family: var(--font-monospace);
-    font-size: var(--font-smaller);
-    color: var(--dataview-key) !important;
-    background-color: var(--dataview-key-background) !important;
-}
-
-.dataview.inline-field-value
-{
-    border-top-right-radius: var(--radius-s);
-    border-bottom-right-radius: var(--radius-s);
-    padding-right: 4px;
-    font-family: var(--font-monospace);
-    font-size: var(--font-smaller);
-    color: var(--dataview-value) !important;
-    background-color: var(--dataview-value-background) !important;
-}
-
-.suggestion-highlight
-{
-    color: var(--bright-red);
-}
-
-body {
-    --callout-border-width: 1px;
-    --callout-border-opacity: 0.4;
-    /* Order as defined in app.css */
-    --callout-default: var(--neutral-blue_x);
-    --callout-note: var(--neutral-blue_x);
-    --callout-summary: var(--neutral-aqua_x);
-    --callout-info: var(--neutral-blue_x);
-    --callout-todo: var(--neutral-blue_x);
-    --callout-important: var(--neutral-aqua_x);
-    --callout-tip: var(--neutral-aqua_x);
-    --callout-success: var(--neutral-green_x);
-    --callout-question: var(--neutral-yellow_x);
-    --callout-warning: var(--neutral-orange_x);
-    --callout-fail: var(--neutral-red_x);
-    --callout-error: var(--neutral-red_x);
-    --callout-bug: var(--neutral-red_x);
-    --callout-example: var(--neutral-purple_x);
-    --callout-quote: var(--gray_x);
-}
+/* ============================================================
+   CALLOUTS
+   ============================================================ */
 
 .callout {
-    background-color: rgba(var(--callout-color), 0.2);
+    background:
+        rgba(var(--black-rgb), 0.38);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.25);
+
+    border-left:
+        2px solid var(--hades-gold);
+
+    border-radius:
+        4px;
+}
+
+.callout-title {
+    color:
+        var(--hades-amber);
+}
+
+.callout-icon {
+    color:
+        var(--hades-gold);
+}
+
+
+/* ============================================================
+   TAGS
+   ============================================================ */
+
+.tag {
+    color:
+        var(--hades-amber) !important;
+
+    background:
+        rgba(var(--gold-rgb), 0.065);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.22);
+
+    border-radius:
+        3px;
+}
+
+.tag:hover {
+    color:
+        var(--hades-text-bright) !important;
+
+    border-color:
+        var(--hades-amber);
+}
+
+
+/* ============================================================
+   PROPERTIES
+   ============================================================ */
+
+.metadata-container {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.20);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.18);
+
+    border-radius:
+        4px;
+}
+
+.metadata-property {
+    border-bottom:
+        1px solid rgba(var(--amber-rgb), 0.10);
+}
+
+.metadata-property:hover {
+    background:
+        rgba(var(--amber-rgb), 0.025);
+}
+
+.metadata-property-key {
+    color:
+        var(--hades-gold);
+}
+
+.metadata-property-value {
+    color:
+        var(--hades-text);
+}
+
+
+/* ============================================================
+   DATAVIEW
+   ============================================================ */
+
+.dataview.table-view-table {
+    background:
+        transparent;
+}
+
+.dataview.table-view-table th {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--gold-rgb), 0.055);
+
+    border-color:
+        rgba(var(--amber-rgb), 0.30);
+}
+
+.dataview.table-view-table td {
+    color:
+        var(--hades-text);
+
+    border-color:
+        rgba(var(--amber-rgb), 0.16);
+}
+
+.dataview.inline-field-key {
+    color:
+        var(--hades-gold);
+
+    background:
+        rgba(var(--rust-rgb), 0.10);
+}
+
+.dataview.inline-field-value {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--gold-rgb), 0.05);
+}
+
+
+/* ============================================================
+   SEARCH / INPUT
+   ============================================================ */
+
+.search-input-container input,
+input[type="search"],
+input[type="text"],
+textarea {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.58);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.24);
+
+    border-radius:
+        4px;
+}
+
+.search-input-container input:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+textarea:focus {
+    border-color:
+        var(--hades-amber);
+
+    box-shadow:
+        0 0 0 1px rgba(var(--amber-rgb), 0.12);
+
+    outline:
+        none;
+}
+
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+button {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--gold-rgb), 0.06);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.28);
+
+    border-radius:
+        4px;
+}
+
+button:hover {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.07);
+
+    border-color:
+        var(--hades-amber);
+}
+
+button.mod-cta {
+    color:
+        var(--hades-charcoal);
+
+    background:
+        var(--hades-gold);
+
+    border-color:
+        var(--hades-amber);
+}
+
+button.mod-cta:hover {
+    background:
+        var(--hades-amber);
+}
+
+
+/* ============================================================
+   CHECKBOXES
+   ============================================================ */
+
+input[type="checkbox"] {
+    border-radius:
+        2px;
+
+    border-color:
+        var(--hades-gold-dark);
+}
+
+input[type="checkbox"]:checked {
+    background:
+        var(--hades-gold);
+
+    border-color:
+        var(--hades-amber);
+}
+
+
+/* ============================================================
+   MENUS
+   ============================================================ */
+
+.menu {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.93);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.34);
+
+    border-radius:
+        5px;
+}
+
+.menu-item {
+    color:
+        var(--hades-text-muted);
+}
+
+.menu-item:hover,
+.menu-item.selected {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.055);
+}
+
+
+/* ============================================================
+   COMMAND PALETTE
+   ============================================================ */
+
+.prompt {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.93);
+
+    border:
+        1px solid var(--hades-gold);
+
+    border-radius:
+        5px;
+}
+
+.suggestion-item {
+    color:
+        var(--hades-text-muted);
+}
+
+.suggestion-item.is-selected {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.075);
+}
+
+
+/* ============================================================
+   MODALS
+   ============================================================ */
+
+.modal {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--charcoal-rgb), 0.94);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.36);
+
+    border-radius:
+        6px;
+}
+
+.modal-title {
+    color:
+        var(--hades-amber);
+}
+
+
+/* ============================================================
+   BACKLINKS / OUTGOING LINKS
+   ============================================================ */
+
+.backlink-pane,
+.outgoing-link-pane {
+    color:
+        var(--hades-text-muted);
+}
+
+.tree-item-self:hover {
+    color:
+        var(--hades-amber);
+
+    background:
+        rgba(var(--amber-rgb), 0.035);
+}
+
+
+/* ============================================================
+   EMBEDS
+   ============================================================ */
+
+.markdown-embed,
+.file-embed {
+    color:
+        var(--hades-text);
+
+    background:
+        rgba(var(--black-rgb), 0.20);
+
+    border-left:
+        2px solid var(--hades-gold);
+}
+
+
+/* ============================================================
+   STATUS BAR
+   ============================================================ */
+
+.status-bar {
+    color:
+        var(--hades-text-muted);
+
+    background:
+        rgba(var(--black-rgb), 0.52);
+
+    border:
+        1px solid rgba(var(--amber-rgb), 0.34);
+
+    border-bottom:
+        none;
+
+    border-radius:
+        5px 0 0 0;
+}
+
+
+/* ============================================================
+   SCROLLBARS
+   ============================================================ */
+
+::-webkit-scrollbar {
+    width:
+        7px;
+
+    height:
+        7px;
+}
+
+::-webkit-scrollbar-track {
+    background:
+        transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background:
+        rgba(var(--amber-rgb), 0.20);
+
+    border-radius:
+        4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background:
+        rgba(var(--amber-rgb), 0.42);
+}
+
+
+/* ============================================================
+   SELECTION
+   ============================================================ */
+
+::selection {
+    color:
+        var(--hades-text-bright);
+
+    background:
+        rgba(var(--rust-rgb), 0.48);
+}
+
+
+/* ============================================================
+   IMAGES
+   ============================================================ */
+
+.markdown-rendered img {
+    border-radius:
+        3px;
+}
+
+.markdown-rendered img:hover {
+    outline:
+        1px solid rgba(var(--amber-rgb), 0.25);
+}
+
+
+/* ============================================================
+   GRAPH
+   ============================================================ */
+
+.graph-view.color-fill {
+    color:
+        var(--hades-amber);
+}
+
+.graph-view.color-fill-highlight {
+    color:
+        var(--hades-orange);
+}
+
+.graph-view.color-line {
+    color:
+        var(--hades-gold-dim);
+}
+
+.graph-view.color-text {
+    color:
+        var(--hades-text);
+}
+
+
+/* ============================================================
+   FINAL HADES STRUCTURE
+   ============================================================ */
+
+/*
+ * Bright amber is the structural/interface color.
+ * Use thin lines, never giant amber slabs.
+ */
+
+.nav-header {
+    border-color:
+        rgba(var(--amber-rgb), 0.30);
+}
+
+.search-row {
+    border-color:
+        rgba(var(--amber-rgb), 0.30);
+}
+
+.workspace-sidedock-vault-profile {
+    border-color:
+        rgba(var(--amber-rgb), 0.36);
+}
+
+/*
+ * Avoid oversized modern pill styling.
+ */
+
+.multi-select-pill,
+.metadata-property-value .multi-select-pill {
+    border-radius:
+        3px;
 }
