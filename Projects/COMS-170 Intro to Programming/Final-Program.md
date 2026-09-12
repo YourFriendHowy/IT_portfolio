@@ -1,14 +1,17 @@
 ---
-obsidianUIMode: preview
-Language: Python 3
+id: Final-Program
+aliases: []
+tags: []
 Category: Programming
-Topic: COMS-170 Intro to Programming
-Type: Completed Code
-System: Any
-Element type: Code Block
-Source: Matthew Howard(Myself)
 Complexity: Intermediate
+Element type: "Code Block"
+Language: "Python 3"
 Last Edited: 2025-07-22
+Source: "Matthew Howard(Myself)"
+System: Any
+Topic: "COMS-170 Intro to Programming"
+Type: "Completed Code"
+obsidianUIMode: preview
 ---
 ```python
 
@@ -21,26 +24,26 @@ def main():  # menu
     print("********************************************************")
     print("             Welcome to the Cypher Module               ")
     print("********************************************************")
-    
+
     while menuSelect != "T":
         print("\nTo encrypt a message press [E]")
         print("To decrypt a message press [D]")
         print("To terminate program press [T]\n")
- 
+
         menuSelect = input("Please select an option from the menu: ").upper()
- 
+
         if menuSelect == "E":
             cypher()
-            outPut = "".join(charList) 
+            outPut = "".join(charList)
             print("\nYour Encrypted Message is:\n", outPut, sep = "")
- 
-            menuSelect = input("Press Enter to return to menu.")    
-  
+
+            menuSelect = input("Press Enter to return to menu.")
+
         elif menuSelect == "D":
             decypher()
-            outPut = "".join(charList).capitalize()          
-            print("\nYour decrypted Message is:\n", outPut, sep = "")          
-  
+            outPut = "".join(charList).capitalize()
+            print("\nYour decrypted Message is:\n", outPut, sep = "")
+
             menuSelect = input("Press Enter to return to menu.")
 
 def cypher(): # encodes user input
@@ -54,18 +57,18 @@ def cypher(): # encodes user input
         else:
             charList.append(indexChar)
 
-def decypher(): # decodes user input 
+def decypher(): # decodes user input
     charList.clear() #https://docs.python.org/3/library/stdtypes.html
     codeInp = input("\nPlease enter text to be decrypted:\n").upper()
     for s in codeInp:
-        try: 
+        try:
             indexChar = decrypt[encrypt.index(s)] #https://docs.python.org/3/library/stdtypes.html
         except:
             charList.append(s)
         else:
             charList.append(indexChar)
-            
-    
+
+
 
 main()
 
@@ -83,10 +86,10 @@ main()
 # Please select an option from the menu: e
 
 # Please enter text to be encrypted:
-# I would like to encrypt this message to show that this program works properly! 
+# I would like to encrypt this message to show that this program works properly!
 
 # Your Encrypted Message is:
-# N C20FK FNSP Y2 PW3ZUTY Y6N5 LP55GDP Y2 562C Y6GY Y6N5 TZ2DZGL C2ZS5 TZ2TPZFU! 
+# N C20FK FNSP Y2 PW3ZUTY Y6N5 LP55GDP Y2 562C Y6GY Y6N5 TZ2DZGL C2ZS5 TZ2TPZFU!
 
 # Press Enter to return to menu.d
 
