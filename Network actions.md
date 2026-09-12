@@ -39,28 +39,28 @@ Fixed — AP moves to VLAN10.
 
 **VLAN20 — Private Services (Tailscale/internal)**
 
-| Device (Codename)            | IP          | Hostname          |                        |
-| ---------------------------- | ----------- | ----------------- | ---------------------- |
-| Network Storage LXC (Moirai) | 10.42.20.10 | —                 | moirai.homelab.arpa    |
-| Atlas (host)                 | 10.42.20.20 | —                 | atlas.homelab.arpa     |
-| Termix (Charon)              | 10.42.20.20 | 8081              | termix.homelab.arpa    |
-| MediaMTX (Clotho)            | 10.42.20.20 | 1935, 8888-8889   | — (no webUI)           |
-| Jellyfin (Atropos)           | 10.42.20.20 | 8096              | jellyfin.homelab.arpa  |
-| Gitea (Clio)                 | 10.42.20.20 | 3000, 222 (ssh)   | git.homelab.arpa       |
-| Foundry VTT (Arges)          | 10.42.20.20 | 30000             | foundry.homelab.arpa   |
-| Uptime Kuma (Argus)          | 10.42.20.20 | 3002              | argus.homelab.arpa     |
-| Loki                         | 10.42.20.20 | 3100              | — (no webUI)           |
-| Alloy (Mercury)              | 10.42.20.20 | 12345             | — (no webUI)           |
-| Actual Budget (Midas)        | 10.42.20.20 | 5006              | midas.homelab.arpa     |
-| Paperless-ngx (Mnemosyne)    | 10.42.20.20 | 8010              | mnemosyne.homelab.arpa |
-| Immich (Narcissus)           | 10.42.20.20 | 2283              | narcissus.homelab.arpa |
-| Portainer (Poseidon)         | 10.42.20.20 | 9000              | poseidon.homelab.arpa  |
-| CouchDB (Pythia)             | 10.42.20.20 | 5984              | — (no webUI needed)    |
-| Grafana (Urania)             | 10.42.20.20 | 3001              | urania.homelab.arpa    |
-| Firefly III (Pactolus)       | 10.42.20.20 | 8030              | pactolus.homelab.arpa  |
-| RecipeSage (Demeter)         | 10.42.20.20 | 8020              | demeter.homelab.arpa   |
-| Styx (Postgres)              | 10.42.20.20 | — (internal only) | —                      |
-| Homepage (Janus)             | 10.42.20.20 | 3003              | janus.homelab.arpa     |
+| Device (Codename)            | IP          | Hostname          | Local Domain           | Cloudflare Status |
+| ---------------------------- | ----------- | ----------------- | ---------------------- | ----------------- |
+| Network Storage LXC (Moirai) | 10.42.20.10 | —                 | moirai.homelab.arpa    | local only        |
+| Atlas (host)                 | 10.42.20.20 | —                 | atlas.homelab.arpa     | local only        |
+| Termix (Charon)              | 10.42.20.20 | 8081              | termix.homelab.arpa    | tunneled          |
+| MediaMTX (Clotho)            | 10.42.20.20 | 1935, 8888-8889   | — (no webUI)           | local only        |
+| Jellyfin (Atropos)           | 10.42.20.20 | 8096              | jellyfin.homelab.arpa  | tunneled          |
+| Gitea (Clio)                 | 10.42.20.20 | 3000, 222 (ssh)   | git.homelab.arpa       | local only        |
+| Foundry VTT (Arges)          | 10.42.20.20 | 30000             | foundry.homelab.arpa   | tunneled          |
+| Uptime Kuma (Argus)          | 10.42.20.20 | 3002              | argus.homelab.arpa     | local only        |
+| Loki                         | 10.42.20.20 | 3100              | — (no webUI)           | local only        |
+| Alloy (Mercury)              | 10.42.20.20 | 12345             | — (no webUI)           | local only        |
+| Actual Budget (Midas)        | 10.42.20.20 | 5006              | midas.homelab.arpa     | local only        |
+| Paperless-ngx (Mnemosyne)    | 10.42.20.20 | 8010              | mnemosyne.homelab.arpa | local only        |
+| Immich (Narcissus)           | 10.42.20.20 | 2283              | narcissus.homelab.arpa | local only        |
+| Portainer (Poseidon)         | 10.42.20.20 | 9000              | poseidon.homelab.arpa  | local only        |
+| CouchDB (Pythia)             | 10.42.20.20 | 5984              | — (no webUI needed)    | local only        |
+| Grafana (Urania)             | 10.42.20.20 | 3001              | urania.homelab.arpa    | local only        |
+| Firefly III (Pactolus)       | 10.42.20.20 | 8030              | pactolus.homelab.arpa  | local only        |
+| RecipeSage (Demeter)         | 10.42.20.20 | 8020              | demeter.homelab.arpa   | local only        |
+| Styx (Postgres)              | 10.42.20.20 | — (internal only) | —                      | local only        |
+| Homepage (Janus)             | 10.42.20.20 | 3003              | janus.homelab.arpa     | local only        |
 
 
 **VLAN30 — Public Services (Tailscale Funnel / edge)**
