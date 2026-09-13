@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Study Material/CompTIA Security+/Acronyms.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cheatSheet"
+              "title": "Acronyms"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_Tips/cheatSheet.md",
+                "file": "Study Material/CompTIA Security+/Acronyms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -287,9 +287,12 @@
   },
   "active": "50d7574ed7578d5d",
   "lastOpenFiles": [
+    "GIT_Tips/cheatSheet.md",
+    "Study Material/CompTIA Security+/Acronyms.md",
+    "Study Material/CompTIA Security+",
+    "Study Material",
     "Vim_Tips/Cheatsheet.md",
     "Network actions.md",
-    "GIT_Tips/cheatSheet.md",
     "Resume.md",
     "Homelab/RaspberryPi.md",
     "Homelab.md",
@@ -314,7 +317,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/optionsLua.md",
     "Homelab/Desktop/Terminal/nvim/lua/config/lazyLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/keymapsLua.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
@@ -331,8 +333,6 @@
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/theme.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitter.lua",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-tree.lua",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvim.lua",
     "Homelab_Diagram.canvas",
     "Untitled 3/Untitled 3.canvas"
   ]
