@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.md",
+                "file": "Homelab/Homelab.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "43b0fb3b15c80cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homelab/Network actions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Network actions"
+            }
+          },
+          {
             "id": "3b02a7a533772dcf",
             "type": "leaf",
             "state": {
@@ -70,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab.md",
+                "file": "Homelab/Network actions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -285,12 +309,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "50d7574ed7578d5d",
+  "active": "43b0fb3b15c80cb5",
   "lastOpenFiles": [
+    "Homelab/Homelab.md",
+    "Homelab/Network Host/Network Host.md",
+    "Homelab/Network actions.md",
+    "Homelab/Homelab Requirements.md",
     "Homelab/RaspberryPi.md",
     "Homelab/Template for dotfile.md",
     "Homelab/Cisco Switch.md",
-    "Homelab/Network Host/Network Host.md",
     "Homelab/Home Server/Atlas.md",
     "Homelab/Home Server/Home Server.md",
     "Homelab/Home Server/Moirai.md",
@@ -306,9 +333,6 @@
     "Desktop/rofiConfig.md",
     "Desktop/HyprlandConf.md",
     "Homelab/Network Host/pfSense.md",
-    "Network actions.md",
-    "Homelab Requirements.md",
-    "Homelab.md",
     "CHANGELOG.md",
     "About Me.md",
     "z_templates/skill_template.md",
