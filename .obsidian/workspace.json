@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab/Network actions.md",
+                "file": "Resume.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,11 +309,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "43b0fb3b15c80cb5",
+  "active": "6a2c602f2f68f60d",
   "lastOpenFiles": [
+    "Homelab/Network actions.md",
     "Homelab/Homelab.md",
     "Homelab/Network Host/Network Host.md",
-    "Homelab/Network actions.md",
     "Homelab/Homelab Requirements.md",
     "Homelab/RaspberryPi.md",
     "Homelab/Template for dotfile.md",
