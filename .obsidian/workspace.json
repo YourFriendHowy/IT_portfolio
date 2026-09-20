@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 234.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -309,7 +309,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a2c602f2f68f60d",
+  "active": "43b0fb3b15c80cb5",
   "lastOpenFiles": [
     "Homelab/Network actions.md",
     "Homelab/Homelab.md",
