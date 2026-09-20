@@ -10,11 +10,11 @@
 
 `10.42.10.*` = *VLAN10; AP and guest connectivity*
 
-`10.42.15.*` = *VLAN15; Proxmox services2*
-
 `10.42.20.*` = *VLAN20; private services with tailscale tunnel
 
 `10.42.30.*` = *VLAN30; public services with tailscale funnel*
+
+`10.42.50.*` = *VLAN50; pi-hole segment
 
 `10.42.99.*` = *VLAN99;Network management plane, network services(firewall, AP control panel, pihole control panel, upstream PI access.*
 
