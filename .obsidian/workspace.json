@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Material/CompTIA Security+/Acronyms.md",
+                "file": "Notes/Vim_Tips/Cheatsheet.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acronyms"
+              "title": "Cheatsheet"
             }
           },
           {
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Material/CompTIA Security+/Acronyms.md",
+                "file": "Notes/Vim_Tips/Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 305.5
   },
   "right": {
     "id": "69b430577b55bc8e",
@@ -285,13 +285,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "50d7574ed7578d5d",
+  "active": "6a2c602f2f68f60d",
   "lastOpenFiles": [
-    "GIT_Tips/cheatSheet.md",
+    "Notes/Networking/Networking_Basics.md",
+    "Notes/Networking/Vlan.md",
+    "Linux_Notes/LearnLinuxTV/User and Group management.md",
+    "Notes/GIT_Tips/cheatSheet.md",
+    "Excalidraw/TUI_crypto_app.excalidraw.md",
+    "Glossary/PID.md",
+    "Notes",
+    "Linux_Notes/Custom_Settings.md",
     "Study Material/CompTIA Security+/Acronyms.md",
     "Study Material/CompTIA Security+",
     "Study Material",
-    "Vim_Tips/Cheatsheet.md",
+    "Notes/Vim_Tips/Cheatsheet.md",
     "Network actions.md",
     "Resume.md",
     "Homelab/RaspberryPi.md",
@@ -303,20 +310,14 @@
     "Homelab/Cisco Switch.md",
     "Homelab Requirements.md",
     "Skills and Practical Experience.md",
-    "Excalidraw/TUI_crypto_app.excalidraw.md",
     "z_resources/z-Images/Pasted image 20260518184936.png",
     "Excalidraw",
-    "Homelab/Desktop/Terminal/ZSH/zshrc.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/initLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
-    "Homelab/Desktop/Terminal/nvim/initLua.md",
-    "Homelab/Desktop/Terminal/nvim/lazy-lockJSON.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treeLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/lualine-nvimLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/fzf-luaLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/optionsLua.md",
-    "Homelab/Desktop/Terminal/nvim/lua/config/lazyLua.md",
+    "Desktop/Terminal/ZSH/zshrc.md",
+    "Desktop/Terminal/nvim/lua/plugins/whichkeyLua.md",
+    "Desktop/Terminal/nvim/lua/config/initLua.md",
+    "Desktop/Terminal/nvim/lua/plugins/mini-nvimLua.md",
+    "Desktop/Terminal/nvim/initLua.md",
+    "Desktop/Terminal/nvim/lazy-lockJSON.md",
     "Certifications/CompTIA A+ ce certificate.pdf",
     "z_resources/z-Images/Pasted image 20260126182730.png",
     "z_resources/z-Images/Pasted image 20241208103922.png",
@@ -327,12 +328,11 @@
     "z_resources/z-Images/Pasted image 20250723214634.png",
     "z_resources/z-Images/Pasted image 20250723221731.png",
     "z_resources/z-Images/Pasted image 20250723221815.png",
-    "Homelab/Desktop/Terminal/ZSH/oh-my-zsh",
+    "Desktop/Terminal/ZSH/oh-my-zsh",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/whichkey.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/webdev-icons.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/toggleterm.lua",
     "Homelab/Desktop/Terminal/nvim/lua/plugins/theme.lua",
-    "Homelab/Desktop/Terminal/nvim/lua/plugins/nvim-treesitter.lua",
     "Homelab_Diagram.canvas",
     "Untitled 3/Untitled 3.canvas"
   ]

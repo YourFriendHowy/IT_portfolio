@@ -28,7 +28,7 @@ Last Edited: 2025-07-22
 > Function| `=this.Function`
 > Shortcut|`=this.Shortcut`
 > # Important
-> - *[[Linux_Notes/LearnLinuxTV/Notes/systemd#systemctl|Documentation]]* 
+> - *[[systemd#systemctl|Documentation]]* 
 
 | Flag/Action/Keyword | Meaning | Effect                        | Example |
 | ------------------- | ------- | ----------------------------- | ------- |
